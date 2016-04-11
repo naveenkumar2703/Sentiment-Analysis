@@ -59,7 +59,7 @@ def extractedDictOfWordsFreq(srcFolder):
 def main():
     
     print("...Filtering the data...")
-    srcFolder = 'C:/Users/hassan/Desktop/final project/yelp-dataset/file'
+    srcFolder = 'filePath'
 
     extractedDictOfWordsFreq(srcFolder)
 
