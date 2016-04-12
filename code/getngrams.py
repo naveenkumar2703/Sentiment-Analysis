@@ -62,10 +62,5 @@ for line in f:
 		_2prevTup=prevTup
 		prevTup=tup
 minsupport=2 #to eliminate items with support <=1
-#wordFrequencyDict={[key1][key2]: value for key1,key2,value in wordsFreqDict.items() if value>minsupport}
-print wordsFreqDict['1']
-print wordsFreqDict.keys()
 f.close()
-
-	#adj,Noun(JJ NN)
-	#
+print wordsFreqDict
