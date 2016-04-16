@@ -24,11 +24,13 @@ prevTup=("","")
 wordsFreqDict={}
 for line in f:
 	seperateReview=line.split('\t')
+	wordCount=[]
 	star=seperateReview[0]
 	review=seperateReview[1].strip()
 	if star not in wordsFreqDict:
 		wordsFreqDict[star]= {}
 	tokenizedWords=word_tokenize(review)
+	#todo convert it to singular word
 	postaggedWords=nltk.pos_tag(tokenizedWords)
 	nouns=['NN','NNS','NNP','NNPS']
 	for tup in postaggedWords:
@@ -38,29 +40,52 @@ for line in f:
 				ngram=str(_3prevTup[0])+" "+str(_2prevTup[0])+" "+str(prevTup[0])+" "+str(tup[0])
 				n_1gram=str(_3prevTup[0])+" "+str(_2prevTup[0])+" "+str(prevTup[0])
 				n_1gram=n_1gram.lower()
-				wordsFreqDict=addToDict(wordsFreqDict,star,ngram)
-				try:
-					wordsFreqDict[star][n_1gram]-=1
-				except KeyError:  #code for ignoring higher n grams
-					continue
+				if(ngram not in wordCount):
+					wordsFreqDict=addToDict(wordsFreqDict,star,ngram)
+					wordCount.append(ngram)
+					try:
+						wordsFreqDict[star][n_1gram]-=1
+					except KeyError:  #code for ignoring higher n grams
+						continue
 			elif _2prevTup[1] in nouns and prevTup[1] in nouns:  # for 3-gram
 				ngram=str(_2prevTup[0])+" "+str(prevTup[0])+" "+str(tup[0])
 				n_1gram=str(_2prevTup[0])+" "+str(prevTup[0])
 				n_1gram=n_1gram.lower()
-				wordsFreqDict=addToDict(wordsFreqDict,star,ngram)
-				wordsFreqDict[star][n_1gram]-=1
+				if(ngram not in wordCount):
+					wordsFreqDict=addToDict(wordsFreqDict,star,ngram)
+					wordCount.append(ngram)
+					wordsFreqDict[star][n_1gram]-=1
 			elif prevTup[1] in nouns: # for 2-gram
 				ngram=str(prevTup[0])+" "+str(tup[0])
 				n_1gram=str(prevTup[0])
 				n_1gram=n_1gram.lower()
-				wordsFreqDict=addToDict(wordsFreqDict,star,ngram)
-				wordsFreqDict[star][n_1gram]-=1
+				if(ngram not in wordCount):
+					wordsFreqDict=addToDict(wordsFreqDict,star,ngram)
+					wordCount.append(ngram)
+					wordsFreqDict[star][n_1gram]-=1
 			else:
 				_1gram.append(str(tup[0])) #for 1-gram
-				wordsFreqDict=addToDict(wordsFreqDict,star,str(tup[0]))
+				if (str(tup[0]) not in wordCount):
+					wordsFreqDict=addToDict(wordsFreqDict,star,str(tup[0]))
+					wordCount.append(str(tup[0]))
 		_3prevTup=_2prevTup
 		_2prevTup=prevTup
 		prevTup=tup
-minsupport=2 #to eliminate items with support <=1
+minsupport=0 #to eliminate items with support <=1
+wordFrequencyDict1={key: value for key,value in wordsFreqDict['1'].items() if value>minsupport}
+wordFrequencyDict2={key: value for key,value in wordsFreqDict['2'].items() if value>minsupport}
+wordFrequencyDict3={key: value for key,value in wordsFreqDict['3'].items() if value>minsupport}
+wordFrequencyDict4={key: value for key,value in wordsFreqDict['4'].items() if value>minsupport}
+wordFrequencyDict5={key: value for key,value in wordsFreqDict['5'].items() if value>minsupport}
+wordFrequencyList=[]
+
+
+wordFrequencyList.append(wordFrequencyDict1)
+wordFrequencyList.append(wordFrequencyDict2)
+wordFrequencyList.append(wordFrequencyDict3)
+wordFrequencyList.append(wordFrequencyDict4)
+wordFrequencyList.append(wordFrequencyDict5)
+print (wordFrequencyList)
+# for wordlist in wordFrequencyList:
+# 	print wordlist
 f.close()
-print wordsFreqDict
