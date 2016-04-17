@@ -74,7 +74,7 @@ def createJson(wordFrequencyList,fileName):
 			d={key:{"count":wordsWithCondition[key],"ratio":ratioDict[key]}}
 			json.dump(d,fp,sort_keys=True,indent=2)
 	fp.close()
-	print ".......json File %s created" % fileName[:-4]+".json"
+	print ".......json File %s created" % fileName[:-4]
 	return 
 
 
