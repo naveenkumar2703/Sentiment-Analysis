@@ -127,7 +127,10 @@ for fileName in os.listdir(popularBusinessPath):
 					if(ngram not in wordCount):
 						wordsFreqDict=addToDict(wordsFreqDict,star,ngram)
 						wordCount.append(ngram)
-						wordsFreqDict[star][n_1gram]-=1
+						try:
+							wordsFreqDict[star][n_1gram]-=1
+						except KeyError:  #code for ignoring higher n grams
+							continue
 				elif prevTup[1] in nouns: # for 2-gram
 					ngram=str(prevTup[0])+" "+str(tup[0])
 					n_1gram=str(prevTup[0])
