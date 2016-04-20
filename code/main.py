@@ -151,11 +151,14 @@ for fileName in os.listdir(popularBusinessPath):
 			_2prevTup=prevTup
 			prevTup=tup
 	minsupport=0 #to eliminate items with support <=1
-	wordFrequencyDict1={key: value for key,value in wordsFreqDict['1'].items() if value>minsupport}
-	wordFrequencyDict2={key: value for key,value in wordsFreqDict['2'].items() if value>minsupport}
-	wordFrequencyDict3={key: value for key,value in wordsFreqDict['3'].items() if value>minsupport}
-	wordFrequencyDict4={key: value for key,value in wordsFreqDict['4'].items() if value>minsupport}
-	wordFrequencyDict5={key: value for key,value in wordsFreqDict['5'].items() if value>minsupport}
+	try:
+		wordFrequencyDict1={key: value for key,value in wordsFreqDict['1'].items() if value>minsupport}
+		wordFrequencyDict2={key: value for key,value in wordsFreqDict['2'].items() if value>minsupport}
+		wordFrequencyDict3={key: value for key,value in wordsFreqDict['3'].items() if value>minsupport}
+		wordFrequencyDict4={key: value for key,value in wordsFreqDict['4'].items() if value>minsupport}
+		wordFrequencyDict5={key: value for key,value in wordsFreqDict['5'].items() if value>minsupport}
+	except KeyError:  #code for ignoring higher n grams
+		 continue
 	wordFrequencyList=[]
 
 
