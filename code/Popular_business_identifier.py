@@ -5,9 +5,9 @@ import os
 import shutil
 
 
-srcFolder = '/Users/naveenkumar2703/GitHub/Sentiment-Analysis/Data/yelp-dataset/'
-destFolder = '/Users/naveenkumar2703/GitHub/Sentiment-Analysis/Data/Popular business/'
-minNumberOfReviews = 50
+srcFolder = '/Users/naveenkumar2703/GitHub/Sentiment-Analysis/Data/Very Popular business/'
+destFolder = '/Users/naveenkumar2703/GitHub/Sentiment-Analysis/Data/Very Popular business 1/'
+minNumberOfReviews = 300
 
 def countNumberOfLines(fileName):
     file = open(fileName,'r')

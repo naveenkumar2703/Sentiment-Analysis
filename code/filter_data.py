@@ -46,7 +46,7 @@ def read_directory_and_tagger(dirname):
     
 def main():
     print("...Filtering the data...")
-    read_directory_and_tagger("C:/Users/hassan/Desktop/final project/yelp-dataset")
+    read_directory_and_tagger("/Users/naveenkumar2703/GitHub/Sentiment-Analysis/Data/For analysis/")
     print("...Done...")
     
 ##    extract_business_review()

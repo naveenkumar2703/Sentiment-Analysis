@@ -1,0 +1,151 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title>Sentiment analysis project</title>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/d3/3.5.16/d3.min.js"></script>
+    <link href='https://fonts.googleapis.com/css?family=Open+Sans' rel='stylesheet' type='text/css'>
+    <style>
+    
+      .axis text {
+        font-family: 'Open Sans', sans-serif;
+        font-size: 16pt;
+      }
+      .axis .label {
+        font-size: 20pt;
+      }
+
+      .axis path, .axis line {
+        fill: none;
+        stroke: #000;
+        shape-rendering: crispEdges;
+      }
+
+      .x.axis text {
+        font-size: 12pt;
+      }
+
+    </style>
+  </head>
+  <body>
+    <h1>Business feedback based on user reviews</h1>
+    <form action="action_page.php" method="get">
+      <output>Select a business: </output>
+      <input list="business_id" name="business_id" oninput="onSelectBusiness(this.value)">
+      <datalist id="business_id">
+        <option value="abcfasfasdfasdfasdfasdfasfdasfasfdasdf"/>
+        <option value="abcd"/>
+      </datalist>
+    
+    
+    <h2>Features of selected business</h2>
+      <table id="features_table" border="1" width = "75%">
+          <tr>
+    <th>Bad</th>
+    <th>Average</th> 
+    <th>Good</th>
+  </tr>
+  <tr>
+    <td>Alcohol</td>
+    <td>service</td> 
+    <td>price</td>
+  </tr>
+      </table>
+      <br/>
+      <output>Select a feature: </output>
+      <input list="feature_id" name="feature_id" oninput="onSelectFeature(this.value)">
+      <datalist id="feature_id">
+        <option value="feature1"/>
+        <option value="feature2"/>
+      </datalist>
+      <br/>
+</form>
+    <script>
+    window.onload = function(){
+        var file = "file:///Users/naveenkumar2703/GitHub/Sentiment-Analysis/code/very_popular_business.txt";
+   var rawFile = new XMLHttpRequest();
+    rawFile.open("GET", file, false);
+    var allText
+    rawFile.onreadystatechange = function ()
+    {
+        if(rawFile.readyState === 4)
+        {
+            if(rawFile.status === 200 || rawFile.status == 0)
+            {
+                var allText = rawFile.responseText;
+                alert(allText);
+            }
+        }
+    }
+    rawFile.send(null);
+
+}
+      var outerWidth = 500;
+      var outerHeight = 250;
+      var margin = { left: 40, top: 30, right: 30, bottom: 30 };
+      var barPadding = 0.2;
+
+      var xColumn = "rating";
+      var yColumn = "count";
+
+      var innerWidth  = outerWidth  - margin.left - margin.right;
+      var innerHeight = outerHeight - margin.top  - margin.bottom;
+
+      var svg = d3.select("body").append("svg")
+        .attr("width",  outerWidth)
+        .attr("height", outerHeight);
+      var g = svg.append("g")
+        .attr("transform", "translate(" + margin.left + "," + margin.top + ")");
+      var xAxisG = g.append("g")
+        .attr("class", "x axis")
+        .attr("transform", "translate(0," + innerHeight + ")");
+      var yAxisG = g.append("g")
+        .attr("class", "y axis");
+
+      var xScale = d3.scale.ordinal().rangeBands([0, innerWidth], barPadding);
+      var yScale = d3.scale.linear().range([innerHeight, 0]);
+      var colorScale = d3.scale.ordinal();
+      colorScale.range(["#009900","#00ff00","#ffff00","#ff751a","#e60000"]);
+
+      var xAxis = d3.svg.axis().scale(xScale).orient("bottom")
+        .outerTickSize(0);
+      var yAxis = d3.svg.axis().scale(yScale).orient("left")
+        .ticks(5)
+        .outerTickSize(0);
+
+      function render(data){
+
+        xScale.domain(       data.map( function (d){ return d[xColumn]; }));
+        yScale.domain([0, d3.max(data, function (d){ return d[yColumn]; })]);
+
+        xAxisG.call(xAxis);
+        yAxisG.call(yAxis);
+
+        var bars = g.selectAll("rect").data(data);
+        bars.enter().append("rect")
+          .attr("width", xScale.rangeBand());
+        bars
+          .attr("x",      function (d){ return               xScale(d[xColumn]); })
+          .attr("y",      function (d){ return               yScale(d[yColumn]); })
+          .attr("height", function (d){ return innerHeight - yScale(d[yColumn]); })
+          .attr("fill", function (d){ return colorScale(d[yColumn]); });
+        bars.exit().remove();
+      }
+
+      function onSelectBusiness(business_id){
+        alert('selected'+business_id)
+      }
+      
+      function onSelectFeature(feature_id){
+        alert('selected'+feature_id)
+      }
+
+      var data = [{rating:"5*",count:1},{rating:"4*",count:2},{rating:"3*",count:3},{rating:"2*",count:0},{rating:"1*",count:0}];
+      render(data);
+      
+       
+
+    </script>
+
+  </body>
+</html>
