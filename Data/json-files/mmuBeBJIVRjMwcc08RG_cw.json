@@ -1,0 +1,1921 @@
+{
+  "features": [
+    {
+      "name": "teller",
+      "performance": "Good",
+      "star_1": 4,
+      "star_2": 15,
+      "star_3": 17,
+      "star_4": 50,
+      "star_5": 73
+    },
+    {
+      "name": "days",
+      "performance": "Average",
+      "star_1": 0,
+      "star_2": 0,
+      "star_3": 2,
+      "star_4": 0,
+      "star_5": 4
+    },
+    {
+      "name": "minutes",
+      "performance": "Average",
+      "star_1": 0,
+      "star_2": 4,
+      "star_3": 6,
+      "star_4": 4,
+      "star_5": 11
+    },
+    {
+      "name": "section",
+      "performance": "Good",
+      "star_1": 0,
+      "star_2": 0,
+      "star_3": 0,
+      "star_4": 2,
+      "star_5": 3
+    },
+    {
+      "name": "vegas show",
+      "performance": "Good",
+      "star_1": 0,
+      "star_2": 2,
+      "star_3": 0,
+      "star_4": 3,
+      "star_5": 4
+    },
+    {
+      "name": "greet",
+      "performance": "Good",
+      "star_1": 0,
+      "star_2": 0,
+      "star_3": 0,
+      "star_4": 2,
+      "star_5": 8
+    },
+    {
+      "name": "lights",
+      "performance": "Average",
+      "star_1": 0,
+      "star_2": 2,
+      "star_3": 0,
+      "star_4": 2,
+      "star_5": 4
+    },
+    {
+      "name": "camera",
+      "performance": "Good",
+      "star_1": 0,
+      "star_2": 0,
+      "star_3": 0,
+      "star_4": 0,
+      "star_5": 5
+    },
+    {
+      "name": "tickets",
+      "performance": "Average",
+      "star_1": 0,
+      "star_2": 6,
+      "star_3": 15,
+      "star_4": 17,
+      "star_5": 30
+    },
+    {
+      "name": "magicians",
+      "performance": "Good",
+      "star_1": 0,
+      "star_2": 0,
+      "star_3": 0,
+      "star_4": 4,
+      "star_5": 12
+    },
+    {
+      "name": "anything",
+      "performance": "Average",
+      "star_1": 0,
+      "star_2": 5,
+      "star_3": 3,
+      "star_4": 7,
+      "star_5": 15
+    },
+    {
+      "name": "rights",
+      "performance": "Average",
+      "star_1": 2,
+      "star_2": 0,
+      "star_3": 2,
+      "star_4": 0,
+      "star_5": 5
+    },
+    {
+      "name": "front",
+      "performance": "Average",
+      "star_1": 0,
+      "star_2": 2,
+      "star_3": 3,
+      "star_4": 5,
+      "star_5": 3
+    },
+    {
+      "name": "audience participation",
+      "performance": "Good",
+      "star_1": 0,
+      "star_2": 0,
+      "star_3": 0,
+      "star_4": 8,
+      "star_5": 13
+    },
+    {
+      "name": "surprise",
+      "performance": "Good",
+      "star_1": 0,
+      "star_2": 0,
+      "star_3": 0,
+      "star_4": 2,
+      "star_5": 4
+    },
+    {
+      "name": "ticket",
+      "performance": "Average",
+      "star_1": 0,
+      "star_2": 0,
+      "star_3": 7,
+      "star_4": 6,
+      "star_5": 5
+    },
+    {
+      "name": "words",
+      "performance": "Good",
+      "star_1": 0,
+      "star_2": 0,
+      "star_3": 0,
+      "star_4": 0,
+      "star_5": 5
+    },
+    {
+      "name": "place",
+      "performance": "Good",
+      "star_1": 0,
+      "star_2": 0,
+      "star_3": 0,
+      "star_4": 4,
+      "star_5": 3
+    },
+    {
+      "name": "thing",
+      "performance": "Average",
+      "star_1": 0,
+      "star_2": 6,
+      "star_3": 6,
+      "star_4": 6,
+      "star_5": 13
+    },
+    {
+      "name": "family",
+      "performance": "Average",
+      "star_1": 0,
+      "star_2": 0,
+      "star_3": 3,
+      "star_4": 0,
+      "star_5": 4
+    },
+    {
+      "name": "heart",
+      "performance": "Good",
+      "star_1": 0,
+      "star_2": 0,
+      "star_3": 0,
+      "star_4": 3,
+      "star_5": 2
+    },
+    {
+      "name": "wooden box",
+      "performance": "Good",
+      "star_1": 0,
+      "star_2": 0,
+      "star_3": 0,
+      "star_4": 2,
+      "star_5": 3
+    },
+    {
+      "name": "review",
+      "performance": "Average",
+      "star_1": 0,
+      "star_2": 3,
+      "star_3": 2,
+      "star_4": 0,
+      "star_5": 2
+    },
+    {
+      "name": "sign autographs",
+      "performance": "Good",
+      "star_1": 0,
+      "star_2": 0,
+      "star_3": 0,
+      "star_4": 2,
+      "star_5": 10
+    },
+    {
+      "name": "stage",
+      "performance": "Good",
+      "star_1": 2,
+      "star_2": 6,
+      "star_3": 3,
+      "star_4": 21,
+      "star_5": 28
+    },
+    {
+      "name": "penn",
+      "performance": "Good",
+      "star_1": 6,
+      "star_2": 16,
+      "star_3": 23,
+      "star_4": 55,
+      "star_5": 100
+    },
+    {
+      "name": "one",
+      "performance": "Good",
+      "star_1": 0,
+      "star_2": 0,
+      "star_3": 0,
+      "star_4": 3,
+      "star_5": 6
+    },
+    {
+      "name": "magic shows",
+      "performance": "Good",
+      "star_1": 0,
+      "star_2": 0,
+      "star_3": 0,
+      "star_4": 2,
+      "star_5": 7
+    },
+    {
+      "name": "everything",
+      "performance": "Average",
+      "star_1": 0,
+      "star_2": 3,
+      "star_3": 4,
+      "star_4": 6,
+      "star_5": 8
+    },
+    {
+      "name": "middle",
+      "performance": "Good",
+      "star_1": 0,
+      "star_2": 0,
+      "star_3": 0,
+      "star_4": 4,
+      "star_5": 2
+    },
+    {
+      "name": "go",
+      "performance": "Average",
+      "star_1": 0,
+      "star_2": 2,
+      "star_3": 0,
+      "star_4": 0,
+      "star_5": 4
+    },
+    {
+      "name": "bullshit",
+      "performance": "Good",
+      "star_1": 0,
+      "star_2": 2,
+      "star_3": 0,
+      "star_4": 0,
+      "star_5": 9
+    },
+    {
+      "name": "shuttle",
+      "performance": "Average",
+      "star_1": 0,
+      "star_2": 0,
+      "star_3": 3,
+      "star_4": 3,
+      "star_5": 2
+    },
+    {
+      "name": "stuff",
+      "performance": "Average",
+      "star_1": 0,
+      "star_2": 3,
+      "star_3": 3,
+      "star_4": 8,
+      "star_5": 9
+    },
+    {
+      "name": "bass",
+      "performance": "Good",
+      "star_1": 0,
+      "star_2": 0,
+      "star_3": 2,
+      "star_4": 9,
+      "star_5": 9
+    },
+    {
+      "name": "husband",
+      "performance": "Good",
+      "star_1": 0,
+      "star_2": 0,
+      "star_3": 0,
+      "star_4": 2,
+      "star_5": 10
+    },
+    {
+      "name": "teller fan",
+      "performance": "Good",
+      "star_1": 0,
+      "star_2": 0,
+      "star_3": 0,
+      "star_4": 2,
+      "star_5": 3
+    },
+    {
+      "name": "balcony",
+      "performance": "Average",
+      "star_1": 0,
+      "star_2": 2,
+      "star_3": 2,
+      "star_4": 4,
+      "star_5": 5
+    },
+    {
+      "name": "envelope",
+      "performance": "Good",
+      "star_1": 0,
+      "star_2": 2,
+      "star_3": 0,
+      "star_4": 3,
+      "star_5": 8
+    },
+    {
+      "name": "fact",
+      "performance": "Good",
+      "star_1": 0,
+      "star_2": 0,
+      "star_3": 0,
+      "star_4": 7,
+      "star_5": 13
+    },
+    {
+      "name": "moment",
+      "performance": "Good",
+      "star_1": 0,
+      "star_2": 0,
+      "star_3": 0,
+      "star_4": 4,
+      "star_5": 4
+    },
+    {
+      "name": "act",
+      "performance": "Average",
+      "star_1": 0,
+      "star_2": 8,
+      "star_3": 2,
+      "star_4": 8,
+      "star_5": 15
+    },
+    {
+      "name": "evening",
+      "performance": "Good",
+      "star_1": 0,
+      "star_2": 0,
+      "star_3": 0,
+      "star_4": 2,
+      "star_5": 4
+    },
+    {
+      "name": "commentary",
+      "performance": "Good",
+      "star_1": 0,
+      "star_2": 0,
+      "star_3": 0,
+      "star_4": 6,
+      "star_5": 8
+    },
+    {
+      "name": "something",
+      "performance": "Average",
+      "star_1": 0,
+      "star_2": 5,
+      "star_3": 5,
+      "star_4": 10,
+      "star_5": 11
+    },
+    {
+      "name": "seat",
+      "performance": "Average",
+      "star_1": 0,
+      "star_2": 3,
+      "star_3": 2,
+      "star_4": 4,
+      "star_5": 7
+    },
+    {
+      "name": "psychics",
+      "performance": "Average",
+      "star_1": 0,
+      "star_2": 2,
+      "star_3": 0,
+      "star_4": 0,
+      "star_5": 3
+    },
+    {
+      "name": "venue",
+      "performance": "Average",
+      "star_1": 0,
+      "star_2": 0,
+      "star_3": 3,
+      "star_4": 2,
+      "star_5": 0
+    },
+    {
+      "name": "autograph",
+      "performance": "Good",
+      "star_1": 0,
+      "star_2": 0,
+      "star_3": 0,
+      "star_4": 4,
+      "star_5": 2
+    },
+    {
+      "name": "fan",
+      "performance": "Good",
+      "star_1": 2,
+      "star_2": 2,
+      "star_3": 0,
+      "star_4": 7,
+      "star_5": 26
+    },
+    {
+      "name": "row",
+      "performance": "Good",
+      "star_1": 0,
+      "star_2": 0,
+      "star_3": 0,
+      "star_4": 8,
+      "star_5": 10
+    },
+    {
+      "name": "mix",
+      "performance": "Good",
+      "star_1": 0,
+      "star_2": 0,
+      "star_3": 0,
+      "star_4": 4,
+      "star_5": 4
+    },
+    {
+      "name": "slight",
+      "performance": "Good",
+      "star_1": 0,
+      "star_2": 0,
+      "star_3": 0,
+      "star_4": 3,
+      "star_5": 2
+    },
+    {
+      "name": "reviews",
+      "performance": "Average",
+      "star_1": 0,
+      "star_2": 3,
+      "star_3": 3,
+      "star_4": 2,
+      "star_5": 5
+    },
+    {
+      "name": "friend",
+      "performance": "Average",
+      "star_1": 0,
+      "star_2": 2,
+      "star_3": 2,
+      "star_4": 4,
+      "star_5": 2
+    },
+    {
+      "name": "autographs",
+      "performance": "Good",
+      "star_1": 0,
+      "star_2": 2,
+      "star_3": 4,
+      "star_4": 10,
+      "star_5": 23
+    },
+    {
+      "name": "problem",
+      "performance": "Average",
+      "star_1": 0,
+      "star_2": 0,
+      "star_3": 2,
+      "star_4": 2,
+      "star_5": 2
+    },
+    {
+      "name": "line",
+      "performance": "Average",
+      "star_1": 0,
+      "star_2": 0,
+      "star_3": 4,
+      "star_4": 3,
+      "star_5": 6
+    },
+    {
+      "name": "audience member",
+      "performance": "Good",
+      "star_1": 0,
+      "star_2": 0,
+      "star_3": 0,
+      "star_4": 2,
+      "star_5": 3
+    },
+    {
+      "name": "experience",
+      "performance": "Good",
+      "star_1": 0,
+      "star_2": 2,
+      "star_3": 0,
+      "star_4": 6,
+      "star_5": 6
+    },
+    {
+      "name": "hands",
+      "performance": "Average",
+      "star_1": 0,
+      "star_2": 0,
+      "star_3": 2,
+      "star_4": 0,
+      "star_5": 6
+    },
+    {
+      "name": "moments",
+      "performance": "Average",
+      "star_1": 0,
+      "star_2": 0,
+      "star_3": 2,
+      "star_4": 0,
+      "star_5": 3
+    },
+    {
+      "name": "friends",
+      "performance": "Good",
+      "star_1": 0,
+      "star_2": 0,
+      "star_3": 0,
+      "star_4": 2,
+      "star_5": 3
+    },
+    {
+      "name": "libertarians",
+      "performance": "Good",
+      "star_1": 0,
+      "star_2": 0,
+      "star_3": 0,
+      "star_4": 3,
+      "star_5": 3
+    },
+    {
+      "name": "%",
+      "performance": "Average",
+      "star_1": 0,
+      "star_2": 2,
+      "star_3": 3,
+      "star_4": 3,
+      "star_5": 4
+    },
+    {
+      "name": "year",
+      "performance": "Average",
+      "star_1": 0,
+      "star_2": 4,
+      "star_3": 0,
+      "star_4": 0,
+      "star_5": 9
+    },
+    {
+      "name": "guys",
+      "performance": "Average",
+      "star_1": 0,
+      "star_2": 11,
+      "star_3": 6,
+      "star_4": 9,
+      "star_5": 34
+    },
+    {
+      "name": "week",
+      "performance": "Good",
+      "star_1": 0,
+      "star_2": 0,
+      "star_3": 0,
+      "star_4": 0,
+      "star_5": 6
+    },
+    {
+      "name": "bullet trick",
+      "performance": "Average",
+      "star_1": 0,
+      "star_2": 0,
+      "star_3": 2,
+      "star_4": 0,
+      "star_5": 3
+    },
+    {
+      "name": "finale",
+      "performance": "Average",
+      "star_1": 0,
+      "star_2": 2,
+      "star_3": 0,
+      "star_4": 0,
+      "star_5": 4
+    },
+    {
+      "name": "fans",
+      "performance": "Good",
+      "star_1": 0,
+      "star_2": 3,
+      "star_3": 2,
+      "star_4": 10,
+      "star_5": 21
+    },
+    {
+      "name": "town",
+      "performance": "Average",
+      "star_1": 0,
+      "star_2": 3,
+      "star_3": 0,
+      "star_4": 3,
+      "star_5": 6
+    },
+    {
+      "name": "amazing show",
+      "performance": "Good",
+      "star_1": 0,
+      "star_2": 0,
+      "star_3": 0,
+      "star_4": 0,
+      "star_5": 5
+    },
+    {
+      "name": "views",
+      "performance": "Good",
+      "star_1": 0,
+      "star_2": 0,
+      "star_3": 2,
+      "star_4": 9,
+      "star_5": 6
+    },
+    {
+      "name": "while",
+      "performance": "Good",
+      "star_1": 0,
+      "star_2": 0,
+      "star_3": 0,
+      "star_4": 4,
+      "star_5": 2
+    },
+    {
+      "name": "message",
+      "performance": "Good",
+      "star_1": 0,
+      "star_2": 0,
+      "star_3": 0,
+      "star_4": 2,
+      "star_5": 3
+    },
+    {
+      "name": "theatre",
+      "performance": "Average",
+      "star_1": 0,
+      "star_2": 0,
+      "star_3": 2,
+      "star_4": 0,
+      "star_5": 5
+    },
+    {
+      "name": "parts",
+      "performance": "Average",
+      "star_1": 0,
+      "star_2": 0,
+      "star_3": 3,
+      "star_4": 4,
+      "star_5": 3
+    },
+    {
+      "name": "mind",
+      "performance": "Good",
+      "star_1": 0,
+      "star_2": 0,
+      "star_3": 2,
+      "star_4": 4,
+      "star_5": 8
+    },
+    {
+      "name": "comedy",
+      "performance": "Good",
+      "star_1": 0,
+      "star_2": 2,
+      "star_3": 0,
+      "star_4": 8,
+      "star_5": 15
+    },
+    {
+      "name": "david copperfield",
+      "performance": "Good",
+      "star_1": 0,
+      "star_2": 0,
+      "star_3": 0,
+      "star_4": 0,
+      "star_5": 5
+    },
+    {
+      "name": "day",
+      "performance": "Good",
+      "star_1": 0,
+      "star_2": 2,
+      "star_3": 0,
+      "star_4": 0,
+      "star_5": 7
+    },
+    {
+      "name": "money",
+      "performance": "Average",
+      "star_1": 4,
+      "star_2": 3,
+      "star_3": 2,
+      "star_4": 9,
+      "star_5": 11
+    },
+    {
+      "name": "part",
+      "performance": "Good",
+      "star_1": 0,
+      "star_2": 0,
+      "star_3": 4,
+      "star_4": 7,
+      "star_5": 23
+    },
+    {
+      "name": "man",
+      "performance": "Average",
+      "star_1": 0,
+      "star_2": 2,
+      "star_3": 0,
+      "star_4": 0,
+      "star_5": 5
+    },
+    {
+      "name": "rio",
+      "performance": "Good",
+      "star_1": 0,
+      "star_2": 3,
+      "star_3": 5,
+      "star_4": 13,
+      "star_5": 21
+    },
+    {
+      "name": "box",
+      "performance": "Good",
+      "star_1": 0,
+      "star_2": 2,
+      "star_3": 0,
+      "star_4": 3,
+      "star_5": 6
+    },
+    {
+      "name": "places",
+      "performance": "Good",
+      "star_1": 0,
+      "star_2": 0,
+      "star_3": 0,
+      "star_4": 3,
+      "star_5": 3
+    },
+    {
+      "name": "show penn",
+      "performance": "Good",
+      "star_1": 0,
+      "star_2": 0,
+      "star_3": 0,
+      "star_4": 3,
+      "star_5": 4
+    },
+    {
+      "name": "vip seats",
+      "performance": "Good",
+      "star_1": 0,
+      "star_2": 0,
+      "star_3": 0,
+      "star_4": 0,
+      "star_5": 5
+    },
+    {
+      "name": "celebrities",
+      "performance": "Good",
+      "star_1": 0,
+      "star_2": 0,
+      "star_3": 0,
+      "star_4": 2,
+      "star_5": 4
+    },
+    {
+      "name": "casino",
+      "performance": "Average",
+      "star_1": 0,
+      "star_2": 0,
+      "star_3": 4,
+      "star_4": 0,
+      "star_5": 2
+    },
+    {
+      "name": "sleight",
+      "performance": "Average",
+      "star_1": 0,
+      "star_2": 0,
+      "star_3": 3,
+      "star_4": 3,
+      "star_5": 2
+    },
+    {
+      "name": "view",
+      "performance": "Good",
+      "star_1": 0,
+      "star_2": 0,
+      "star_3": 0,
+      "star_4": 2,
+      "star_5": 4
+    },
+    {
+      "name": "craft",
+      "performance": "Good",
+      "star_1": 0,
+      "star_2": 0,
+      "star_3": 0,
+      "star_4": 2,
+      "star_5": 5
+    },
+    {
+      "name": "card",
+      "performance": "Bad",
+      "star_1": 0,
+      "star_2": 3,
+      "star_3": 0,
+      "star_4": 2,
+      "star_5": 0
+    },
+    {
+      "name": "kids",
+      "performance": "Good",
+      "star_1": 0,
+      "star_2": 0,
+      "star_3": 0,
+      "star_4": 3,
+      "star_5": 3
+    },
+    {
+      "name": "t",
+      "performance": "Good",
+      "star_1": 0,
+      "star_2": 3,
+      "star_3": 0,
+      "star_4": 6,
+      "star_5": 13
+    },
+    {
+      "name": "trick",
+      "performance": "Good",
+      "star_1": 0,
+      "star_2": 6,
+      "star_3": 0,
+      "star_4": 14,
+      "star_5": 33
+    },
+    {
+      "name": "theater",
+      "performance": "Good",
+      "star_1": 0,
+      "star_2": 2,
+      "star_3": 4,
+      "star_4": 19,
+      "star_5": 16
+    },
+    {
+      "name": "magic show",
+      "performance": "Average",
+      "star_1": 0,
+      "star_2": 0,
+      "star_3": 3,
+      "star_4": 3,
+      "star_5": 6
+    },
+    {
+      "name": "illusion",
+      "performance": "Good",
+      "star_1": 0,
+      "star_2": 3,
+      "star_3": 0,
+      "star_4": 4,
+      "star_5": 12
+    },
+    {
+      "name": "secrets",
+      "performance": "Good",
+      "star_1": 0,
+      "star_2": 0,
+      "star_3": 0,
+      "star_4": 2,
+      "star_5": 6
+    },
+    {
+      "name": "show",
+      "performance": "Good",
+      "star_1": 9,
+      "star_2": 24,
+      "star_3": 26,
+      "star_4": 71,
+      "star_5": 142
+    },
+    {
+      "name": "minute",
+      "performance": "Good",
+      "star_1": 0,
+      "star_2": 0,
+      "star_3": 0,
+      "star_4": 0,
+      "star_5": 5
+    },
+    {
+      "name": "things",
+      "performance": "Average",
+      "star_1": 0,
+      "star_2": 3,
+      "star_3": 5,
+      "star_4": 5,
+      "star_5": 10
+    },
+    {
+      "name": "tv",
+      "performance": "Average",
+      "star_1": 0,
+      "star_2": 2,
+      "star_3": 2,
+      "star_4": 4,
+      "star_5": 8
+    },
+    {
+      "name": "duo",
+      "performance": "Average",
+      "star_1": 0,
+      "star_2": 0,
+      "star_3": 2,
+      "star_4": 0,
+      "star_5": 5
+    },
+    {
+      "name": "lots",
+      "performance": "Average",
+      "star_1": 0,
+      "star_2": 3,
+      "star_3": 2,
+      "star_4": 7,
+      "star_5": 5
+    },
+    {
+      "name": "p",
+      "performance": "Good",
+      "star_1": 0,
+      "star_2": 3,
+      "star_3": 2,
+      "star_4": 7,
+      "star_5": 19
+    },
+    {
+      "name": "hours",
+      "performance": "Good",
+      "star_1": 0,
+      "star_2": 0,
+      "star_3": 0,
+      "star_4": 4,
+      "star_5": 3
+    },
+    {
+      "name": "performers",
+      "performance": "Good",
+      "star_1": 0,
+      "star_2": 0,
+      "star_3": 0,
+      "star_4": 2,
+      "star_5": 5
+    },
+    {
+      "name": "acts",
+      "performance": "Good",
+      "star_1": 0,
+      "star_2": 3,
+      "star_3": 2,
+      "star_4": 7,
+      "star_5": 14
+    },
+    {
+      "name": "fun",
+      "performance": "Good",
+      "star_1": 0,
+      "star_2": 0,
+      "star_3": 0,
+      "star_4": 11,
+      "star_5": 9
+    },
+    {
+      "name": "pianist",
+      "performance": "Good",
+      "star_1": 0,
+      "star_2": 0,
+      "star_3": 0,
+      "star_4": 3,
+      "star_5": 4
+    },
+    {
+      "name": "time",
+      "performance": "Average",
+      "star_1": 4,
+      "star_2": 8,
+      "star_3": 12,
+      "star_4": 18,
+      "star_5": 54
+    },
+    {
+      "name": "point",
+      "performance": "Average",
+      "star_1": 0,
+      "star_2": 2,
+      "star_3": 2,
+      "star_4": 5,
+      "star_5": 3
+    },
+    {
+      "name": "mike jones",
+      "performance": "Good",
+      "star_1": 0,
+      "star_2": 0,
+      "star_3": 0,
+      "star_4": 4,
+      "star_5": 9
+    },
+    {
+      "name": "politics",
+      "performance": "Good",
+      "star_1": 0,
+      "star_2": 0,
+      "star_3": 0,
+      "star_4": 0,
+      "star_5": 9
+    },
+    {
+      "name": "idea",
+      "performance": "Good",
+      "star_1": 0,
+      "star_2": 0,
+      "star_3": 0,
+      "star_4": 3,
+      "star_5": 3
+    },
+    {
+      "name": "seats",
+      "performance": "Good",
+      "star_1": 0,
+      "star_2": 2,
+      "star_3": 6,
+      "star_4": 16,
+      "star_5": 16
+    },
+    {
+      "name": "lot",
+      "performance": "Good",
+      "star_1": 0,
+      "star_2": 3,
+      "star_3": 8,
+      "star_4": 17,
+      "star_5": 25
+    },
+    {
+      "name": "ones",
+      "performance": "Good",
+      "star_1": 0,
+      "star_2": 0,
+      "star_3": 0,
+      "star_4": 6,
+      "star_5": 2
+    },
+    {
+      "name": "floor",
+      "performance": "Good",
+      "star_1": 0,
+      "star_2": 0,
+      "star_3": 0,
+      "star_4": 3,
+      "star_5": 3
+    },
+    {
+      "name": "hotel",
+      "performance": "Good",
+      "star_1": 0,
+      "star_2": 0,
+      "star_3": 0,
+      "star_4": 2,
+      "star_5": 3
+    },
+    {
+      "name": "bit",
+      "performance": "Average",
+      "star_1": 0,
+      "star_2": 6,
+      "star_3": 11,
+      "star_4": 16,
+      "star_5": 14
+    },
+    {
+      "name": "touch",
+      "performance": "Good",
+      "star_1": 0,
+      "star_2": 0,
+      "star_3": 0,
+      "star_4": 3,
+      "star_5": 2
+    },
+    {
+      "name": "audience members",
+      "performance": "Good",
+      "star_1": 0,
+      "star_2": 0,
+      "star_3": 0,
+      "star_4": 3,
+      "star_5": 9
+    },
+    {
+      "name": "years",
+      "performance": "Average",
+      "star_1": 2,
+      "star_2": 5,
+      "star_3": 6,
+      "star_4": 6,
+      "star_5": 24
+    },
+    {
+      "name": "front row",
+      "performance": "Good",
+      "star_1": 0,
+      "star_2": 0,
+      "star_3": 0,
+      "star_4": 3,
+      "star_5": 2
+    },
+    {
+      "name": "hour",
+      "performance": "Average",
+      "star_1": 0,
+      "star_2": 0,
+      "star_3": 6,
+      "star_4": 0,
+      "star_5": 10
+    },
+    {
+      "name": "vegas",
+      "performance": "Good",
+      "star_1": 3,
+      "star_2": 5,
+      "star_3": 9,
+      "star_4": 14,
+      "star_5": 53
+    },
+    {
+      "name": "chris angel",
+      "performance": "Good",
+      "star_1": 0,
+      "star_2": 0,
+      "star_3": 0,
+      "star_4": 2,
+      "star_5": 3
+    },
+    {
+      "name": "course",
+      "performance": "Good",
+      "star_1": 0,
+      "star_2": 0,
+      "star_3": 0,
+      "star_4": 3,
+      "star_5": 5
+    },
+    {
+      "name": "opportunity",
+      "performance": "Good",
+      "star_1": 0,
+      "star_2": 0,
+      "star_3": 0,
+      "star_4": 2,
+      "star_5": 5
+    },
+    {
+      "name": "rows",
+      "performance": "Good",
+      "star_1": 0,
+      "star_2": 0,
+      "star_3": 0,
+      "star_4": 0,
+      "star_5": 5
+    },
+    {
+      "name": "nothing",
+      "performance": "Good",
+      "star_1": 0,
+      "star_2": 0,
+      "star_3": 0,
+      "star_4": 5,
+      "star_5": 3
+    },
+    {
+      "name": "anyone",
+      "performance": "Good",
+      "star_1": 0,
+      "star_2": 0,
+      "star_3": 0,
+      "star_4": 5,
+      "star_5": 7
+    },
+    {
+      "name": "meet",
+      "performance": "Good",
+      "star_1": 0,
+      "star_2": 0,
+      "star_3": 0,
+      "star_4": 3,
+      "star_5": 9
+    },
+    {
+      "name": "audience",
+      "performance": "Good",
+      "star_1": 0,
+      "star_2": 0,
+      "star_3": 5,
+      "star_4": 13,
+      "star_5": 32
+    },
+    {
+      "name": "note",
+      "performance": "Good",
+      "star_1": 0,
+      "star_2": 0,
+      "star_3": 0,
+      "star_4": 2,
+      "star_5": 3
+    },
+    {
+      "name": "awesome show",
+      "performance": "Good",
+      "star_1": 0,
+      "star_2": 0,
+      "star_3": 0,
+      "star_4": 0,
+      "star_5": 5
+    },
+    {
+      "name": "piano",
+      "performance": "Good",
+      "star_1": 0,
+      "star_2": 0,
+      "star_3": 0,
+      "star_4": 4,
+      "star_5": 3
+    },
+    {
+      "name": "tricks",
+      "performance": "Good",
+      "star_1": 4,
+      "star_2": 9,
+      "star_3": 16,
+      "star_4": 36,
+      "star_5": 62
+    },
+    {
+      "name": "choice",
+      "performance": "Average",
+      "star_1": 0,
+      "star_2": 2,
+      "star_3": 0,
+      "star_4": 0,
+      "star_5": 3
+    },
+    {
+      "name": "way",
+      "performance": "Good",
+      "star_1": 0,
+      "star_2": 6,
+      "star_3": 3,
+      "star_4": 9,
+      "star_5": 20
+    },
+    {
+      "name": "life",
+      "performance": "Good",
+      "star_1": 0,
+      "star_2": 0,
+      "star_3": 0,
+      "star_4": 2,
+      "star_5": 4
+    },
+    {
+      "name": "crowd",
+      "performance": "Good",
+      "star_1": 0,
+      "star_2": 2,
+      "star_3": 0,
+      "star_4": 5,
+      "star_5": 9
+    },
+    {
+      "name": "flag",
+      "performance": "Good",
+      "star_1": 0,
+      "star_2": 0,
+      "star_3": 0,
+      "star_4": 4,
+      "star_5": 2
+    },
+    {
+      "name": "book",
+      "performance": "Good",
+      "star_1": 0,
+      "star_2": 0,
+      "star_3": 0,
+      "star_4": 0,
+      "star_5": 5
+    },
+    {
+      "name": "wife",
+      "performance": "Good",
+      "star_1": 0,
+      "star_2": 0,
+      "star_3": 0,
+      "star_4": 0,
+      "star_5": 6
+    },
+    {
+      "name": "bill",
+      "performance": "Average",
+      "star_1": 0,
+      "star_2": 0,
+      "star_3": 2,
+      "star_4": 0,
+      "star_5": 5
+    },
+    {
+      "name": "look",
+      "performance": "Good",
+      "star_1": 0,
+      "star_2": 0,
+      "star_3": 0,
+      "star_4": 4,
+      "star_5": 2
+    },
+    {
+      "name": "lighting",
+      "performance": "Good",
+      "star_1": 0,
+      "star_2": 0,
+      "star_3": 0,
+      "star_4": 2,
+      "star_5": 4
+    },
+    {
+      "name": "funny",
+      "performance": "Good",
+      "star_1": 0,
+      "star_2": 0,
+      "star_3": 0,
+      "star_4": 4,
+      "star_5": 5
+    },
+    {
+      "name": "box office",
+      "performance": "Average",
+      "star_1": 0,
+      "star_2": 0,
+      "star_3": 2,
+      "star_4": 0,
+      "star_5": 3
+    },
+    {
+      "name": "side",
+      "performance": "Good",
+      "star_1": 0,
+      "star_2": 0,
+      "star_3": 0,
+      "star_4": 3,
+      "star_5": 4
+    },
+    {
+      "name": "end",
+      "performance": "Average",
+      "star_1": 0,
+      "star_2": 3,
+      "star_3": 5,
+      "star_4": 8,
+      "star_5": 12
+    },
+    {
+      "name": "someone",
+      "performance": "Good",
+      "star_1": 0,
+      "star_2": 0,
+      "star_3": 0,
+      "star_4": 4,
+      "star_5": 5
+    },
+    {
+      "name": "times",
+      "performance": "Average",
+      "star_1": 3,
+      "star_2": 3,
+      "star_3": 3,
+      "star_4": 6,
+      "star_5": 15
+    },
+    {
+      "name": "world",
+      "performance": "Bad",
+      "star_1": 0,
+      "star_2": 3,
+      "star_3": 0,
+      "star_4": 0,
+      "star_5": 3
+    },
+    {
+      "name": "performance",
+      "performance": "Good",
+      "star_1": 0,
+      "star_2": 0,
+      "star_3": 0,
+      "star_4": 2,
+      "star_5": 15
+    },
+    {
+      "name": "picture",
+      "performance": "Good",
+      "star_1": 0,
+      "star_2": 0,
+      "star_3": 0,
+      "star_4": 6,
+      "star_5": 7
+    },
+    {
+      "name": "illusions",
+      "performance": "Good",
+      "star_1": 0,
+      "star_2": 2,
+      "star_3": 2,
+      "star_4": 3,
+      "star_5": 13
+    },
+    {
+      "name": "level",
+      "performance": "Average",
+      "star_1": 0,
+      "star_2": 0,
+      "star_3": 2,
+      "star_4": 0,
+      "star_5": 3
+    },
+    {
+      "name": "case",
+      "performance": "Good",
+      "star_1": 0,
+      "star_2": 0,
+      "star_3": 0,
+      "star_4": 2,
+      "star_5": 4
+    },
+    {
+      "name": "mezzanine",
+      "performance": "Good",
+      "star_1": 0,
+      "star_2": 0,
+      "star_3": 0,
+      "star_4": 5,
+      "star_5": 5
+    },
+    {
+      "name": "great show",
+      "performance": "Good",
+      "star_1": 0,
+      "star_2": 0,
+      "star_3": 0,
+      "star_4": 10,
+      "star_5": 8
+    },
+    {
+      "name": "others",
+      "performance": "Good",
+      "star_1": 0,
+      "star_2": 0,
+      "star_3": 0,
+      "star_4": 7,
+      "star_5": 8
+    },
+    {
+      "name": "price",
+      "performance": "Average",
+      "star_1": 0,
+      "star_2": 6,
+      "star_3": 8,
+      "star_4": 6,
+      "star_5": 10
+    },
+    {
+      "name": "strip",
+      "performance": "Average",
+      "star_1": 0,
+      "star_2": 2,
+      "star_3": 4,
+      "star_4": 8,
+      "star_5": 9
+    },
+    {
+      "name": "night",
+      "performance": "Good",
+      "star_1": 0,
+      "star_2": 3,
+      "star_3": 5,
+      "star_4": 8,
+      "star_5": 17
+    },
+    {
+      "name": "deal",
+      "performance": "Average",
+      "star_1": 0,
+      "star_2": 0,
+      "star_3": 3,
+      "star_4": 3,
+      "star_5": 6
+    },
+    {
+      "name": "boss",
+      "performance": "Average",
+      "star_1": 0,
+      "star_2": 0,
+      "star_3": 2,
+      "star_4": 2,
+      "star_5": 3
+    },
+    {
+      "name": "props",
+      "performance": "Good",
+      "star_1": 0,
+      "star_2": 0,
+      "star_3": 0,
+      "star_4": 2,
+      "star_5": 6
+    },
+    {
+      "name": "magic tricks",
+      "performance": "Good",
+      "star_1": 0,
+      "star_2": 0,
+      "star_3": 3,
+      "star_4": 3,
+      "star_5": 7
+    },
+    {
+      "name": "pictures",
+      "performance": "Good",
+      "star_1": 0,
+      "star_2": 0,
+      "star_3": 6,
+      "star_4": 18,
+      "star_5": 50
+    },
+    {
+      "name": "las vegas",
+      "performance": "Good",
+      "star_1": 0,
+      "star_2": 0,
+      "star_3": 2,
+      "star_4": 4,
+      "star_5": 16
+    },
+    {
+      "name": "highlight",
+      "performance": "Good",
+      "star_1": 0,
+      "star_2": 0,
+      "star_3": 0,
+      "star_4": 0,
+      "star_5": 6
+    },
+    {
+      "name": "people",
+      "performance": "Average",
+      "star_1": 2,
+      "star_2": 10,
+      "star_3": 5,
+      "star_4": 22,
+      "star_5": 27
+    },
+    {
+      "name": "boyfriend",
+      "performance": "Good",
+      "star_1": 0,
+      "star_2": 0,
+      "star_3": 0,
+      "star_4": 3,
+      "star_5": 4
+    },
+    {
+      "name": "afterwards",
+      "performance": "Good",
+      "star_1": 0,
+      "star_2": 0,
+      "star_3": 0,
+      "star_4": 4,
+      "star_5": 5
+    },
+    {
+      "name": "type",
+      "performance": "Average",
+      "star_1": 0,
+      "star_2": 0,
+      "star_3": 2,
+      "star_4": 0,
+      "star_5": 3
+    },
+    {
+      "name": "photos",
+      "performance": "Good",
+      "star_1": 0,
+      "star_2": 2,
+      "star_3": 0,
+      "star_4": 11,
+      "star_5": 13
+    },
+    {
+      "name": "hand",
+      "performance": "Average",
+      "star_1": 0,
+      "star_2": 0,
+      "star_3": 4,
+      "star_4": 6,
+      "star_5": 6
+    },
+    {
+      "name": "trip",
+      "performance": "Good",
+      "star_1": 0,
+      "star_2": 0,
+      "star_3": 2,
+      "star_4": 6,
+      "star_5": 13
+    },
+    {
+      "name": "magic",
+      "performance": "Good",
+      "star_1": 0,
+      "star_2": 10,
+      "star_3": 3,
+      "star_4": 25,
+      "star_5": 26
+    },
+    {
+      "name": "drinks",
+      "performance": "Good",
+      "star_1": 0,
+      "star_2": 0,
+      "star_3": 0,
+      "star_4": 7,
+      "star_5": 4
+    },
+    {
+      "name": "photo",
+      "performance": "Good",
+      "star_1": 0,
+      "star_2": 0,
+      "star_3": 0,
+      "star_4": 2,
+      "star_5": 6
+    },
+    {
+      "name": "humor",
+      "performance": "Good",
+      "star_1": 0,
+      "star_2": 0,
+      "star_3": 3,
+      "star_4": 8,
+      "star_5": 12
+    },
+    {
+      "name": "everyone",
+      "performance": "Good",
+      "star_1": 0,
+      "star_2": 0,
+      "star_3": 4,
+      "star_4": 10,
+      "star_5": 32
+    },
+    {
+      "name": "selfies",
+      "performance": "Good",
+      "star_1": 0,
+      "star_2": 0,
+      "star_3": 0,
+      "star_4": 2,
+      "star_5": 3
+    },
+    {
+      "name": "guy",
+      "performance": "Average",
+      "star_1": 0,
+      "star_2": 3,
+      "star_3": 2,
+      "star_4": 2,
+      "star_5": 2
+    },
+    {
+      "name": "masters",
+      "performance": "Good",
+      "star_1": 0,
+      "star_2": 0,
+      "star_3": 0,
+      "star_4": 0,
+      "star_5": 7
+    },
+    {
+      "name": "couple",
+      "performance": "Good",
+      "star_1": 2,
+      "star_2": 2,
+      "star_3": 0,
+      "star_4": 8,
+      "star_5": 9
+    },
+    {
+      "name": "bits",
+      "performance": "Good",
+      "star_1": 0,
+      "star_2": 0,
+      "star_3": 0,
+      "star_4": 4,
+      "star_5": 5
+    },
+    {
+      "name": "music",
+      "performance": "Good",
+      "star_1": 0,
+      "star_2": 0,
+      "star_3": 0,
+      "star_4": 5,
+      "star_5": 9
+    },
+    {
+      "name": "awe",
+      "performance": "Good",
+      "star_1": 0,
+      "star_2": 0,
+      "star_3": 0,
+      "star_4": 2,
+      "star_5": 3
+    },
+    {
+      "name": "kind",
+      "performance": "Good",
+      "star_1": 0,
+      "star_2": 0,
+      "star_3": 2,
+      "star_4": 7,
+      "star_5": 11
+    },
+    {
+      "name": "chance",
+      "performance": "Good",
+      "star_1": 0,
+      "star_2": 0,
+      "star_3": 2,
+      "star_4": 3,
+      "star_5": 5
+    },
+    {
+      "name": "eyes",
+      "performance": "Bad",
+      "star_1": 0,
+      "star_2": 3,
+      "star_3": 0,
+      "star_4": 0,
+      "star_5": 2
+    },
+    {
+      "name": "entertainment",
+      "performance": "Good",
+      "star_1": 0,
+      "star_2": 0,
+      "star_3": 0,
+      "star_4": 0,
+      "star_5": 6
+    },
+    {
+      "name": "lobby",
+      "performance": "Good",
+      "star_1": 0,
+      "star_2": 0,
+      "star_3": 2,
+      "star_4": 5,
+      "star_5": 18
+    },
+    {
+      "name": "start",
+      "performance": "Good",
+      "star_1": 0,
+      "star_2": 0,
+      "star_3": 0,
+      "star_4": 2,
+      "star_5": 4
+    },
+    {
+      "name": "stars",
+      "performance": "Average",
+      "star_1": 2,
+      "star_2": 0,
+      "star_3": 3,
+      "star_4": 2,
+      "star_5": 5
+    },
+    {
+      "name": "shows",
+      "performance": "Good",
+      "star_1": 0,
+      "star_2": 3,
+      "star_3": 6,
+      "star_4": 5,
+      "star_5": 24
+    },
+    {
+      "name": "discount",
+      "performance": "Good",
+      "star_1": 0,
+      "star_2": 0,
+      "star_3": 0,
+      "star_4": 2,
+      "star_5": 4
+    },
+    {
+      "name": "jazz",
+      "performance": "Good",
+      "star_1": 0,
+      "star_2": 0,
+      "star_3": 0,
+      "star_4": 0,
+      "star_5": 6
+    },
+    {
+      "name": "half",
+      "performance": "Average",
+      "star_1": 0,
+      "star_2": 0,
+      "star_3": 3,
+      "star_4": 2,
+      "star_5": 7
+    },
+    {
+      "name": "person",
+      "performance": "Good",
+      "star_1": 0,
+      "star_2": 0,
+      "star_3": 2,
+      "star_4": 6,
+      "star_5": 18
+    },
+    {
+      "name": "pics",
+      "performance": "Good",
+      "star_1": 0,
+      "star_2": 0,
+      "star_3": 0,
+      "star_4": 2,
+      "star_5": 9
+    },
+    {
+      "name": "opinion",
+      "performance": "Good",
+      "star_1": 0,
+      "star_2": 0,
+      "star_3": 0,
+      "star_4": 0,
+      "star_5": 6
+    },
+    {
+      "name": "job",
+      "performance": "Good",
+      "star_1": 0,
+      "star_2": 0,
+      "star_3": 3,
+      "star_4": 4,
+      "star_5": 7
+    }
+  ]
+}

@@ -1,0 +1,2533 @@
+{
+  "features": [
+    {
+      "name": "wow",
+      "performance": "Good",
+      "star_1": 0,
+      "star_2": 0,
+      "star_3": 2,
+      "star_4": 2,
+      "star_5": 5
+    },
+    {
+      "name": "wings",
+      "performance": "Good",
+      "star_1": 0,
+      "star_2": 0,
+      "star_3": 5,
+      "star_4": 15,
+      "star_5": 9
+    },
+    {
+      "name": "state",
+      "performance": "Good",
+      "star_1": 0,
+      "star_2": 0,
+      "star_3": 0,
+      "star_4": 3,
+      "star_5": 5
+    },
+    {
+      "name": "choice",
+      "performance": "Average",
+      "star_1": 0,
+      "star_2": 0,
+      "star_3": 2,
+      "star_4": 4,
+      "star_5": 2
+    },
+    {
+      "name": "salad",
+      "performance": "Good",
+      "star_1": 0,
+      "star_2": 0,
+      "star_3": 0,
+      "star_4": 4,
+      "star_5": 3
+    },
+    {
+      "name": "deal",
+      "performance": "Good",
+      "star_1": 0,
+      "star_2": 0,
+      "star_3": 0,
+      "star_4": 4,
+      "star_5": 2
+    },
+    {
+      "name": "taste",
+      "performance": "Good",
+      "star_1": 0,
+      "star_2": 3,
+      "star_3": 0,
+      "star_4": 9,
+      "star_5": 5
+    },
+    {
+      "name": "ipa",
+      "performance": "Good",
+      "star_1": 0,
+      "star_2": 0,
+      "star_3": 4,
+      "star_4": 10,
+      "star_5": 7
+    },
+    {
+      "name": "things",
+      "performance": "Good",
+      "star_1": 0,
+      "star_2": 0,
+      "star_3": 4,
+      "star_4": 11,
+      "star_5": 10
+    },
+    {
+      "name": "meal",
+      "performance": "Good",
+      "star_1": 0,
+      "star_2": 2,
+      "star_3": 3,
+      "star_4": 12,
+      "star_5": 12
+    },
+    {
+      "name": "mix",
+      "performance": "Good",
+      "star_1": 0,
+      "star_2": 0,
+      "star_3": 0,
+      "star_4": 6,
+      "star_5": 0
+    },
+    {
+      "name": "i",
+      "performance": "Average",
+      "star_1": 0,
+      "star_2": 0,
+      "star_3": 6,
+      "star_4": 6,
+      "star_5": 3
+    },
+    {
+      "name": "server",
+      "performance": "Average",
+      "star_1": 3,
+      "star_2": 2,
+      "star_3": 7,
+      "star_4": 10,
+      "star_5": 10
+    },
+    {
+      "name": "waitress",
+      "performance": "Good",
+      "star_1": 0,
+      "star_2": 0,
+      "star_3": 3,
+      "star_4": 6,
+      "star_5": 4
+    },
+    {
+      "name": "everything",
+      "performance": "Good",
+      "star_1": 0,
+      "star_2": 3,
+      "star_3": 4,
+      "star_4": 15,
+      "star_5": 10
+    },
+    {
+      "name": "seating",
+      "performance": "Good",
+      "star_1": 0,
+      "star_2": 0,
+      "star_3": 4,
+      "star_4": 8,
+      "star_5": 5
+    },
+    {
+      "name": "restaurants",
+      "performance": "Good",
+      "star_1": 0,
+      "star_2": 0,
+      "star_3": 0,
+      "star_4": 6,
+      "star_5": 0
+    },
+    {
+      "name": "lots",
+      "performance": "Good",
+      "star_1": 0,
+      "star_2": 0,
+      "star_3": 2,
+      "star_4": 6,
+      "star_5": 5
+    },
+    {
+      "name": "something",
+      "performance": "Average",
+      "star_1": 0,
+      "star_2": 0,
+      "star_3": 9,
+      "star_4": 18,
+      "star_5": 6
+    },
+    {
+      "name": "prices",
+      "performance": "Average",
+      "star_1": 0,
+      "star_2": 0,
+      "star_3": 3,
+      "star_4": 4,
+      "star_5": 4
+    },
+    {
+      "name": "anyone",
+      "performance": "Good",
+      "star_1": 0,
+      "star_2": 0,
+      "star_3": 0,
+      "star_4": 6,
+      "star_5": 4
+    },
+    {
+      "name": "door",
+      "performance": "Good",
+      "star_1": 0,
+      "star_2": 0,
+      "star_3": 2,
+      "star_4": 4,
+      "star_5": 6
+    },
+    {
+      "name": "cool",
+      "performance": "Average",
+      "star_1": 0,
+      "star_2": 0,
+      "star_3": 2,
+      "star_4": 4,
+      "star_5": 0
+    },
+    {
+      "name": "service",
+      "performance": "Good",
+      "star_1": 4,
+      "star_2": 8,
+      "star_3": 19,
+      "star_4": 60,
+      "star_5": 53
+    },
+    {
+      "name": "breweries",
+      "performance": "Good",
+      "star_1": 0,
+      "star_2": 0,
+      "star_3": 3,
+      "star_4": 3,
+      "star_5": 7
+    },
+    {
+      "name": "loud",
+      "performance": "Good",
+      "star_1": 0,
+      "star_2": 0,
+      "star_3": 0,
+      "star_4": 4,
+      "star_5": 5
+    },
+    {
+      "name": "beans",
+      "performance": "Average",
+      "star_1": 0,
+      "star_2": 0,
+      "star_3": 2,
+      "star_4": 6,
+      "star_5": 0
+    },
+    {
+      "name": "bartenders",
+      "performance": "Good",
+      "star_1": 0,
+      "star_2": 0,
+      "star_3": 2,
+      "star_4": 8,
+      "star_5": 3
+    },
+    {
+      "name": "tons",
+      "performance": "Good",
+      "star_1": 0,
+      "star_2": 0,
+      "star_3": 0,
+      "star_4": 2,
+      "star_5": 4
+    },
+    {
+      "name": "food",
+      "performance": "Good",
+      "star_1": 4,
+      "star_2": 11,
+      "star_3": 38,
+      "star_4": 124,
+      "star_5": 98
+    },
+    {
+      "name": "bank",
+      "performance": "Good",
+      "star_1": 0,
+      "star_2": 0,
+      "star_3": 0,
+      "star_4": 4,
+      "star_5": 3
+    },
+    {
+      "name": "bread",
+      "performance": "Good",
+      "star_1": 0,
+      "star_2": 0,
+      "star_3": 0,
+      "star_4": 5,
+      "star_5": 2
+    },
+    {
+      "name": "entrees",
+      "performance": "Average",
+      "star_1": 0,
+      "star_2": 0,
+      "star_3": 3,
+      "star_4": 0,
+      "star_5": 2
+    },
+    {
+      "name": "seat",
+      "performance": "Average",
+      "star_1": 0,
+      "star_2": 0,
+      "star_3": 2,
+      "star_4": 3,
+      "star_5": 0
+    },
+    {
+      "name": "sunspot gold",
+      "performance": "Good",
+      "star_1": 0,
+      "star_2": 0,
+      "star_3": 0,
+      "star_4": 6,
+      "star_5": 2
+    },
+    {
+      "name": "stuffed mushroom burger",
+      "performance": "Good",
+      "star_1": 0,
+      "star_2": 0,
+      "star_3": 0,
+      "star_4": 3,
+      "star_5": 2
+    },
+    {
+      "name": "santan brewing company",
+      "performance": "Average",
+      "star_1": 0,
+      "star_2": 0,
+      "star_3": 2,
+      "star_4": 3,
+      "star_5": 2
+    },
+    {
+      "name": "course",
+      "performance": "Good",
+      "star_1": 0,
+      "star_2": 0,
+      "star_3": 0,
+      "star_4": 3,
+      "star_5": 6
+    },
+    {
+      "name": "guacamole",
+      "performance": "Average",
+      "star_1": 0,
+      "star_2": 0,
+      "star_3": 2,
+      "star_4": 3,
+      "star_5": 0
+    },
+    {
+      "name": "kick",
+      "performance": "Good",
+      "star_1": 0,
+      "star_2": 0,
+      "star_3": 0,
+      "star_4": 4,
+      "star_5": 2
+    },
+    {
+      "name": "cider",
+      "performance": "Good",
+      "star_1": 0,
+      "star_2": 0,
+      "star_3": 0,
+      "star_4": 5,
+      "star_5": 0
+    },
+    {
+      "name": "favorites",
+      "performance": "Good",
+      "star_1": 0,
+      "star_2": 0,
+      "star_3": 0,
+      "star_4": 4,
+      "star_5": 4
+    },
+    {
+      "name": "street tacos",
+      "performance": "Good",
+      "star_1": 0,
+      "star_2": 0,
+      "star_3": 0,
+      "star_4": 5,
+      "star_5": 4
+    },
+    {
+      "name": "person",
+      "performance": "Average",
+      "star_1": 0,
+      "star_2": 0,
+      "star_3": 5,
+      "star_4": 2,
+      "star_5": 4
+    },
+    {
+      "name": "date",
+      "performance": "Good",
+      "star_1": 0,
+      "star_2": 0,
+      "star_3": 0,
+      "star_4": 3,
+      "star_5": 3
+    },
+    {
+      "name": "notch",
+      "performance": "Good",
+      "star_1": 0,
+      "star_2": 0,
+      "star_3": 0,
+      "star_4": 6,
+      "star_5": 4
+    },
+    {
+      "name": "weekend",
+      "performance": "Good",
+      "star_1": 0,
+      "star_2": 0,
+      "star_3": 0,
+      "star_4": 5,
+      "star_5": 7
+    },
+    {
+      "name": "bar food",
+      "performance": "Average",
+      "star_1": 0,
+      "star_2": 3,
+      "star_3": 4,
+      "star_4": 9,
+      "star_5": 2
+    },
+    {
+      "name": "street",
+      "performance": "Good",
+      "star_1": 0,
+      "star_2": 0,
+      "star_3": 0,
+      "star_4": 3,
+      "star_5": 2
+    },
+    {
+      "name": "matter",
+      "performance": "Good",
+      "star_1": 0,
+      "star_2": 0,
+      "star_3": 0,
+      "star_4": 5,
+      "star_5": 2
+    },
+    {
+      "name": "hefeweizen",
+      "performance": "Average",
+      "star_1": 0,
+      "star_2": 0,
+      "star_3": 3,
+      "star_4": 4,
+      "star_5": 5
+    },
+    {
+      "name": "four peaks",
+      "performance": "Average",
+      "star_1": 0,
+      "star_2": 2,
+      "star_3": 4,
+      "star_4": 10,
+      "star_5": 0
+    },
+    {
+      "name": "was",
+      "performance": "Good",
+      "star_1": 0,
+      "star_2": 0,
+      "star_3": 0,
+      "star_4": 3,
+      "star_5": 2
+    },
+    {
+      "name": "table",
+      "performance": "Average",
+      "star_1": 0,
+      "star_2": 2,
+      "star_3": 7,
+      "star_4": 11,
+      "star_5": 6
+    },
+    {
+      "name": "fries",
+      "performance": "Good",
+      "star_1": 0,
+      "star_2": 2,
+      "star_3": 8,
+      "star_4": 22,
+      "star_5": 10
+    },
+    {
+      "name": "atmosphere",
+      "performance": "Good",
+      "star_1": 0,
+      "star_2": 0,
+      "star_3": 8,
+      "star_4": 24,
+      "star_5": 15
+    },
+    {
+      "name": "onions",
+      "performance": "Good",
+      "star_1": 0,
+      "star_2": 0,
+      "star_3": 2,
+      "star_4": 5,
+      "star_5": 3
+    },
+    {
+      "name": "dessert",
+      "performance": "Average",
+      "star_1": 0,
+      "star_2": 0,
+      "star_3": 2,
+      "star_4": 4,
+      "star_5": 0
+    },
+    {
+      "name": "everyone",
+      "performance": "Good",
+      "star_1": 0,
+      "star_2": 3,
+      "star_3": 0,
+      "star_4": 14,
+      "star_5": 8
+    },
+    {
+      "name": "beers",
+      "performance": "Good",
+      "star_1": 0,
+      "star_2": 6,
+      "star_3": 12,
+      "star_4": 56,
+      "star_5": 37
+    },
+    {
+      "name": "peppers",
+      "performance": "Good",
+      "star_1": 0,
+      "star_2": 0,
+      "star_3": 0,
+      "star_4": 3,
+      "star_5": 2
+    },
+    {
+      "name": "owner",
+      "performance": "Good",
+      "star_1": 0,
+      "star_2": 0,
+      "star_3": 0,
+      "star_4": 5,
+      "star_5": 0
+    },
+    {
+      "name": "anything",
+      "performance": "Average",
+      "star_1": 0,
+      "star_2": 0,
+      "star_3": 4,
+      "star_4": 3,
+      "star_5": 7
+    },
+    {
+      "name": "country",
+      "performance": "Good",
+      "star_1": 0,
+      "star_2": 0,
+      "star_3": 0,
+      "star_4": 3,
+      "star_5": 2
+    },
+    {
+      "name": "downtown chandler",
+      "performance": "Good",
+      "star_1": 0,
+      "star_2": 0,
+      "star_3": 3,
+      "star_4": 9,
+      "star_5": 6
+    },
+    {
+      "name": "fan",
+      "performance": "Good",
+      "star_1": 0,
+      "star_2": 3,
+      "star_3": 0,
+      "star_4": 17,
+      "star_5": 7
+    },
+    {
+      "name": "places",
+      "performance": "Good",
+      "star_1": 0,
+      "star_2": 0,
+      "star_3": 4,
+      "star_4": 11,
+      "star_5": 11
+    },
+    {
+      "name": "selection",
+      "performance": "Good",
+      "star_1": 0,
+      "star_2": 0,
+      "star_3": 0,
+      "star_4": 9,
+      "star_5": 5
+    },
+    {
+      "name": "place",
+      "performance": "Good",
+      "star_1": 5,
+      "star_2": 12,
+      "star_3": 33,
+      "star_4": 83,
+      "star_5": 77
+    },
+    {
+      "name": "brisket",
+      "performance": "Good",
+      "star_1": 0,
+      "star_2": 0,
+      "star_3": 0,
+      "star_4": 3,
+      "star_5": 3
+    },
+    {
+      "name": "couple",
+      "performance": "Average",
+      "star_1": 0,
+      "star_2": 3,
+      "star_3": 3,
+      "star_4": 2,
+      "star_5": 4
+    },
+    {
+      "name": "saturday",
+      "performance": "Good",
+      "star_1": 0,
+      "star_2": 0,
+      "star_3": 0,
+      "star_4": 5,
+      "star_5": 3
+    },
+    {
+      "name": "tables",
+      "performance": "Average",
+      "star_1": 0,
+      "star_2": 0,
+      "star_3": 4,
+      "star_4": 3,
+      "star_5": 2
+    },
+    {
+      "name": "complaint",
+      "performance": "Good",
+      "star_1": 0,
+      "star_2": 0,
+      "star_3": 0,
+      "star_4": 4,
+      "star_5": 2
+    },
+    {
+      "name": "man",
+      "performance": "Good",
+      "star_1": 0,
+      "star_2": 0,
+      "star_3": 0,
+      "star_4": 3,
+      "star_5": 2
+    },
+    {
+      "name": "friday",
+      "performance": "Good",
+      "star_1": 0,
+      "star_2": 0,
+      "star_3": 2,
+      "star_4": 4,
+      "star_5": 3
+    },
+    {
+      "name": "friends",
+      "performance": "Average",
+      "star_1": 0,
+      "star_2": 5,
+      "star_3": 9,
+      "star_4": 21,
+      "star_5": 16
+    },
+    {
+      "name": "sandwiches",
+      "performance": "Average",
+      "star_1": 0,
+      "star_2": 0,
+      "star_3": 3,
+      "star_4": 6,
+      "star_5": 0
+    },
+    {
+      "name": "drinks",
+      "performance": "Average",
+      "star_1": 2,
+      "star_2": 5,
+      "star_3": 6,
+      "star_4": 7,
+      "star_5": 9
+    },
+    {
+      "name": "party",
+      "performance": "Good",
+      "star_1": 0,
+      "star_2": 0,
+      "star_3": 0,
+      "star_4": 5,
+      "star_5": 0
+    },
+    {
+      "name": "fun",
+      "performance": "Good",
+      "star_1": 0,
+      "star_2": 0,
+      "star_3": 2,
+      "star_4": 9,
+      "star_5": 9
+    },
+    {
+      "name": "ale",
+      "performance": "Good",
+      "star_1": 0,
+      "star_2": 0,
+      "star_3": 5,
+      "star_4": 14,
+      "star_5": 14
+    },
+    {
+      "name": "dinner",
+      "performance": "Good",
+      "star_1": 0,
+      "star_2": 0,
+      "star_3": 2,
+      "star_4": 10,
+      "star_5": 10
+    },
+    {
+      "name": "crowd",
+      "performance": "Average",
+      "star_1": 0,
+      "star_2": 0,
+      "star_3": 3,
+      "star_4": 0,
+      "star_5": 4
+    },
+    {
+      "name": "sliders",
+      "performance": "Good",
+      "star_1": 0,
+      "star_2": 0,
+      "star_3": 0,
+      "star_4": 4,
+      "star_5": 2
+    },
+    {
+      "name": "half",
+      "performance": "Good",
+      "star_1": 0,
+      "star_2": 0,
+      "star_3": 0,
+      "star_4": 3,
+      "star_5": 2
+    },
+    {
+      "name": "amount",
+      "performance": "Average",
+      "star_1": 0,
+      "star_2": 0,
+      "star_3": 3,
+      "star_4": 4,
+      "star_5": 2
+    },
+    {
+      "name": "hop shock",
+      "performance": "Good",
+      "star_1": 0,
+      "star_2": 0,
+      "star_3": 0,
+      "star_4": 3,
+      "star_5": 3
+    },
+    {
+      "name": "burgers",
+      "performance": "Good",
+      "star_1": 0,
+      "star_2": 0,
+      "star_3": 5,
+      "star_4": 24,
+      "star_5": 16
+    },
+    {
+      "name": "vibe",
+      "performance": "Good",
+      "star_1": 0,
+      "star_2": 0,
+      "star_3": 0,
+      "star_4": 4,
+      "star_5": 6
+    },
+    {
+      "name": "boyfriend",
+      "performance": "Good",
+      "star_1": 0,
+      "star_2": 0,
+      "star_3": 2,
+      "star_4": 3,
+      "star_5": 4
+    },
+    {
+      "name": "pizza",
+      "performance": "Good",
+      "star_1": 0,
+      "star_2": 2,
+      "star_3": 0,
+      "star_4": 10,
+      "star_5": 14
+    },
+    {
+      "name": "trip",
+      "performance": "Good",
+      "star_1": 0,
+      "star_2": 0,
+      "star_3": 0,
+      "star_4": 8,
+      "star_5": 5
+    },
+    {
+      "name": "cheese",
+      "performance": "Average",
+      "star_1": 0,
+      "star_2": 5,
+      "star_3": 7,
+      "star_4": 16,
+      "star_5": 14
+    },
+    {
+      "name": "santan",
+      "performance": "Average",
+      "star_1": 0,
+      "star_2": 3,
+      "star_3": 9,
+      "star_4": 3,
+      "star_5": 8
+    },
+    {
+      "name": "growler",
+      "performance": "Good",
+      "star_1": 0,
+      "star_2": 0,
+      "star_3": 0,
+      "star_4": 5,
+      "star_5": 4
+    },
+    {
+      "name": "while",
+      "performance": "Good",
+      "star_1": 0,
+      "star_2": 0,
+      "star_3": 2,
+      "star_4": 5,
+      "star_5": 4
+    },
+    {
+      "name": "attention",
+      "performance": "Average",
+      "star_1": 0,
+      "star_2": 0,
+      "star_3": 4,
+      "star_4": 2,
+      "star_5": 0
+    },
+    {
+      "name": "weather",
+      "performance": "Good",
+      "star_1": 0,
+      "star_2": 0,
+      "star_3": 0,
+      "star_4": 6,
+      "star_5": 0
+    },
+    {
+      "name": "great beer",
+      "performance": "Good",
+      "star_1": 0,
+      "star_2": 0,
+      "star_3": 0,
+      "star_4": 5,
+      "star_5": 9
+    },
+    {
+      "name": "reviews",
+      "performance": "Good",
+      "star_1": 0,
+      "star_2": 0,
+      "star_3": 0,
+      "star_4": 3,
+      "star_5": 2
+    },
+    {
+      "name": "times",
+      "performance": "Average",
+      "star_1": 2,
+      "star_2": 5,
+      "star_3": 6,
+      "star_4": 20,
+      "star_5": 14
+    },
+    {
+      "name": "lot",
+      "performance": "Average",
+      "star_1": 0,
+      "star_2": 2,
+      "star_3": 7,
+      "star_4": 21,
+      "star_5": 4
+    },
+    {
+      "name": "life",
+      "performance": "Good",
+      "star_1": 0,
+      "star_2": 0,
+      "star_3": 0,
+      "star_4": 3,
+      "star_5": 2
+    },
+    {
+      "name": "devils ale",
+      "performance": "Good",
+      "star_1": 0,
+      "star_2": 0,
+      "star_3": 0,
+      "star_4": 4,
+      "star_5": 4
+    },
+    {
+      "name": "epicenter amber",
+      "performance": "Good",
+      "star_1": 0,
+      "star_2": 0,
+      "star_3": 0,
+      "star_4": 3,
+      "star_5": 3
+    },
+    {
+      "name": "care",
+      "performance": "Good",
+      "star_1": 0,
+      "star_2": 0,
+      "star_3": 0,
+      "star_4": 4,
+      "star_5": 2
+    },
+    {
+      "name": "music",
+      "performance": "Good",
+      "star_1": 0,
+      "star_2": 0,
+      "star_3": 3,
+      "star_4": 11,
+      "star_5": 5
+    },
+    {
+      "name": "beer bread",
+      "performance": "Average",
+      "star_1": 0,
+      "star_2": 2,
+      "star_3": 0,
+      "star_4": 3,
+      "star_5": 3
+    },
+    {
+      "name": "year",
+      "performance": "Good",
+      "star_1": 0,
+      "star_2": 0,
+      "star_3": 0,
+      "star_4": 7,
+      "star_5": 8
+    },
+    {
+      "name": "idea",
+      "performance": "Average",
+      "star_1": 0,
+      "star_2": 0,
+      "star_3": 2,
+      "star_4": 3,
+      "star_5": 0
+    },
+    {
+      "name": "pork",
+      "performance": "Good",
+      "star_1": 0,
+      "star_2": 0,
+      "star_3": 0,
+      "star_4": 3,
+      "star_5": 7
+    },
+    {
+      "name": "parking",
+      "performance": "Good",
+      "star_1": 0,
+      "star_2": 0,
+      "star_3": 0,
+      "star_4": 4,
+      "star_5": 2
+    },
+    {
+      "name": "salads",
+      "performance": "Good",
+      "star_1": 0,
+      "star_2": 0,
+      "star_3": 0,
+      "star_4": 2,
+      "star_5": 3
+    },
+    {
+      "name": "stuff",
+      "performance": "Good",
+      "star_1": 0,
+      "star_2": 0,
+      "star_3": 0,
+      "star_4": 5,
+      "star_5": 5
+    },
+    {
+      "name": "day",
+      "performance": "Good",
+      "star_1": 0,
+      "star_2": 0,
+      "star_3": 7,
+      "star_4": 13,
+      "star_5": 11
+    },
+    {
+      "name": "tacos",
+      "performance": "Good",
+      "star_1": 0,
+      "star_2": 0,
+      "star_3": 2,
+      "star_4": 7,
+      "star_5": 4
+    },
+    {
+      "name": "hefe",
+      "performance": "Average",
+      "star_1": 0,
+      "star_2": 0,
+      "star_3": 3,
+      "star_4": 4,
+      "star_5": 2
+    },
+    {
+      "name": "price",
+      "performance": "Average",
+      "star_1": 0,
+      "star_2": 0,
+      "star_3": 2,
+      "star_4": 5,
+      "star_5": 0
+    },
+    {
+      "name": "variety",
+      "performance": "Good",
+      "star_1": 0,
+      "star_2": 0,
+      "star_3": 0,
+      "star_4": 11,
+      "star_5": 3
+    },
+    {
+      "name": "beef",
+      "performance": "Good",
+      "star_1": 0,
+      "star_2": 0,
+      "star_3": 0,
+      "star_4": 3,
+      "star_5": 4
+    },
+    {
+      "name": "tv",
+      "performance": "Good",
+      "star_1": 0,
+      "star_2": 0,
+      "star_3": 0,
+      "star_4": 4,
+      "star_5": 2
+    },
+    {
+      "name": "bartender",
+      "performance": "Good",
+      "star_1": 0,
+      "star_2": 0,
+      "star_3": 0,
+      "star_4": 3,
+      "star_5": 2
+    },
+    {
+      "name": "menu",
+      "performance": "Average",
+      "star_1": 0,
+      "star_2": 5,
+      "star_3": 13,
+      "star_4": 33,
+      "star_5": 21
+    },
+    {
+      "name": "great",
+      "performance": "Average",
+      "star_1": 0,
+      "star_2": 0,
+      "star_3": 2,
+      "star_4": 3,
+      "star_5": 0
+    },
+    {
+      "name": "pretzels",
+      "performance": "Good",
+      "star_1": 0,
+      "star_2": 0,
+      "star_3": 2,
+      "star_4": 7,
+      "star_5": 7
+    },
+    {
+      "name": "pm",
+      "performance": "Average",
+      "star_1": 0,
+      "star_2": 0,
+      "star_3": 4,
+      "star_4": 2,
+      "star_5": 0
+    },
+    {
+      "name": "part",
+      "performance": "Good",
+      "star_1": 0,
+      "star_2": 0,
+      "star_3": 3,
+      "star_4": 8,
+      "star_5": 4
+    },
+    {
+      "name": "town",
+      "performance": "Average",
+      "star_1": 0,
+      "star_2": 2,
+      "star_3": 2,
+      "star_4": 4,
+      "star_5": 7
+    },
+    {
+      "name": "chips",
+      "performance": "Average",
+      "star_1": 0,
+      "star_2": 3,
+      "star_3": 6,
+      "star_4": 12,
+      "star_5": 8
+    },
+    {
+      "name": "spot",
+      "performance": "Good",
+      "star_1": 0,
+      "star_2": 0,
+      "star_3": 3,
+      "star_4": 11,
+      "star_5": 8
+    },
+    {
+      "name": "beer drinker",
+      "performance": "Average",
+      "star_1": 0,
+      "star_2": 0,
+      "star_3": 2,
+      "star_4": 3,
+      "star_5": 2
+    },
+    {
+      "name": "environment",
+      "performance": "Good",
+      "star_1": 0,
+      "star_2": 0,
+      "star_3": 0,
+      "star_4": 5,
+      "star_5": 3
+    },
+    {
+      "name": "minutes",
+      "performance": "Average",
+      "star_1": 0,
+      "star_2": 3,
+      "star_3": 6,
+      "star_4": 8,
+      "star_5": 4
+    },
+    {
+      "name": "devil",
+      "performance": "Good",
+      "star_1": 0,
+      "star_2": 0,
+      "star_3": 2,
+      "star_4": 12,
+      "star_5": 13
+    },
+    {
+      "name": "friday night",
+      "performance": "Good",
+      "star_1": 0,
+      "star_2": 0,
+      "star_3": 2,
+      "star_4": 7,
+      "star_5": 0
+    },
+    {
+      "name": "great service",
+      "performance": "Good",
+      "star_1": 0,
+      "star_2": 0,
+      "star_3": 0,
+      "star_4": 0,
+      "star_5": 5
+    },
+    {
+      "name": "wife",
+      "performance": "Good",
+      "star_1": 0,
+      "star_2": 2,
+      "star_3": 0,
+      "star_4": 5,
+      "star_5": 10
+    },
+    {
+      "name": "hubby",
+      "performance": "Good",
+      "star_1": 0,
+      "star_2": 0,
+      "star_3": 0,
+      "star_4": 2,
+      "star_5": 3
+    },
+    {
+      "name": "business",
+      "performance": "Good",
+      "star_1": 0,
+      "star_2": 2,
+      "star_3": 0,
+      "star_4": 3,
+      "star_5": 4
+    },
+    {
+      "name": "rest",
+      "performance": "Good",
+      "star_1": 0,
+      "star_2": 0,
+      "star_3": 0,
+      "star_4": 2,
+      "star_5": 4
+    },
+    {
+      "name": "tastes",
+      "performance": "Average",
+      "star_1": 0,
+      "star_2": 0,
+      "star_3": 2,
+      "star_4": 0,
+      "star_5": 3
+    },
+    {
+      "name": "fish",
+      "performance": "Average",
+      "star_1": 0,
+      "star_2": 0,
+      "star_3": 4,
+      "star_4": 4,
+      "star_5": 6
+    },
+    {
+      "name": "side",
+      "performance": "Average",
+      "star_1": 0,
+      "star_2": 0,
+      "star_3": 6,
+      "star_4": 8,
+      "star_5": 6
+    },
+    {
+      "name": "game",
+      "performance": "Good",
+      "star_1": 0,
+      "star_2": 0,
+      "star_3": 0,
+      "star_4": 7,
+      "star_5": 0
+    },
+    {
+      "name": "reservation",
+      "performance": "Good",
+      "star_1": 0,
+      "star_2": 0,
+      "star_3": 0,
+      "star_4": 2,
+      "star_5": 3
+    },
+    {
+      "name": "patio",
+      "performance": "Good",
+      "star_1": 0,
+      "star_2": 2,
+      "star_3": 5,
+      "star_4": 20,
+      "star_5": 10
+    },
+    {
+      "name": "epicenter",
+      "performance": "Good",
+      "star_1": 0,
+      "star_2": 0,
+      "star_3": 0,
+      "star_4": 10,
+      "star_5": 10
+    },
+    {
+      "name": "phoenix",
+      "performance": "Good",
+      "star_1": 0,
+      "star_2": 0,
+      "star_3": 0,
+      "star_4": 2,
+      "star_5": 3
+    },
+    {
+      "name": "appetizers",
+      "performance": "Good",
+      "star_1": 0,
+      "star_2": 0,
+      "star_3": 3,
+      "star_4": 10,
+      "star_5": 7
+    },
+    {
+      "name": "visit",
+      "performance": "Average",
+      "star_1": 0,
+      "star_2": 0,
+      "star_3": 9,
+      "star_4": 4,
+      "star_5": 6
+    },
+    {
+      "name": "yum",
+      "performance": "Good",
+      "star_1": 0,
+      "star_2": 0,
+      "star_3": 0,
+      "star_4": 3,
+      "star_5": 4
+    },
+    {
+      "name": "location",
+      "performance": "Good",
+      "star_1": 0,
+      "star_2": 2,
+      "star_3": 0,
+      "star_4": 7,
+      "star_5": 3
+    },
+    {
+      "name": "point",
+      "performance": "Average",
+      "star_1": 0,
+      "star_2": 0,
+      "star_3": 3,
+      "star_4": 7,
+      "star_5": 2
+    },
+    {
+      "name": "brewpub",
+      "performance": "Good",
+      "star_1": 0,
+      "star_2": 0,
+      "star_3": 0,
+      "star_4": 3,
+      "star_5": 2
+    },
+    {
+      "name": "olives",
+      "performance": "Good",
+      "star_1": 0,
+      "star_2": 0,
+      "star_3": 0,
+      "star_4": 2,
+      "star_5": 3
+    },
+    {
+      "name": "peaks",
+      "performance": "Average",
+      "star_1": 0,
+      "star_2": 2,
+      "star_3": 8,
+      "star_4": 11,
+      "star_5": 7
+    },
+    {
+      "name": "selections",
+      "performance": "Average",
+      "star_1": 0,
+      "star_2": 2,
+      "star_3": 0,
+      "star_4": 2,
+      "star_5": 2
+    },
+    {
+      "name": "weekends",
+      "performance": "Good",
+      "star_1": 0,
+      "star_2": 0,
+      "star_3": 2,
+      "star_4": 7,
+      "star_5": 2
+    },
+    {
+      "name": "friend",
+      "performance": "Average",
+      "star_1": 0,
+      "star_2": 2,
+      "star_3": 5,
+      "star_4": 14,
+      "star_5": 4
+    },
+    {
+      "name": "others",
+      "performance": "Good",
+      "star_1": 0,
+      "star_2": 0,
+      "star_3": 0,
+      "star_4": 2,
+      "star_5": 6
+    },
+    {
+      "name": "misters",
+      "performance": "Good",
+      "star_1": 0,
+      "star_2": 0,
+      "star_3": 0,
+      "star_4": 3,
+      "star_5": 2
+    },
+    {
+      "name": "family",
+      "performance": "Good",
+      "star_1": 0,
+      "star_2": 0,
+      "star_3": 2,
+      "star_4": 4,
+      "star_5": 5
+    },
+    {
+      "name": "problem",
+      "performance": "Average",
+      "star_1": 0,
+      "star_2": 0,
+      "star_3": 4,
+      "star_4": 4,
+      "star_5": 2
+    },
+    {
+      "name": "order",
+      "performance": "Good",
+      "star_1": 0,
+      "star_2": 0,
+      "star_3": 4,
+      "star_4": 14,
+      "star_5": 11
+    },
+    {
+      "name": "space",
+      "performance": "Average",
+      "star_1": 0,
+      "star_2": 0,
+      "star_3": 2,
+      "star_4": 2,
+      "star_5": 2
+    },
+    {
+      "name": "juicy",
+      "performance": "Good",
+      "star_1": 0,
+      "star_2": 0,
+      "star_3": 2,
+      "star_4": 6,
+      "star_5": 4
+    },
+    {
+      "name": "love",
+      "performance": "Good",
+      "star_1": 0,
+      "star_2": 2,
+      "star_3": 0,
+      "star_4": 2,
+      "star_5": 5
+    },
+    {
+      "name": "wait",
+      "performance": "Good",
+      "star_1": 0,
+      "star_2": 0,
+      "star_3": 4,
+      "star_4": 11,
+      "star_5": 3
+    },
+    {
+      "name": "ones",
+      "performance": "Average",
+      "star_1": 0,
+      "star_2": 3,
+      "star_3": 0,
+      "star_4": 2,
+      "star_5": 2
+    },
+    {
+      "name": "san tan",
+      "performance": "Good",
+      "star_1": 0,
+      "star_2": 2,
+      "star_3": 3,
+      "star_4": 18,
+      "star_5": 20
+    },
+    {
+      "name": "families",
+      "performance": "Good",
+      "star_1": 0,
+      "star_2": 0,
+      "star_3": 0,
+      "star_4": 3,
+      "star_5": 2
+    },
+    {
+      "name": "work",
+      "performance": "Good",
+      "star_1": 0,
+      "star_2": 0,
+      "star_3": 0,
+      "star_4": 8,
+      "star_5": 2
+    },
+    {
+      "name": "plenty",
+      "performance": "Good",
+      "star_1": 0,
+      "star_2": 0,
+      "star_3": 0,
+      "star_4": 9,
+      "star_5": 3
+    },
+    {
+      "name": "items",
+      "performance": "Good",
+      "star_1": 0,
+      "star_2": 2,
+      "star_3": 0,
+      "star_4": 7,
+      "star_5": 5
+    },
+    {
+      "name": "sampler",
+      "performance": "Good",
+      "star_1": 0,
+      "star_2": 0,
+      "star_3": 2,
+      "star_4": 3,
+      "star_5": 7
+    },
+    {
+      "name": "hint",
+      "performance": "Average",
+      "star_1": 0,
+      "star_2": 0,
+      "star_3": 3,
+      "star_4": 0,
+      "star_5": 2
+    },
+    {
+      "name": "tempe",
+      "performance": "Average",
+      "star_1": 0,
+      "star_2": 0,
+      "star_3": 4,
+      "star_4": 4,
+      "star_5": 0
+    },
+    {
+      "name": "servers",
+      "performance": "Average",
+      "star_1": 0,
+      "star_2": 2,
+      "star_3": 6,
+      "star_4": 5,
+      "star_5": 6
+    },
+    {
+      "name": "san tan brewery",
+      "performance": "Good",
+      "star_1": 0,
+      "star_2": 0,
+      "star_3": 2,
+      "star_4": 4,
+      "star_5": 9
+    },
+    {
+      "name": "time",
+      "performance": "Good",
+      "star_1": 0,
+      "star_2": 6,
+      "star_3": 16,
+      "star_4": 38,
+      "star_5": 37
+    },
+    {
+      "name": "fact",
+      "performance": "Average",
+      "star_1": 0,
+      "star_2": 0,
+      "star_3": 6,
+      "star_4": 7,
+      "star_5": 2
+    },
+    {
+      "name": "bite",
+      "performance": "Good",
+      "star_1": 0,
+      "star_2": 0,
+      "star_3": 0,
+      "star_4": 6,
+      "star_5": 3
+    },
+    {
+      "name": "name",
+      "performance": "Good",
+      "star_1": 0,
+      "star_2": 0,
+      "star_3": 2,
+      "star_4": 2,
+      "star_5": 7
+    },
+    {
+      "name": "brunch",
+      "performance": "Good",
+      "star_1": 0,
+      "star_2": 0,
+      "star_3": 0,
+      "star_4": 2,
+      "star_5": 4
+    },
+    {
+      "name": "mine",
+      "performance": "Average",
+      "star_1": 0,
+      "star_2": 3,
+      "star_3": 0,
+      "star_4": 0,
+      "star_5": 4
+    },
+    {
+      "name": "group",
+      "performance": "Average",
+      "star_1": 0,
+      "star_2": 0,
+      "star_3": 4,
+      "star_4": 4,
+      "star_5": 0
+    },
+    {
+      "name": "soup",
+      "performance": "Average",
+      "star_1": 0,
+      "star_2": 0,
+      "star_3": 2,
+      "star_4": 3,
+      "star_5": 0
+    },
+    {
+      "name": "way",
+      "performance": "Average",
+      "star_1": 0,
+      "star_2": 7,
+      "star_3": 10,
+      "star_4": 18,
+      "star_5": 11
+    },
+    {
+      "name": "beer",
+      "performance": "Good",
+      "star_1": 0,
+      "star_2": 11,
+      "star_3": 29,
+      "star_4": 81,
+      "star_5": 93
+    },
+    {
+      "name": "flavor",
+      "performance": "Average",
+      "star_1": 0,
+      "star_2": 2,
+      "star_3": 5,
+      "star_4": 10,
+      "star_5": 8
+    },
+    {
+      "name": "years",
+      "performance": "Good",
+      "star_1": 0,
+      "star_2": 2,
+      "star_3": 0,
+      "star_4": 3,
+      "star_5": 7
+    },
+    {
+      "name": "days",
+      "performance": "Average",
+      "star_1": 0,
+      "star_2": 0,
+      "star_3": 2,
+      "star_4": 0,
+      "star_5": 5
+    },
+    {
+      "name": "tomatoes",
+      "performance": "Good",
+      "star_1": 0,
+      "star_2": 0,
+      "star_3": 0,
+      "star_4": 2,
+      "star_5": 3
+    },
+    {
+      "name": "burger",
+      "performance": "Average",
+      "star_1": 0,
+      "star_2": 7,
+      "star_3": 10,
+      "star_4": 13,
+      "star_5": 18
+    },
+    {
+      "name": "bit",
+      "performance": "Average",
+      "star_1": 0,
+      "star_2": 2,
+      "star_3": 11,
+      "star_4": 21,
+      "star_5": 7
+    },
+    {
+      "name": "bar",
+      "performance": "Average",
+      "star_1": 0,
+      "star_2": 3,
+      "star_3": 9,
+      "star_4": 14,
+      "star_5": 18
+    },
+    {
+      "name": "craft beers",
+      "performance": "Good",
+      "star_1": 0,
+      "star_2": 0,
+      "star_3": 0,
+      "star_4": 0,
+      "star_5": 5
+    },
+    {
+      "name": "sunday",
+      "performance": "Good",
+      "star_1": 0,
+      "star_2": 0,
+      "star_3": 0,
+      "star_4": 4,
+      "star_5": 2
+    },
+    {
+      "name": "guy",
+      "performance": "Good",
+      "star_1": 0,
+      "star_2": 0,
+      "star_3": 0,
+      "star_4": 3,
+      "star_5": 2
+    },
+    {
+      "name": "always",
+      "performance": "Good",
+      "star_1": 0,
+      "star_2": 0,
+      "star_3": 0,
+      "star_4": 2,
+      "star_5": 4
+    },
+    {
+      "name": "sex panther",
+      "performance": "Average",
+      "star_1": 0,
+      "star_2": 0,
+      "star_3": 2,
+      "star_4": 0,
+      "star_5": 5
+    },
+    {
+      "name": "hopshock",
+      "performance": "Good",
+      "star_1": 0,
+      "star_2": 0,
+      "star_3": 0,
+      "star_4": 5,
+      "star_5": 2
+    },
+    {
+      "name": "specials",
+      "performance": "Good",
+      "star_1": 0,
+      "star_2": 0,
+      "star_3": 0,
+      "star_4": 5,
+      "star_5": 3
+    },
+    {
+      "name": "brews",
+      "performance": "Good",
+      "star_1": 0,
+      "star_2": 0,
+      "star_3": 6,
+      "star_4": 10,
+      "star_5": 9
+    },
+    {
+      "name": "waiter",
+      "performance": "Average",
+      "star_1": 0,
+      "star_2": 0,
+      "star_3": 2,
+      "star_4": 4,
+      "star_5": 2
+    },
+    {
+      "name": "seats",
+      "performance": "Average",
+      "star_1": 0,
+      "star_2": 0,
+      "star_3": 2,
+      "star_4": 4,
+      "star_5": 0
+    },
+    {
+      "name": "pizzas",
+      "performance": "Good",
+      "star_1": 0,
+      "star_2": 0,
+      "star_3": 0,
+      "star_4": 5,
+      "star_5": 4
+    },
+    {
+      "name": "hour",
+      "performance": "Average",
+      "star_1": 0,
+      "star_2": 3,
+      "star_3": 6,
+      "star_4": 16,
+      "star_5": 4
+    },
+    {
+      "name": "chandler",
+      "performance": "Good",
+      "star_1": 0,
+      "star_2": 2,
+      "star_3": 8,
+      "star_4": 35,
+      "star_5": 25
+    },
+    {
+      "name": "santan brewery",
+      "performance": "Good",
+      "star_1": 0,
+      "star_2": 0,
+      "star_3": 0,
+      "star_4": 6,
+      "star_5": 2
+    },
+    {
+      "name": "winter warmer",
+      "performance": "Good",
+      "star_1": 0,
+      "star_2": 0,
+      "star_3": 0,
+      "star_4": 4,
+      "star_5": 4
+    },
+    {
+      "name": "went",
+      "performance": "Average",
+      "star_1": 0,
+      "star_2": 0,
+      "star_3": 4,
+      "star_4": 8,
+      "star_5": 2
+    },
+    {
+      "name": "top",
+      "performance": "Good",
+      "star_1": 0,
+      "star_2": 2,
+      "star_3": 0,
+      "star_4": 4,
+      "star_5": 3
+    },
+    {
+      "name": "people",
+      "performance": "Good",
+      "star_1": 0,
+      "star_2": 2,
+      "star_3": 7,
+      "star_4": 18,
+      "star_5": 12
+    },
+    {
+      "name": "area",
+      "performance": "Good",
+      "star_1": 0,
+      "star_2": 0,
+      "star_3": 5,
+      "star_4": 12,
+      "star_5": 7
+    },
+    {
+      "name": "flavors",
+      "performance": "Good",
+      "star_1": 0,
+      "star_2": 0,
+      "star_3": 0,
+      "star_4": 4,
+      "star_5": 2
+    },
+    {
+      "name": "gordo stout",
+      "performance": "Good",
+      "star_1": 0,
+      "star_2": 0,
+      "star_3": 0,
+      "star_4": 6,
+      "star_5": 3
+    },
+    {
+      "name": "arizona",
+      "performance": "Good",
+      "star_1": 0,
+      "star_2": 0,
+      "star_3": 2,
+      "star_4": 5,
+      "star_5": 2
+    },
+    {
+      "name": "tap",
+      "performance": "Good",
+      "star_1": 0,
+      "star_2": 0,
+      "star_3": 0,
+      "star_4": 4,
+      "star_5": 5
+    },
+    {
+      "name": "san tan brewing company",
+      "performance": "Good",
+      "star_1": 0,
+      "star_2": 0,
+      "star_3": 0,
+      "star_4": 5,
+      "star_5": 4
+    },
+    {
+      "name": "week",
+      "performance": "Good",
+      "star_1": 0,
+      "star_2": 0,
+      "star_3": 0,
+      "star_4": 5,
+      "star_5": 4
+    },
+    {
+      "name": "reason",
+      "performance": "Good",
+      "star_1": 0,
+      "star_2": 0,
+      "star_3": 2,
+      "star_4": 5,
+      "star_5": 8
+    },
+    {
+      "name": "review",
+      "performance": "Average",
+      "star_1": 0,
+      "star_2": 0,
+      "star_3": 3,
+      "star_4": 3,
+      "star_5": 3
+    },
+    {
+      "name": "chicken",
+      "performance": "Average",
+      "star_1": 0,
+      "star_2": 0,
+      "star_3": 6,
+      "star_4": 5,
+      "star_5": 6
+    },
+    {
+      "name": "kind",
+      "performance": "Average",
+      "star_1": 0,
+      "star_2": 2,
+      "star_3": 10,
+      "star_4": 9,
+      "star_5": 5
+    },
+    {
+      "name": "pint",
+      "performance": "Average",
+      "star_1": 0,
+      "star_2": 0,
+      "star_3": 3,
+      "star_4": 2,
+      "star_5": 3
+    },
+    {
+      "name": "valley",
+      "performance": "Good",
+      "star_1": 0,
+      "star_2": 0,
+      "star_3": 2,
+      "star_4": 3,
+      "star_5": 4
+    },
+    {
+      "name": "night",
+      "performance": "Good",
+      "star_1": 0,
+      "star_2": 0,
+      "star_3": 9,
+      "star_4": 23,
+      "star_5": 15
+    },
+    {
+      "name": "star",
+      "performance": "Average",
+      "star_1": 0,
+      "star_2": 0,
+      "star_3": 4,
+      "star_4": 4,
+      "star_5": 0
+    },
+    {
+      "name": "nothing",
+      "performance": "Average",
+      "star_1": 0,
+      "star_2": 5,
+      "star_3": 13,
+      "star_4": 6,
+      "star_5": 3
+    },
+    {
+      "name": "manager",
+      "performance": "Average",
+      "star_1": 0,
+      "star_2": 2,
+      "star_3": 3,
+      "star_4": 4,
+      "star_5": 3
+    },
+    {
+      "name": "lunch",
+      "performance": "Average",
+      "star_1": 0,
+      "star_2": 4,
+      "star_3": 4,
+      "star_4": 8,
+      "star_5": 9
+    },
+    {
+      "name": "experience",
+      "performance": "Average",
+      "star_1": 0,
+      "star_2": 3,
+      "star_3": 6,
+      "star_4": 7,
+      "star_5": 8
+    },
+    {
+      "name": "bacon",
+      "performance": "Good",
+      "star_1": 0,
+      "star_2": 0,
+      "star_3": 0,
+      "star_4": 4,
+      "star_5": 6
+    },
+    {
+      "name": "evening",
+      "performance": "Good",
+      "star_1": 0,
+      "star_2": 0,
+      "star_3": 0,
+      "star_4": 3,
+      "star_5": 2
+    },
+    {
+      "name": "beer sampler",
+      "performance": "Good",
+      "star_1": 0,
+      "star_2": 0,
+      "star_3": 2,
+      "star_4": 0,
+      "star_5": 7
+    },
+    {
+      "name": "staff",
+      "performance": "Good",
+      "star_1": 0,
+      "star_2": 4,
+      "star_3": 0,
+      "star_4": 25,
+      "star_5": 28
+    },
+    {
+      "name": "mr. pineapple",
+      "performance": "Good",
+      "star_1": 0,
+      "star_2": 0,
+      "star_3": 0,
+      "star_4": 8,
+      "star_5": 7
+    },
+    {
+      "name": "restaurant",
+      "performance": "Average",
+      "star_1": 0,
+      "star_2": 3,
+      "star_3": 3,
+      "star_4": 10,
+      "star_5": 8
+    },
+    {
+      "name": "craft beer",
+      "performance": "Good",
+      "star_1": 0,
+      "star_2": 0,
+      "star_3": 2,
+      "star_4": 5,
+      "star_5": 7
+    },
+    {
+      "name": "chance",
+      "performance": "Average",
+      "star_1": 0,
+      "star_2": 0,
+      "star_3": 3,
+      "star_4": 2,
+      "star_5": 0
+    },
+    {
+      "name": "saturday night",
+      "performance": "Good",
+      "star_1": 0,
+      "star_2": 0,
+      "star_3": 0,
+      "star_4": 5,
+      "star_5": 0
+    },
+    {
+      "name": "someone",
+      "performance": "Average",
+      "star_1": 0,
+      "star_2": 3,
+      "star_3": 3,
+      "star_4": 4,
+      "star_5": 2
+    },
+    {
+      "name": "sauce",
+      "performance": "Good",
+      "star_1": 0,
+      "star_2": 0,
+      "star_3": 3,
+      "star_4": 7,
+      "star_5": 9
+    },
+    {
+      "name": "nights",
+      "performance": "Good",
+      "star_1": 0,
+      "star_2": 0,
+      "star_3": 0,
+      "star_4": 6,
+      "star_5": 4
+    },
+    {
+      "name": "spicy",
+      "performance": "Average",
+      "star_1": 0,
+      "star_2": 0,
+      "star_3": 3,
+      "star_4": 4,
+      "star_5": 2
+    },
+    {
+      "name": "quality",
+      "performance": "Good",
+      "star_1": 0,
+      "star_2": 0,
+      "star_3": 0,
+      "star_4": 3,
+      "star_5": 4
+    },
+    {
+      "name": "bill",
+      "performance": "Average",
+      "star_1": 0,
+      "star_2": 0,
+      "star_3": 3,
+      "star_4": 4,
+      "star_5": 0
+    },
+    {
+      "name": "water",
+      "performance": "Average",
+      "star_1": 0,
+      "star_2": 2,
+      "star_3": 2,
+      "star_4": 0,
+      "star_5": 2
+    },
+    {
+      "name": "mac",
+      "performance": "Good",
+      "star_1": 0,
+      "star_2": 0,
+      "star_3": 2,
+      "star_4": 6,
+      "star_5": 7
+    },
+    {
+      "name": "appetizer",
+      "performance": "Average",
+      "star_1": 0,
+      "star_2": 0,
+      "star_3": 3,
+      "star_4": 5,
+      "star_5": 2
+    },
+    {
+      "name": "brewery",
+      "performance": "Good",
+      "star_1": 0,
+      "star_2": 2,
+      "star_3": 4,
+      "star_4": 35,
+      "star_5": 20
+    },
+    {
+      "name": "stars",
+      "performance": "Average",
+      "star_1": 0,
+      "star_2": 0,
+      "star_3": 8,
+      "star_4": 11,
+      "star_5": 9
+    },
+    {
+      "name": "glass",
+      "performance": "Average",
+      "star_1": 0,
+      "star_2": 2,
+      "star_3": 2,
+      "star_4": 4,
+      "star_5": 4
+    },
+    {
+      "name": "portions",
+      "performance": "Good",
+      "star_1": 0,
+      "star_2": 0,
+      "star_3": 0,
+      "star_4": 6,
+      "star_5": 5
+    },
+    {
+      "name": "one",
+      "performance": "Average",
+      "star_1": 0,
+      "star_2": 4,
+      "star_3": 0,
+      "star_4": 2,
+      "star_5": 5
+    },
+    {
+      "name": "crust",
+      "performance": "Average",
+      "star_1": 0,
+      "star_2": 0,
+      "star_3": 2,
+      "star_4": 2,
+      "star_5": 2
+    },
+    {
+      "name": "drink",
+      "performance": "Good",
+      "star_1": 0,
+      "star_2": 0,
+      "star_3": 2,
+      "star_4": 12,
+      "star_5": 4
+    },
+    {
+      "name": "movie night",
+      "performance": "Good",
+      "star_1": 0,
+      "star_2": 0,
+      "star_3": 0,
+      "star_4": 2,
+      "star_5": 3
+    },
+    {
+      "name": "building",
+      "performance": "Good",
+      "star_1": 0,
+      "star_2": 0,
+      "star_3": 0,
+      "star_4": 3,
+      "star_5": 3
+    },
+    {
+      "name": "kitchen",
+      "performance": "Average",
+      "star_1": 0,
+      "star_2": 2,
+      "star_3": 4,
+      "star_4": 2,
+      "star_5": 2
+    },
+    {
+      "name": "nachos",
+      "performance": "Good",
+      "star_1": 0,
+      "star_2": 0,
+      "star_3": 3,
+      "star_4": 9,
+      "star_5": 3
+    },
+    {
+      "name": "grits",
+      "performance": "Good",
+      "star_1": 0,
+      "star_2": 0,
+      "star_3": 0,
+      "star_4": 2,
+      "star_5": 3
+    },
+    {
+      "name": "great food",
+      "performance": "Good",
+      "star_1": 0,
+      "star_2": 0,
+      "star_3": 0,
+      "star_4": 3,
+      "star_5": 10
+    },
+    {
+      "name": "home",
+      "performance": "Average",
+      "star_1": 0,
+      "star_2": 0,
+      "star_3": 6,
+      "star_4": 7,
+      "star_5": 9
+    },
+    {
+      "name": "job",
+      "performance": "Good",
+      "star_1": 0,
+      "star_2": 0,
+      "star_3": 2,
+      "star_4": 4,
+      "star_5": 3
+    },
+    {
+      "name": "issue",
+      "performance": "Average",
+      "star_1": 0,
+      "star_2": 0,
+      "star_3": 3,
+      "star_4": 2,
+      "star_5": 2
+    },
+    {
+      "name": "husband",
+      "performance": "Average",
+      "star_1": 0,
+      "star_2": 3,
+      "star_3": 3,
+      "star_4": 6,
+      "star_5": 5
+    },
+    {
+      "name": "nice",
+      "performance": "Good",
+      "star_1": 0,
+      "star_2": 0,
+      "star_3": 0,
+      "star_4": 3,
+      "star_5": 3
+    },
+    {
+      "name": "try",
+      "performance": "Average",
+      "star_1": 0,
+      "star_2": 2,
+      "star_3": 0,
+      "star_4": 3,
+      "star_5": 0
+    },
+    {
+      "name": "sandwich",
+      "performance": "Average",
+      "star_1": 0,
+      "star_2": 0,
+      "star_3": 3,
+      "star_4": 4,
+      "star_5": 4
+    },
+    {
+      "name": "conversation",
+      "performance": "Good",
+      "star_1": 0,
+      "star_2": 0,
+      "star_3": 2,
+      "star_4": 8,
+      "star_5": 4
+    },
+    {
+      "name": "brew",
+      "performance": "Good",
+      "star_1": 0,
+      "star_2": 0,
+      "star_3": 0,
+      "star_4": 6,
+      "star_5": 5
+    },
+    {
+      "name": "favorite",
+      "performance": "Good",
+      "star_1": 0,
+      "star_2": 0,
+      "star_3": 0,
+      "star_4": 7,
+      "star_5": 3
+    },
+    {
+      "name": "meat",
+      "performance": "Average",
+      "star_1": 0,
+      "star_2": 0,
+      "star_3": 3,
+      "star_4": 0,
+      "star_5": 3
+    },
+    {
+      "name": "hummus",
+      "performance": "Good",
+      "star_1": 0,
+      "star_2": 0,
+      "star_3": 2,
+      "star_4": 3,
+      "star_5": 7
+    },
+    {
+      "name": "stout",
+      "performance": "Average",
+      "star_1": 0,
+      "star_2": 0,
+      "star_3": 4,
+      "star_4": 5,
+      "star_5": 7
+    },
+    {
+      "name": "az",
+      "performance": "Good",
+      "star_1": 0,
+      "star_2": 0,
+      "star_3": 2,
+      "star_4": 4,
+      "star_5": 9
+    },
+    {
+      "name": "inside",
+      "performance": "Average",
+      "star_1": 0,
+      "star_2": 2,
+      "star_3": 2,
+      "star_4": 4,
+      "star_5": 4
+    },
+    {
+      "name": "thing",
+      "performance": "Average",
+      "star_1": 2,
+      "star_2": 3,
+      "star_3": 6,
+      "star_4": 12,
+      "star_5": 7
+    }
+  ]
+}

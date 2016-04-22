@@ -1,0 +1,5638 @@
+{
+  "features": [
+    {
+      "name": "wow",
+      "performance": "Average",
+      "star_1": 2,
+      "star_2": 0,
+      "star_3": 0,
+      "star_4": 3,
+      "star_5": 0
+    },
+    {
+      "name": "machine",
+      "performance": "Average",
+      "star_1": 3,
+      "star_2": 0,
+      "star_3": 3,
+      "star_4": 5,
+      "star_5": 2
+    },
+    {
+      "name": "machines",
+      "performance": "Average",
+      "star_1": 2,
+      "star_2": 2,
+      "star_3": 5,
+      "star_4": 9,
+      "star_5": 0
+    },
+    {
+      "name": "pools",
+      "performance": "Average",
+      "star_1": 0,
+      "star_2": 2,
+      "star_3": 2,
+      "star_4": 4,
+      "star_5": 0
+    },
+    {
+      "name": "things",
+      "performance": "Average",
+      "star_1": 10,
+      "star_2": 13,
+      "star_3": 18,
+      "star_4": 30,
+      "star_5": 7
+    },
+    {
+      "name": "meal",
+      "performance": "Average",
+      "star_1": 0,
+      "star_2": 0,
+      "star_3": 2,
+      "star_4": 4,
+      "star_5": 0
+    },
+    {
+      "name": "very",
+      "performance": "Average",
+      "star_1": 0,
+      "star_2": 0,
+      "star_3": 3,
+      "star_4": 4,
+      "star_5": 0
+    },
+    {
+      "name": "level",
+      "performance": "Average",
+      "star_1": 2,
+      "star_2": 0,
+      "star_3": 3,
+      "star_4": 8,
+      "star_5": 0
+    },
+    {
+      "name": "drop",
+      "performance": "Average",
+      "star_1": 0,
+      "star_2": 0,
+      "star_3": 2,
+      "star_4": 3,
+      "star_5": 0
+    },
+    {
+      "name": "room",
+      "performance": "Average",
+      "star_1": 28,
+      "star_2": 47,
+      "star_3": 87,
+      "star_4": 126,
+      "star_5": 33
+    },
+    {
+      "name": "food",
+      "performance": "Average",
+      "star_1": 3,
+      "star_2": 13,
+      "star_3": 30,
+      "star_4": 48,
+      "star_5": 8
+    },
+    {
+      "name": "waitress",
+      "performance": "Average",
+      "star_1": 0,
+      "star_2": 3,
+      "star_3": 2,
+      "star_4": 3,
+      "star_5": 0
+    },
+    {
+      "name": "points",
+      "performance": "Average",
+      "star_1": 0,
+      "star_2": 2,
+      "star_3": 0,
+      "star_4": 3,
+      "star_5": 0
+    },
+    {
+      "name": "bucks",
+      "performance": "Good",
+      "star_1": 0,
+      "star_2": 0,
+      "star_3": 0,
+      "star_4": 5,
+      "star_5": 0
+    },
+    {
+      "name": "seating",
+      "performance": "Good",
+      "star_1": 0,
+      "star_2": 0,
+      "star_3": 0,
+      "star_4": 5,
+      "star_5": 0
+    },
+    {
+      "name": "restaurants",
+      "performance": "Average",
+      "star_1": 3,
+      "star_2": 15,
+      "star_3": 32,
+      "star_4": 54,
+      "star_5": 13
+    },
+    {
+      "name": "atmosphere",
+      "performance": "Good",
+      "star_1": 0,
+      "star_2": 2,
+      "star_3": 2,
+      "star_4": 11,
+      "star_5": 6
+    },
+    {
+      "name": "year",
+      "performance": "Average",
+      "star_1": 4,
+      "star_2": 5,
+      "star_3": 6,
+      "star_4": 19,
+      "star_5": 2
+    },
+    {
+      "name": "areas",
+      "performance": "Average",
+      "star_1": 0,
+      "star_2": 0,
+      "star_3": 2,
+      "star_4": 5,
+      "star_5": 0
+    },
+    {
+      "name": "process",
+      "performance": "Average",
+      "star_1": 0,
+      "star_2": 2,
+      "star_3": 0,
+      "star_4": 4,
+      "star_5": 0
+    },
+    {
+      "name": "ny-ny",
+      "performance": "Average",
+      "star_1": 0,
+      "star_2": 3,
+      "star_3": 3,
+      "star_4": 9,
+      "star_5": 0
+    },
+    {
+      "name": "sheets",
+      "performance": "Bad",
+      "star_1": 0,
+      "star_2": 8,
+      "star_3": 2,
+      "star_4": 5,
+      "star_5": 0
+    },
+    {
+      "name": "hotel",
+      "performance": "Average",
+      "star_1": 26,
+      "star_2": 43,
+      "star_3": 71,
+      "star_4": 163,
+      "star_5": 39
+    },
+    {
+      "name": "corner room",
+      "performance": "Average",
+      "star_1": 0,
+      "star_2": 0,
+      "star_3": 4,
+      "star_4": 5,
+      "star_5": 4
+    },
+    {
+      "name": "cool",
+      "performance": "Average",
+      "star_1": 0,
+      "star_2": 0,
+      "star_3": 4,
+      "star_4": 8,
+      "star_5": 2
+    },
+    {
+      "name": "guys",
+      "performance": "Average",
+      "star_1": 0,
+      "star_2": 0,
+      "star_3": 3,
+      "star_4": 6,
+      "star_5": 0
+    },
+    {
+      "name": "tower",
+      "performance": "Average",
+      "star_1": 0,
+      "star_2": 2,
+      "star_3": 2,
+      "star_4": 3,
+      "star_5": 2
+    },
+    {
+      "name": "folks",
+      "performance": "Average",
+      "star_1": 0,
+      "star_2": 3,
+      "star_3": 4,
+      "star_4": 0,
+      "star_5": 0
+    },
+    {
+      "name": "ladies",
+      "performance": "Good",
+      "star_1": 0,
+      "star_2": 0,
+      "star_3": 0,
+      "star_4": 5,
+      "star_5": 0
+    },
+    {
+      "name": "decent",
+      "performance": "Average",
+      "star_1": 0,
+      "star_2": 0,
+      "star_3": 3,
+      "star_4": 2,
+      "star_5": 0
+    },
+    {
+      "name": "use",
+      "performance": "Average",
+      "star_1": 0,
+      "star_2": 0,
+      "star_3": 3,
+      "star_4": 3,
+      "star_5": 0
+    },
+    {
+      "name": "construction",
+      "performance": "Average",
+      "star_1": 0,
+      "star_2": 0,
+      "star_3": 5,
+      "star_4": 3,
+      "star_5": 0
+    },
+    {
+      "name": "stratosphere",
+      "performance": "Average",
+      "star_1": 0,
+      "star_2": 0,
+      "star_3": 3,
+      "star_4": 2,
+      "star_5": 0
+    },
+    {
+      "name": "age",
+      "performance": "Average",
+      "star_1": 0,
+      "star_2": 2,
+      "star_3": 4,
+      "star_4": 2,
+      "star_5": 0
+    },
+    {
+      "name": "bank",
+      "performance": "Average",
+      "star_1": 0,
+      "star_2": 2,
+      "star_3": 2,
+      "star_4": 3,
+      "star_5": 0
+    },
+    {
+      "name": "towels",
+      "performance": "Average",
+      "star_1": 2,
+      "star_2": 3,
+      "star_3": 4,
+      "star_4": 3,
+      "star_5": 2
+    },
+    {
+      "name": "eateries",
+      "performance": "Average",
+      "star_1": 3,
+      "star_2": 2,
+      "star_3": 5,
+      "star_4": 11,
+      "star_5": 0
+    },
+    {
+      "name": "tip",
+      "performance": "Average",
+      "star_1": 0,
+      "star_2": 2,
+      "star_3": 3,
+      "star_4": 4,
+      "star_5": 2
+    },
+    {
+      "name": "worth",
+      "performance": "Average",
+      "star_1": 0,
+      "star_2": 0,
+      "star_3": 3,
+      "star_4": 6,
+      "star_5": 2
+    },
+    {
+      "name": "end",
+      "performance": "Average",
+      "star_1": 0,
+      "star_2": 8,
+      "star_3": 20,
+      "star_4": 26,
+      "star_5": 2
+    },
+    {
+      "name": "right",
+      "performance": "Average",
+      "star_1": 0,
+      "star_2": 2,
+      "star_3": 3,
+      "star_4": 5,
+      "star_5": 0
+    },
+    {
+      "name": "course",
+      "performance": "Average",
+      "star_1": 2,
+      "star_2": 4,
+      "star_3": 7,
+      "star_4": 12,
+      "star_5": 2
+    },
+    {
+      "name": "blackjack table",
+      "performance": "Bad",
+      "star_1": 3,
+      "star_2": 0,
+      "star_3": 0,
+      "star_4": 3,
+      "star_5": 0
+    },
+    {
+      "name": "seat",
+      "performance": "Average",
+      "star_1": 0,
+      "star_2": 2,
+      "star_3": 3,
+      "star_4": 3,
+      "star_5": 0
+    },
+    {
+      "name": "choice",
+      "performance": "Average",
+      "star_1": 0,
+      "star_2": 0,
+      "star_3": 7,
+      "star_4": 8,
+      "star_5": 3
+    },
+    {
+      "name": "guy",
+      "performance": "Average",
+      "star_1": 2,
+      "star_2": 4,
+      "star_3": 6,
+      "star_4": 5,
+      "star_5": 2
+    },
+    {
+      "name": "upstairs",
+      "performance": "Bad",
+      "star_1": 0,
+      "star_2": 3,
+      "star_3": 0,
+      "star_4": 3,
+      "star_5": 0
+    },
+    {
+      "name": "girls",
+      "performance": "Average",
+      "star_1": 4,
+      "star_2": 2,
+      "star_3": 3,
+      "star_4": 8,
+      "star_5": 0
+    },
+    {
+      "name": "channels",
+      "performance": "Average",
+      "star_1": 0,
+      "star_2": 2,
+      "star_3": 5,
+      "star_4": 4,
+      "star_5": 0
+    },
+    {
+      "name": "word",
+      "performance": "Bad",
+      "star_1": 3,
+      "star_2": 0,
+      "star_3": 0,
+      "star_4": 2,
+      "star_5": 0
+    },
+    {
+      "name": "newspaper",
+      "performance": "Average",
+      "star_1": 0,
+      "star_2": 0,
+      "star_3": 4,
+      "star_4": 3,
+      "star_5": 0
+    },
+    {
+      "name": "issues",
+      "performance": "Average",
+      "star_1": 2,
+      "star_2": 2,
+      "star_3": 3,
+      "star_4": 5,
+      "star_5": 2
+    },
+    {
+      "name": "weekend",
+      "performance": "Average",
+      "star_1": 4,
+      "star_2": 5,
+      "star_3": 14,
+      "star_4": 19,
+      "star_5": 2
+    },
+    {
+      "name": "birthday",
+      "performance": "Average",
+      "star_1": 0,
+      "star_2": 2,
+      "star_3": 3,
+      "star_4": 4,
+      "star_5": 2
+    },
+    {
+      "name": "counter",
+      "performance": "Average",
+      "star_1": 0,
+      "star_2": 0,
+      "star_3": 2,
+      "star_4": 5,
+      "star_5": 0
+    },
+    {
+      "name": "book",
+      "performance": "Average",
+      "star_1": 4,
+      "star_2": 3,
+      "star_3": 7,
+      "star_4": 12,
+      "star_5": 2
+    },
+    {
+      "name": "wifi",
+      "performance": "Average",
+      "star_1": 0,
+      "star_2": 5,
+      "star_3": 7,
+      "star_4": 12,
+      "star_5": 3
+    },
+    {
+      "name": "suites",
+      "performance": "Good",
+      "star_1": 0,
+      "star_2": 2,
+      "star_3": 0,
+      "star_4": 6,
+      "star_5": 2
+    },
+    {
+      "name": "spa",
+      "performance": "Average",
+      "star_1": 0,
+      "star_2": 3,
+      "star_3": 4,
+      "star_4": 5,
+      "star_5": 0
+    },
+    {
+      "name": "luxor",
+      "performance": "Average",
+      "star_1": 0,
+      "star_2": 3,
+      "star_3": 11,
+      "star_4": 16,
+      "star_5": 5
+    },
+    {
+      "name": "afternoon",
+      "performance": "Average",
+      "star_1": 0,
+      "star_2": 2,
+      "star_3": 2,
+      "star_4": 4,
+      "star_5": 0
+    },
+    {
+      "name": "vegas hotels",
+      "performance": "Average",
+      "star_1": 0,
+      "star_2": 0,
+      "star_3": 3,
+      "star_4": 5,
+      "star_5": 0
+    },
+    {
+      "name": "gambling",
+      "performance": "Average",
+      "star_1": 3,
+      "star_2": 0,
+      "star_3": 8,
+      "star_4": 10,
+      "star_5": 2
+    },
+    {
+      "name": "change",
+      "performance": "Average",
+      "star_1": 0,
+      "star_2": 2,
+      "star_3": 0,
+      "star_4": 4,
+      "star_5": 2
+    },
+    {
+      "name": "guests",
+      "performance": "Average",
+      "star_1": 5,
+      "star_2": 3,
+      "star_3": 7,
+      "star_4": 4,
+      "star_5": 0
+    },
+    {
+      "name": "drunk",
+      "performance": "Bad",
+      "star_1": 4,
+      "star_2": 0,
+      "star_3": 0,
+      "star_4": 4,
+      "star_5": 0
+    },
+    {
+      "name": "rok",
+      "performance": "Good",
+      "star_1": 0,
+      "star_2": 0,
+      "star_3": 2,
+      "star_4": 9,
+      "star_5": 0
+    },
+    {
+      "name": "ton",
+      "performance": "Average",
+      "star_1": 0,
+      "star_2": 0,
+      "star_3": 2,
+      "star_4": 4,
+      "star_5": 0
+    },
+    {
+      "name": "streets",
+      "performance": "Good",
+      "star_1": 0,
+      "star_2": 2,
+      "star_3": 3,
+      "star_4": 18,
+      "star_5": 2
+    },
+    {
+      "name": "attitude",
+      "performance": "Bad",
+      "star_1": 2,
+      "star_2": 2,
+      "star_3": 2,
+      "star_4": 0,
+      "star_5": 0
+    },
+    {
+      "name": "cons",
+      "performance": "Average",
+      "star_1": 0,
+      "star_2": 0,
+      "star_3": 7,
+      "star_4": 4,
+      "star_5": 2
+    },
+    {
+      "name": "degrees",
+      "performance": "Average",
+      "star_1": 0,
+      "star_2": 2,
+      "star_3": 2,
+      "star_4": 2,
+      "star_5": 0
+    },
+    {
+      "name": "bathrooms",
+      "performance": "Average",
+      "star_1": 2,
+      "star_2": 2,
+      "star_3": 5,
+      "star_4": 9,
+      "star_5": 0
+    },
+    {
+      "name": "life",
+      "performance": "Average",
+      "star_1": 2,
+      "star_2": 0,
+      "star_3": 3,
+      "star_4": 6,
+      "star_5": 5
+    },
+    {
+      "name": "pianos",
+      "performance": "Average",
+      "star_1": 0,
+      "star_2": 2,
+      "star_3": 0,
+      "star_4": 5,
+      "star_5": 0
+    },
+    {
+      "name": "volume",
+      "performance": "Average",
+      "star_1": 0,
+      "star_2": 2,
+      "star_3": 0,
+      "star_4": 3,
+      "star_5": 0
+    },
+    {
+      "name": "greenwich village",
+      "performance": "Average",
+      "star_1": 0,
+      "star_2": 0,
+      "star_3": 2,
+      "star_4": 4,
+      "star_5": 0
+    },
+    {
+      "name": "interior",
+      "performance": "Average",
+      "star_1": 0,
+      "star_2": 2,
+      "star_3": 0,
+      "star_4": 4,
+      "star_5": 0
+    },
+    {
+      "name": "strip view",
+      "performance": "Average",
+      "star_1": 2,
+      "star_2": 0,
+      "star_3": 3,
+      "star_4": 3,
+      "star_5": 0
+    },
+    {
+      "name": "disappointment",
+      "performance": "Average",
+      "star_1": 0,
+      "star_2": 3,
+      "star_3": 2,
+      "star_4": 2,
+      "star_5": 0
+    },
+    {
+      "name": "craps",
+      "performance": "Average",
+      "star_1": 0,
+      "star_2": 2,
+      "star_3": 3,
+      "star_4": 0,
+      "star_5": 2
+    },
+    {
+      "name": "strip",
+      "performance": "Average",
+      "star_1": 5,
+      "star_2": 17,
+      "star_3": 72,
+      "star_4": 115,
+      "star_5": 18
+    },
+    {
+      "name": "luggage",
+      "performance": "Average",
+      "star_1": 0,
+      "star_2": 0,
+      "star_3": 3,
+      "star_4": 3,
+      "star_5": 0
+    },
+    {
+      "name": "place",
+      "performance": "Average",
+      "star_1": 21,
+      "star_2": 40,
+      "star_3": 75,
+      "star_4": 111,
+      "star_5": 30
+    },
+    {
+      "name": "tables",
+      "performance": "Average",
+      "star_1": 2,
+      "star_2": 3,
+      "star_3": 9,
+      "star_4": 21,
+      "star_5": 5
+    },
+    {
+      "name": "slot machines",
+      "performance": "Average",
+      "star_1": 0,
+      "star_2": 2,
+      "star_3": 8,
+      "star_4": 9,
+      "star_5": 2
+    },
+    {
+      "name": "complaint",
+      "performance": "Average",
+      "star_1": 0,
+      "star_2": 0,
+      "star_3": 6,
+      "star_4": 13,
+      "star_5": 0
+    },
+    {
+      "name": "man",
+      "performance": "Average",
+      "star_1": 7,
+      "star_2": 0,
+      "star_3": 2,
+      "star_4": 4,
+      "star_5": 2
+    },
+    {
+      "name": "rates",
+      "performance": "Average",
+      "star_1": 0,
+      "star_2": 2,
+      "star_3": 3,
+      "star_4": 4,
+      "star_5": 0
+    },
+    {
+      "name": "friday",
+      "performance": "Average",
+      "star_1": 0,
+      "star_2": 0,
+      "star_3": 3,
+      "star_4": 5,
+      "star_5": 0
+    },
+    {
+      "name": "bit",
+      "performance": "Average",
+      "star_1": 4,
+      "star_2": 7,
+      "star_3": 34,
+      "star_4": 43,
+      "star_5": 6
+    },
+    {
+      "name": "blackjack",
+      "performance": "Good",
+      "star_1": 0,
+      "star_2": 0,
+      "star_3": 0,
+      "star_4": 3,
+      "star_5": 2
+    },
+    {
+      "name": "new york city",
+      "performance": "Average",
+      "star_1": 0,
+      "star_2": 2,
+      "star_3": 6,
+      "star_4": 6,
+      "star_5": 2
+    },
+    {
+      "name": "cost",
+      "performance": "Average",
+      "star_1": 0,
+      "star_2": 0,
+      "star_3": 3,
+      "star_4": 6,
+      "star_5": 0
+    },
+    {
+      "name": "lot",
+      "performance": "Average",
+      "star_1": 5,
+      "star_2": 11,
+      "star_3": 34,
+      "star_4": 63,
+      "star_5": 9
+    },
+    {
+      "name": "parts",
+      "performance": "Average",
+      "star_1": 0,
+      "star_2": 0,
+      "star_3": 3,
+      "star_4": 3,
+      "star_5": 0
+    },
+    {
+      "name": "stuff",
+      "performance": "Average",
+      "star_1": 2,
+      "star_2": 3,
+      "star_3": 5,
+      "star_4": 12,
+      "star_5": 0
+    },
+    {
+      "name": "starbucks",
+      "performance": "Average",
+      "star_1": 0,
+      "star_2": 0,
+      "star_3": 5,
+      "star_4": 9,
+      "star_5": 0
+    },
+    {
+      "name": "resort fee",
+      "performance": "Average",
+      "star_1": 6,
+      "star_2": 5,
+      "star_3": 13,
+      "star_4": 18,
+      "star_5": 3
+    },
+    {
+      "name": "tourist",
+      "performance": "Average",
+      "star_1": 0,
+      "star_2": 0,
+      "star_3": 2,
+      "star_4": 0,
+      "star_5": 3
+    },
+    {
+      "name": "middle",
+      "performance": "Average",
+      "star_1": 8,
+      "star_2": 4,
+      "star_3": 12,
+      "star_4": 18,
+      "star_5": 4
+    },
+    {
+      "name": "vegas strip",
+      "performance": "Average",
+      "star_1": 0,
+      "star_2": 0,
+      "star_3": 4,
+      "star_4": 0,
+      "star_5": 2
+    },
+    {
+      "name": "play",
+      "performance": "Average",
+      "star_1": 2,
+      "star_2": 0,
+      "star_3": 2,
+      "star_4": 8,
+      "star_5": 0
+    },
+    {
+      "name": "crowd",
+      "performance": "Average",
+      "star_1": 2,
+      "star_2": 2,
+      "star_3": 8,
+      "star_4": 14,
+      "star_5": 5
+    },
+    {
+      "name": "garage",
+      "performance": "Average",
+      "star_1": 0,
+      "star_2": 0,
+      "star_3": 3,
+      "star_4": 2,
+      "star_5": 0
+    },
+    {
+      "name": "half",
+      "performance": "Bad",
+      "star_1": 3,
+      "star_2": 4,
+      "star_3": 3,
+      "star_4": 2,
+      "star_5": 2
+    },
+    {
+      "name": "park avenue",
+      "performance": "Average",
+      "star_1": 0,
+      "star_2": 0,
+      "star_3": 2,
+      "star_4": 4,
+      "star_5": 0
+    },
+    {
+      "name": "gamblers",
+      "performance": "Average",
+      "star_1": 0,
+      "star_2": 0,
+      "star_3": 2,
+      "star_4": 4,
+      "star_5": 0
+    },
+    {
+      "name": "wall",
+      "performance": "Bad",
+      "star_1": 2,
+      "star_2": 4,
+      "star_3": 2,
+      "star_4": 2,
+      "star_5": 0
+    },
+    {
+      "name": "vibe",
+      "performance": "Good",
+      "star_1": 0,
+      "star_2": 0,
+      "star_3": 2,
+      "star_4": 5,
+      "star_5": 3
+    },
+    {
+      "name": "views",
+      "performance": "Average",
+      "star_1": 0,
+      "star_2": 0,
+      "star_3": 6,
+      "star_4": 9,
+      "star_5": 0
+    },
+    {
+      "name": "anyone",
+      "performance": "Average",
+      "star_1": 6,
+      "star_2": 0,
+      "star_3": 3,
+      "star_4": 8,
+      "star_5": 4
+    },
+    {
+      "name": "buildings",
+      "performance": "Average",
+      "star_1": 3,
+      "star_2": 0,
+      "star_3": 3,
+      "star_4": 5,
+      "star_5": 0
+    },
+    {
+      "name": "traffic",
+      "performance": "Good",
+      "star_1": 0,
+      "star_2": 0,
+      "star_3": 0,
+      "star_4": 6,
+      "star_5": 0
+    },
+    {
+      "name": "parking garage",
+      "performance": "Average",
+      "star_1": 2,
+      "star_2": 3,
+      "star_3": 5,
+      "star_4": 4,
+      "star_5": 2
+    },
+    {
+      "name": "plenty",
+      "performance": "Average",
+      "star_1": 0,
+      "star_2": 2,
+      "star_3": 12,
+      "star_4": 24,
+      "star_5": 6
+    },
+    {
+      "name": "escalator",
+      "performance": "Good",
+      "star_1": 0,
+      "star_2": 0,
+      "star_3": 0,
+      "star_4": 3,
+      "star_5": 2
+    },
+    {
+      "name": "while",
+      "performance": "Average",
+      "star_1": 0,
+      "star_2": 2,
+      "star_3": 7,
+      "star_4": 7,
+      "star_5": 0
+    },
+    {
+      "name": "shops",
+      "performance": "Average",
+      "star_1": 0,
+      "star_2": 2,
+      "star_3": 6,
+      "star_4": 12,
+      "star_5": 2
+    },
+    {
+      "name": "view",
+      "performance": "Average",
+      "star_1": 5,
+      "star_2": 14,
+      "star_3": 31,
+      "star_4": 64,
+      "star_5": 14
+    },
+    {
+      "name": "casino floor",
+      "performance": "Average",
+      "star_1": 3,
+      "star_2": 0,
+      "star_3": 8,
+      "star_4": 15,
+      "star_5": 4
+    },
+    {
+      "name": "coffee maker",
+      "performance": "Good",
+      "star_1": 0,
+      "star_2": 0,
+      "star_3": 0,
+      "star_4": 6,
+      "star_5": 0
+    },
+    {
+      "name": "reception",
+      "performance": "Average",
+      "star_1": 2,
+      "star_2": 0,
+      "star_3": 2,
+      "star_4": 3,
+      "star_5": 0
+    },
+    {
+      "name": "note",
+      "performance": "Bad",
+      "star_1": 3,
+      "star_2": 2,
+      "star_3": 3,
+      "star_4": 2,
+      "star_5": 0
+    },
+    {
+      "name": "memories",
+      "performance": "Good",
+      "star_1": 0,
+      "star_2": 0,
+      "star_3": 0,
+      "star_4": 3,
+      "star_5": 2
+    },
+    {
+      "name": "section",
+      "performance": "Average",
+      "star_1": 0,
+      "star_2": 2,
+      "star_3": 2,
+      "star_4": 3,
+      "star_5": 0
+    },
+    {
+      "name": "priceline",
+      "performance": "Good",
+      "star_1": 0,
+      "star_2": 0,
+      "star_3": 0,
+      "star_4": 5,
+      "star_5": 0
+    },
+    {
+      "name": "prices",
+      "performance": "Average",
+      "star_1": 2,
+      "star_2": 3,
+      "star_3": 3,
+      "star_4": 18,
+      "star_5": 3
+    },
+    {
+      "name": "hair",
+      "performance": "Average",
+      "star_1": 2,
+      "star_2": 0,
+      "star_3": 0,
+      "star_4": 3,
+      "star_5": 0
+    },
+    {
+      "name": "guest",
+      "performance": "Bad",
+      "star_1": 2,
+      "star_2": 3,
+      "star_3": 2,
+      "star_4": 0,
+      "star_5": 0
+    },
+    {
+      "name": "parking",
+      "performance": "Average",
+      "star_1": 0,
+      "star_2": 0,
+      "star_3": 5,
+      "star_4": 4,
+      "star_5": 0
+    },
+    {
+      "name": "jacuzzi",
+      "performance": "Average",
+      "star_1": 0,
+      "star_2": 2,
+      "star_3": 3,
+      "star_4": 5,
+      "star_5": 0
+    },
+    {
+      "name": "day",
+      "performance": "Average",
+      "star_1": 11,
+      "star_2": 18,
+      "star_3": 22,
+      "star_4": 39,
+      "star_5": 7
+    },
+    {
+      "name": "complaints",
+      "performance": "Average",
+      "star_1": 0,
+      "star_2": 0,
+      "star_3": 7,
+      "star_4": 15,
+      "star_5": 0
+    },
+    {
+      "name": "stayed",
+      "performance": "Average",
+      "star_1": 0,
+      "star_2": 2,
+      "star_3": 5,
+      "star_4": 11,
+      "star_5": 3
+    },
+    {
+      "name": "got",
+      "performance": "Good",
+      "star_1": 0,
+      "star_2": 0,
+      "star_3": 0,
+      "star_4": 7,
+      "star_5": 0
+    },
+    {
+      "name": "roller coasters",
+      "performance": "Average",
+      "star_1": 0,
+      "star_2": 2,
+      "star_3": 0,
+      "star_4": 4,
+      "star_5": 0
+    },
+    {
+      "name": "showers",
+      "performance": "Average",
+      "star_1": 0,
+      "star_2": 0,
+      "star_3": 3,
+      "star_4": 3,
+      "star_5": 0
+    },
+    {
+      "name": "casino area",
+      "performance": "Average",
+      "star_1": 0,
+      "star_2": 0,
+      "star_3": 3,
+      "star_4": 7,
+      "star_5": 0
+    },
+    {
+      "name": ".i",
+      "performance": "Average",
+      "star_1": 0,
+      "star_2": 0,
+      "star_3": 3,
+      "star_4": 2,
+      "star_5": 0
+    },
+    {
+      "name": "casino",
+      "performance": "Average",
+      "star_1": 21,
+      "star_2": 30,
+      "star_3": 63,
+      "star_4": 111,
+      "star_5": 21
+    },
+    {
+      "name": "motel",
+      "performance": "Bad",
+      "star_1": 2,
+      "star_2": 3,
+      "star_3": 0,
+      "star_4": 0,
+      "star_5": 0
+    },
+    {
+      "name": "great",
+      "performance": "Average",
+      "star_1": 2,
+      "star_2": 0,
+      "star_3": 2,
+      "star_4": 5,
+      "star_5": 0
+    },
+    {
+      "name": "hand",
+      "performance": "Average",
+      "star_1": 0,
+      "star_2": 2,
+      "star_3": 0,
+      "star_4": 3,
+      "star_5": 2
+    },
+    {
+      "name": "pm",
+      "performance": "Average",
+      "star_1": 0,
+      "star_2": 0,
+      "star_3": 2,
+      "star_4": 4,
+      "star_5": 0
+    },
+    {
+      "name": "shower",
+      "performance": "Average",
+      "star_1": 6,
+      "star_2": 5,
+      "star_3": 3,
+      "star_4": 8,
+      "star_5": 3
+    },
+    {
+      "name": "part",
+      "performance": "Average",
+      "star_1": 5,
+      "star_2": 9,
+      "star_3": 14,
+      "star_4": 31,
+      "star_5": 4
+    },
+    {
+      "name": "feel",
+      "performance": "Average",
+      "star_1": 0,
+      "star_2": 2,
+      "star_3": 5,
+      "star_4": 9,
+      "star_5": 2
+    },
+    {
+      "name": "women",
+      "performance": "Average",
+      "star_1": 0,
+      "star_2": 2,
+      "star_3": 0,
+      "star_4": 4,
+      "star_5": 0
+    },
+    {
+      "name": "chips",
+      "performance": "Average",
+      "star_1": 4,
+      "star_2": 0,
+      "star_3": 0,
+      "star_4": 9,
+      "star_5": 0
+    },
+    {
+      "name": "spot",
+      "performance": "Good",
+      "star_1": 0,
+      "star_2": 0,
+      "star_3": 3,
+      "star_4": 10,
+      "star_5": 0
+    },
+    {
+      "name": "mgm grand",
+      "performance": "Average",
+      "star_1": 0,
+      "star_2": 3,
+      "star_3": 11,
+      "star_4": 9,
+      "star_5": 0
+    },
+    {
+      "name": "america",
+      "performance": "Average",
+      "star_1": 0,
+      "star_2": 2,
+      "star_3": 2,
+      "star_4": 4,
+      "star_5": 2
+    },
+    {
+      "name": "gambler",
+      "performance": "Average",
+      "star_1": 0,
+      "star_2": 0,
+      "star_3": 2,
+      "star_4": 3,
+      "star_5": 0
+    },
+    {
+      "name": "comfy",
+      "performance": "Good",
+      "star_1": 0,
+      "star_2": 0,
+      "star_3": 4,
+      "star_4": 12,
+      "star_5": 2
+    },
+    {
+      "name": "waitresses",
+      "performance": "Average",
+      "star_1": 0,
+      "star_2": 0,
+      "star_3": 2,
+      "star_4": 3,
+      "star_5": 3
+    },
+    {
+      "name": "building",
+      "performance": "Average",
+      "star_1": 0,
+      "star_2": 3,
+      "star_3": 5,
+      "star_4": 0,
+      "star_5": 0
+    },
+    {
+      "name": "july",
+      "performance": "Average",
+      "star_1": 2,
+      "star_2": 0,
+      "star_3": 3,
+      "star_4": 0,
+      "star_5": 0
+    },
+    {
+      "name": "nyc",
+      "performance": "Average",
+      "star_1": 2,
+      "star_2": 4,
+      "star_3": 7,
+      "star_4": 6,
+      "star_5": 2
+    },
+    {
+      "name": "alcohol",
+      "performance": "Bad",
+      "star_1": 0,
+      "star_2": 3,
+      "star_3": 0,
+      "star_4": 2,
+      "star_5": 0
+    },
+    {
+      "name": "slots",
+      "performance": "Average",
+      "star_1": 0,
+      "star_2": 3,
+      "star_3": 6,
+      "star_4": 17,
+      "star_5": 5
+    },
+    {
+      "name": "coaster",
+      "performance": "Average",
+      "star_1": 0,
+      "star_2": 2,
+      "star_3": 11,
+      "star_4": 9,
+      "star_5": 4
+    },
+    {
+      "name": "hotels",
+      "performance": "Average",
+      "star_1": 4,
+      "star_2": 10,
+      "star_3": 28,
+      "star_4": 50,
+      "star_5": 18
+    },
+    {
+      "name": "side",
+      "performance": "Average",
+      "star_1": 3,
+      "star_2": 6,
+      "star_3": 14,
+      "star_4": 20,
+      "star_5": 2
+    },
+    {
+      "name": "heat",
+      "performance": "Average",
+      "star_1": 0,
+      "star_2": 0,
+      "star_3": 2,
+      "star_4": 4,
+      "star_5": 0
+    },
+    {
+      "name": "village",
+      "performance": "Average",
+      "star_1": 0,
+      "star_2": 0,
+      "star_3": 3,
+      "star_4": 2,
+      "star_5": 0
+    },
+    {
+      "name": "reservation",
+      "performance": "Bad",
+      "star_1": 6,
+      "star_2": 3,
+      "star_3": 3,
+      "star_4": 3,
+      "star_5": 0
+    },
+    {
+      "name": "nine fine irishmen",
+      "performance": "Average",
+      "star_1": 2,
+      "star_2": 3,
+      "star_3": 3,
+      "star_4": 9,
+      "star_5": 4
+    },
+    {
+      "name": "noise",
+      "performance": "Average",
+      "star_1": 0,
+      "star_2": 2,
+      "star_3": 5,
+      "star_4": 6,
+      "star_5": 2
+    },
+    {
+      "name": "aria",
+      "performance": "Average",
+      "star_1": 0,
+      "star_2": 0,
+      "star_3": 7,
+      "star_4": 3,
+      "star_5": 2
+    },
+    {
+      "name": "room service",
+      "performance": "Average",
+      "star_1": 5,
+      "star_2": 3,
+      "star_3": 11,
+      "star_4": 10,
+      "star_5": 2
+    },
+    {
+      "name": "visit",
+      "performance": "Average",
+      "star_1": 3,
+      "star_2": 5,
+      "star_3": 8,
+      "star_4": 14,
+      "star_5": 2
+    },
+    {
+      "name": "value",
+      "performance": "Average",
+      "star_1": 0,
+      "star_2": 3,
+      "star_3": 3,
+      "star_4": 7,
+      "star_5": 3
+    },
+    {
+      "name": "location",
+      "performance": "Average",
+      "star_1": 2,
+      "star_2": 7,
+      "star_3": 23,
+      "star_4": 55,
+      "star_5": 9
+    },
+    {
+      "name": "point",
+      "performance": "Average",
+      "star_1": 5,
+      "star_2": 2,
+      "star_3": 2,
+      "star_4": 8,
+      "star_5": 2
+    },
+    {
+      "name": "liberty",
+      "performance": "Average",
+      "star_1": 0,
+      "star_2": 2,
+      "star_3": 11,
+      "star_4": 8,
+      "star_5": 3
+    },
+    {
+      "name": "york",
+      "performance": "Average",
+      "star_1": 2,
+      "star_2": 0,
+      "star_3": 8,
+      "star_4": 7,
+      "star_5": 2
+    },
+    {
+      "name": "coyote ugly bar",
+      "performance": "Good",
+      "star_1": 0,
+      "star_2": 0,
+      "star_3": 0,
+      "star_4": 5,
+      "star_5": 0
+    },
+    {
+      "name": "issue",
+      "performance": "Average",
+      "star_1": 0,
+      "star_2": 0,
+      "star_3": 6,
+      "star_4": 8,
+      "star_5": 2
+    },
+    {
+      "name": "arcade",
+      "performance": "Average",
+      "star_1": 2,
+      "star_2": 5,
+      "star_3": 12,
+      "star_4": 26,
+      "star_5": 7
+    },
+    {
+      "name": "weekends",
+      "performance": "Average",
+      "star_1": 0,
+      "star_2": 0,
+      "star_3": 2,
+      "star_4": 4,
+      "star_5": 0
+    },
+    {
+      "name": "action",
+      "performance": "Average",
+      "star_1": 0,
+      "star_2": 0,
+      "star_3": 4,
+      "star_4": 6,
+      "star_5": 0
+    },
+    {
+      "name": "comparison",
+      "performance": "Average",
+      "star_1": 0,
+      "star_2": 2,
+      "star_3": 0,
+      "star_4": 5,
+      "star_5": 0
+    },
+    {
+      "name": "others",
+      "performance": "Average",
+      "star_1": 2,
+      "star_2": 3,
+      "star_3": 9,
+      "star_4": 15,
+      "star_5": 2
+    },
+    {
+      "name": "roller coaster",
+      "performance": "Average",
+      "star_1": 7,
+      "star_2": 19,
+      "star_3": 55,
+      "star_4": 92,
+      "star_5": 22
+    },
+    {
+      "name": "deals",
+      "performance": "Average",
+      "star_1": 0,
+      "star_2": 0,
+      "star_3": 5,
+      "star_4": 10,
+      "star_5": 0
+    },
+    {
+      "name": "order",
+      "performance": "Average",
+      "star_1": 2,
+      "star_2": 3,
+      "star_3": 6,
+      "star_4": 12,
+      "star_5": 0
+    },
+    {
+      "name": "space",
+      "performance": "Average",
+      "star_1": 0,
+      "star_2": 0,
+      "star_3": 6,
+      "star_4": 12,
+      "star_5": 0
+    },
+    {
+      "name": "venetian",
+      "performance": "Average",
+      "star_1": 2,
+      "star_2": 2,
+      "star_3": 3,
+      "star_4": 10,
+      "star_5": 0
+    },
+    {
+      "name": "exits",
+      "performance": "Average",
+      "star_1": 0,
+      "star_2": 0,
+      "star_3": 2,
+      "star_4": 3,
+      "star_5": 0
+    },
+    {
+      "name": "mgm",
+      "performance": "Average",
+      "star_1": 0,
+      "star_2": 6,
+      "star_3": 19,
+      "star_4": 42,
+      "star_5": 8
+    },
+    {
+      "name": "way",
+      "performance": "Average",
+      "star_1": 13,
+      "star_2": 17,
+      "star_3": 30,
+      "star_4": 47,
+      "star_5": 6
+    },
+    {
+      "name": "valet",
+      "performance": "Average",
+      "star_1": 3,
+      "star_2": 2,
+      "star_3": 4,
+      "star_4": 5,
+      "star_5": 0
+    },
+    {
+      "name": "ones",
+      "performance": "Good",
+      "star_1": 0,
+      "star_2": 0,
+      "star_3": 2,
+      "star_4": 8,
+      "star_5": 0
+    },
+    {
+      "name": "proximity",
+      "performance": "Good",
+      "star_1": 0,
+      "star_2": 0,
+      "star_3": 0,
+      "star_4": 6,
+      "star_5": 0
+    },
+    {
+      "name": "refrigerator",
+      "performance": "Average",
+      "star_1": 0,
+      "star_2": 2,
+      "star_3": 0,
+      "star_4": 5,
+      "star_5": 0
+    },
+    {
+      "name": "families",
+      "performance": "Average",
+      "star_1": 0,
+      "star_2": 3,
+      "star_3": 3,
+      "star_4": 3,
+      "star_5": 0
+    },
+    {
+      "name": "work",
+      "performance": "Bad",
+      "star_1": 2,
+      "star_2": 3,
+      "star_3": 0,
+      "star_4": 5,
+      "star_5": 0
+    },
+    {
+      "name": "cafe",
+      "performance": "Average",
+      "star_1": 0,
+      "star_2": 2,
+      "star_3": 4,
+      "star_4": 2,
+      "star_5": 0
+    },
+    {
+      "name": "something",
+      "performance": "Average",
+      "star_1": 6,
+      "star_2": 7,
+      "star_3": 16,
+      "star_4": 28,
+      "star_5": 9
+    },
+    {
+      "name": "venture",
+      "performance": "Average",
+      "star_1": 0,
+      "star_2": 0,
+      "star_3": 3,
+      "star_4": 2,
+      "star_5": 0
+    },
+    {
+      "name": "do",
+      "performance": "Average",
+      "star_1": 0,
+      "star_2": 2,
+      "star_3": 3,
+      "star_4": 0,
+      "star_5": 0
+    },
+    {
+      "name": "kind",
+      "performance": "Average",
+      "star_1": 4,
+      "star_2": 7,
+      "star_3": 13,
+      "star_4": 25,
+      "star_5": 3
+    },
+    {
+      "name": "stars",
+      "performance": "Average",
+      "star_1": 4,
+      "star_2": 13,
+      "star_3": 13,
+      "star_4": 18,
+      "star_5": 5
+    },
+    {
+      "name": "fault",
+      "performance": "Bad",
+      "star_1": 2,
+      "star_2": 2,
+      "star_3": 0,
+      "star_4": 2,
+      "star_5": 0
+    },
+    {
+      "name": "purpose",
+      "performance": "Average",
+      "star_1": 0,
+      "star_2": 0,
+      "star_3": 4,
+      "star_4": 2,
+      "star_5": 0
+    },
+    {
+      "name": "means",
+      "performance": "Average",
+      "star_1": 2,
+      "star_2": 0,
+      "star_3": 0,
+      "star_4": 3,
+      "star_5": 0
+    },
+    {
+      "name": "flamingo",
+      "performance": "Average",
+      "star_1": 0,
+      "star_2": 0,
+      "star_3": 2,
+      "star_4": 3,
+      "star_5": 0
+    },
+    {
+      "name": "world",
+      "performance": "Average",
+      "star_1": 0,
+      "star_2": 2,
+      "star_3": 4,
+      "star_4": 0,
+      "star_5": 0
+    },
+    {
+      "name": "just",
+      "performance": "Average",
+      "star_1": 2,
+      "star_2": 3,
+      "star_3": 2,
+      "star_4": 11,
+      "star_5": 0
+    },
+    {
+      "name": "front desk",
+      "performance": "Average",
+      "star_1": 9,
+      "star_2": 7,
+      "star_3": 13,
+      "star_4": 16,
+      "star_5": 6
+    },
+    {
+      "name": "tropicana",
+      "performance": "Good",
+      "star_1": 0,
+      "star_2": 0,
+      "star_3": 2,
+      "star_4": 8,
+      "star_5": 0
+    },
+    {
+      "name": "%",
+      "performance": "Average",
+      "star_1": 0,
+      "star_2": 3,
+      "star_3": 6,
+      "star_4": 7,
+      "star_5": 0
+    },
+    {
+      "name": "years",
+      "performance": "Average",
+      "star_1": 10,
+      "star_2": 8,
+      "star_3": 13,
+      "star_4": 17,
+      "star_5": 2
+    },
+    {
+      "name": "everything",
+      "performance": "Average",
+      "star_1": 4,
+      "star_2": 8,
+      "star_3": 10,
+      "star_4": 33,
+      "star_5": 15
+    },
+    {
+      "name": "tram",
+      "performance": "Average",
+      "star_1": 0,
+      "star_2": 2,
+      "star_3": 4,
+      "star_4": 4,
+      "star_5": 0
+    },
+    {
+      "name": "bf",
+      "performance": "Average",
+      "star_1": 0,
+      "star_2": 0,
+      "star_3": 2,
+      "star_4": 6,
+      "star_5": 0
+    },
+    {
+      "name": "tons",
+      "performance": "Average",
+      "star_1": 0,
+      "star_2": 2,
+      "star_3": 4,
+      "star_4": 6,
+      "star_5": 0
+    },
+    {
+      "name": "decade",
+      "performance": "Average",
+      "star_1": 0,
+      "star_2": 0,
+      "star_3": 2,
+      "star_4": 3,
+      "star_5": 0
+    },
+    {
+      "name": "decor",
+      "performance": "Average",
+      "star_1": 0,
+      "star_2": 4,
+      "star_3": 9,
+      "star_4": 16,
+      "star_5": 8
+    },
+    {
+      "name": "pass",
+      "performance": "Average",
+      "star_1": 0,
+      "star_2": 0,
+      "star_3": 2,
+      "star_4": 4,
+      "star_5": 0
+    },
+    {
+      "name": "statue",
+      "performance": "Average",
+      "star_1": 0,
+      "star_2": 0,
+      "star_3": 10,
+      "star_4": 8,
+      "star_5": 3
+    },
+    {
+      "name": "children",
+      "performance": "Average",
+      "star_1": 0,
+      "star_2": 2,
+      "star_3": 0,
+      "star_4": 6,
+      "star_5": 0
+    },
+    {
+      "name": "ceilings",
+      "performance": "Good",
+      "star_1": 0,
+      "star_2": 0,
+      "star_3": 2,
+      "star_4": 5,
+      "star_5": 2
+    },
+    {
+      "name": "rooms",
+      "performance": "Average",
+      "star_1": 9,
+      "star_2": 34,
+      "star_3": 60,
+      "star_4": 102,
+      "star_5": 20
+    },
+    {
+      "name": "signs",
+      "performance": "Average",
+      "star_1": 0,
+      "star_2": 0,
+      "star_3": 3,
+      "star_4": 6,
+      "star_5": 0
+    },
+    {
+      "name": "choices",
+      "performance": "Good",
+      "star_1": 0,
+      "star_2": 0,
+      "star_3": 0,
+      "star_4": 10,
+      "star_5": 2
+    },
+    {
+      "name": "bathtub",
+      "performance": "Average",
+      "star_1": 0,
+      "star_2": 0,
+      "star_3": 4,
+      "star_4": 4,
+      "star_5": 0
+    },
+    {
+      "name": "sirrico",
+      "performance": "Good",
+      "star_1": 0,
+      "star_2": 0,
+      "star_3": 0,
+      "star_4": 5,
+      "star_5": 0
+    },
+    {
+      "name": "front",
+      "performance": "Average",
+      "star_1": 0,
+      "star_2": 2,
+      "star_3": 7,
+      "star_4": 13,
+      "star_5": 2
+    },
+    {
+      "name": "oh",
+      "performance": "Bad",
+      "star_1": 0,
+      "star_2": 4,
+      "star_3": 0,
+      "star_4": 3,
+      "star_5": 0
+    },
+    {
+      "name": "seats",
+      "performance": "Average",
+      "star_1": 0,
+      "star_2": 0,
+      "star_3": 2,
+      "star_4": 6,
+      "star_5": 0
+    },
+    {
+      "name": "doors",
+      "performance": "Average",
+      "star_1": 0,
+      "star_2": 3,
+      "star_3": 0,
+      "star_4": 3,
+      "star_5": 2
+    },
+    {
+      "name": "discount",
+      "performance": "Average",
+      "star_1": 0,
+      "star_2": 0,
+      "star_3": 2,
+      "star_4": 4,
+      "star_5": 2
+    },
+    {
+      "name": "checkout",
+      "performance": "Average",
+      "star_1": 0,
+      "star_2": 2,
+      "star_3": 3,
+      "star_4": 3,
+      "star_5": 0
+    },
+    {
+      "name": "show",
+      "performance": "Average",
+      "star_1": 3,
+      "star_2": 0,
+      "star_3": 10,
+      "star_4": 15,
+      "star_5": 4
+    },
+    {
+      "name": "dealers",
+      "performance": "Average",
+      "star_1": 4,
+      "star_2": 2,
+      "star_3": 4,
+      "star_4": 7,
+      "star_5": 3
+    },
+    {
+      "name": "okay",
+      "performance": "Average",
+      "star_1": 0,
+      "star_2": 2,
+      "star_3": 0,
+      "star_4": 3,
+      "star_5": 0
+    },
+    {
+      "name": "mini fridge",
+      "performance": "Average",
+      "star_1": 2,
+      "star_2": 0,
+      "star_3": 0,
+      "star_4": 4,
+      "star_5": 2
+    },
+    {
+      "name": "months",
+      "performance": "Average",
+      "star_1": 2,
+      "star_2": 0,
+      "star_3": 4,
+      "star_4": 2,
+      "star_5": 0
+    },
+    {
+      "name": "walk",
+      "performance": "Average",
+      "star_1": 0,
+      "star_2": 3,
+      "star_3": 21,
+      "star_4": 23,
+      "star_5": 4
+    },
+    {
+      "name": "night",
+      "performance": "Average",
+      "star_1": 15,
+      "star_2": 20,
+      "star_3": 37,
+      "star_4": 66,
+      "star_5": 18
+    },
+    {
+      "name": "saturday",
+      "performance": "Bad",
+      "star_1": 3,
+      "star_2": 2,
+      "star_3": 2,
+      "star_4": 2,
+      "star_5": 0
+    },
+    {
+      "name": "beds",
+      "performance": "Average",
+      "star_1": 3,
+      "star_2": 4,
+      "star_3": 22,
+      "star_4": 36,
+      "star_5": 8
+    },
+    {
+      "name": "week",
+      "performance": "Average",
+      "star_1": 4,
+      "star_2": 4,
+      "star_3": 5,
+      "star_4": 11,
+      "star_5": 5
+    },
+    {
+      "name": "pain",
+      "performance": "Average",
+      "star_1": 0,
+      "star_2": 0,
+      "star_3": 4,
+      "star_4": 4,
+      "star_5": 0
+    },
+    {
+      "name": "review",
+      "performance": "Average",
+      "star_1": 6,
+      "star_2": 7,
+      "star_3": 11,
+      "star_4": 22,
+      "star_5": 6
+    },
+    {
+      "name": "microwave",
+      "performance": "Average",
+      "star_1": 0,
+      "star_2": 0,
+      "star_3": 2,
+      "star_4": 4,
+      "star_5": 0
+    },
+    {
+      "name": "entertainment",
+      "performance": "Good",
+      "star_1": 0,
+      "star_2": 0,
+      "star_3": 2,
+      "star_4": 10,
+      "star_5": 0
+    },
+    {
+      "name": "hotel room",
+      "performance": "Average",
+      "star_1": 4,
+      "star_2": 0,
+      "star_3": 5,
+      "star_4": 5,
+      "star_5": 0
+    },
+    {
+      "name": "customer service",
+      "performance": "Average",
+      "star_1": 8,
+      "star_2": 4,
+      "star_3": 6,
+      "star_4": 7,
+      "star_5": 0
+    },
+    {
+      "name": "star",
+      "performance": "Average",
+      "star_1": 5,
+      "star_2": 0,
+      "star_3": 2,
+      "star_4": 7,
+      "star_5": 3
+    },
+    {
+      "name": "gamble",
+      "performance": "Average",
+      "star_1": 0,
+      "star_2": 3,
+      "star_3": 0,
+      "star_4": 5,
+      "star_5": 0
+    },
+    {
+      "name": "nothing",
+      "performance": "Average",
+      "star_1": 13,
+      "star_2": 9,
+      "star_3": 26,
+      "star_4": 21,
+      "star_5": 4
+    },
+    {
+      "name": "items",
+      "performance": "Bad",
+      "star_1": 2,
+      "star_2": 2,
+      "star_3": 0,
+      "star_4": 3,
+      "star_5": 0
+    },
+    {
+      "name": "nathan",
+      "performance": "Average",
+      "star_1": 0,
+      "star_2": 3,
+      "star_3": 3,
+      "star_4": 13,
+      "star_5": 0
+    },
+    {
+      "name": "case",
+      "performance": "Average",
+      "star_1": 3,
+      "star_2": 0,
+      "star_3": 0,
+      "star_4": 6,
+      "star_5": 0
+    },
+    {
+      "name": "advance",
+      "performance": "Average",
+      "star_1": 2,
+      "star_2": 0,
+      "star_3": 7,
+      "star_4": 3,
+      "star_5": 0
+    },
+    {
+      "name": "brooklyn bridge",
+      "performance": "Average",
+      "star_1": 0,
+      "star_2": 0,
+      "star_3": 7,
+      "star_4": 7,
+      "star_5": 0
+    },
+    {
+      "name": "smoke",
+      "performance": "Average",
+      "star_1": 0,
+      "star_2": 4,
+      "star_3": 10,
+      "star_4": 5,
+      "star_5": 2
+    },
+    {
+      "name": "evening",
+      "performance": "Average",
+      "star_1": 2,
+      "star_2": 0,
+      "star_3": 7,
+      "star_4": 7,
+      "star_5": 3
+    },
+    {
+      "name": "alot",
+      "performance": "Good",
+      "star_1": 0,
+      "star_2": 0,
+      "star_3": 0,
+      "star_4": 5,
+      "star_5": 2
+    },
+    {
+      "name": "hours",
+      "performance": "Average",
+      "star_1": 9,
+      "star_2": 6,
+      "star_3": 7,
+      "star_4": 16,
+      "star_5": 3
+    },
+    {
+      "name": "rides",
+      "performance": "Average",
+      "star_1": 0,
+      "star_2": 0,
+      "star_3": 3,
+      "star_4": 5,
+      "star_5": 0
+    },
+    {
+      "name": "share",
+      "performance": "Good",
+      "star_1": 0,
+      "star_2": 0,
+      "star_3": 0,
+      "star_4": 5,
+      "star_5": 0
+    },
+    {
+      "name": "lack",
+      "performance": "Average",
+      "star_1": 0,
+      "star_2": 0,
+      "star_3": 6,
+      "star_4": 4,
+      "star_5": 0
+    },
+    {
+      "name": "boyfriend",
+      "performance": "Average",
+      "star_1": 3,
+      "star_2": 0,
+      "star_3": 3,
+      "star_4": 7,
+      "star_5": 2
+    },
+    {
+      "name": "plus",
+      "performance": "Good",
+      "star_1": 0,
+      "star_2": 0,
+      "star_3": 2,
+      "star_4": 7,
+      "star_5": 0
+    },
+    {
+      "name": "scene",
+      "performance": "Good",
+      "star_1": 0,
+      "star_2": 0,
+      "star_3": 0,
+      "star_4": 5,
+      "star_5": 0
+    },
+    {
+      "name": "manhattan",
+      "performance": "Average",
+      "star_1": 0,
+      "star_2": 2,
+      "star_3": 4,
+      "star_4": 0,
+      "star_5": 0
+    },
+    {
+      "name": "first",
+      "performance": "Bad",
+      "star_1": 3,
+      "star_2": 4,
+      "star_3": 2,
+      "star_4": 3,
+      "star_5": 0
+    },
+    {
+      "name": "chance",
+      "performance": "Average",
+      "star_1": 0,
+      "star_2": 2,
+      "star_3": 2,
+      "star_4": 11,
+      "star_5": 0
+    },
+    {
+      "name": "vacation",
+      "performance": "Average",
+      "star_1": 2,
+      "star_2": 2,
+      "star_3": 0,
+      "star_4": 5,
+      "star_5": 2
+    },
+    {
+      "name": "attractions",
+      "performance": "Average",
+      "star_1": 0,
+      "star_2": 0,
+      "star_3": 5,
+      "star_4": 3,
+      "star_5": 0
+    },
+    {
+      "name": "maid",
+      "performance": "Bad",
+      "star_1": 0,
+      "star_2": 3,
+      "star_3": 2,
+      "star_4": 0,
+      "star_5": 0
+    },
+    {
+      "name": "minutes",
+      "performance": "Average",
+      "star_1": 13,
+      "star_2": 17,
+      "star_3": 13,
+      "star_4": 17,
+      "star_5": 6
+    },
+    {
+      "name": "slot machine",
+      "performance": "Average",
+      "star_1": 0,
+      "star_2": 0,
+      "star_3": 3,
+      "star_4": 3,
+      "star_5": 0
+    },
+    {
+      "name": "nights",
+      "performance": "Average",
+      "star_1": 5,
+      "star_2": 6,
+      "star_3": 18,
+      "star_4": 25,
+      "star_5": 7
+    },
+    {
+      "name": "budget",
+      "performance": "Average",
+      "star_1": 0,
+      "star_2": 0,
+      "star_3": 4,
+      "star_4": 6,
+      "star_5": 0
+    },
+    {
+      "name": "mind",
+      "performance": "Bad",
+      "star_1": 3,
+      "star_2": 4,
+      "star_3": 2,
+      "star_4": 5,
+      "star_5": 0
+    },
+    {
+      "name": "information",
+      "performance": "Average",
+      "star_1": 0,
+      "star_2": 0,
+      "star_3": 3,
+      "star_4": 2,
+      "star_5": 0
+    },
+    {
+      "name": "rollercoaster",
+      "performance": "Average",
+      "star_1": 4,
+      "star_2": 2,
+      "star_3": 12,
+      "star_4": 11,
+      "star_5": 3
+    },
+    {
+      "name": "roller coaster ride",
+      "performance": "Average",
+      "star_1": 0,
+      "star_2": 0,
+      "star_3": 3,
+      "star_4": 6,
+      "star_5": 0
+    },
+    {
+      "name": "bridge",
+      "performance": "Average",
+      "star_1": 0,
+      "star_2": 0,
+      "star_3": 3,
+      "star_4": 8,
+      "star_5": 0
+    },
+    {
+      "name": "caesars",
+      "performance": "Average",
+      "star_1": 0,
+      "star_2": 2,
+      "star_3": 0,
+      "star_4": 6,
+      "star_5": 0
+    },
+    {
+      "name": "lines",
+      "performance": "Good",
+      "star_1": 0,
+      "star_2": 0,
+      "star_3": 0,
+      "star_4": 5,
+      "star_5": 0
+    },
+    {
+      "name": "breakfast",
+      "performance": "Average",
+      "star_1": 0,
+      "star_2": 3,
+      "star_3": 3,
+      "star_4": 13,
+      "star_5": 0
+    },
+    {
+      "name": "future",
+      "performance": "Average",
+      "star_1": 0,
+      "star_2": 0,
+      "star_3": 3,
+      "star_4": 4,
+      "star_5": 0
+    },
+    {
+      "name": "glass",
+      "performance": "Bad",
+      "star_1": 2,
+      "star_2": 4,
+      "star_3": 2,
+      "star_4": 0,
+      "star_5": 0
+    },
+    {
+      "name": "attention",
+      "performance": "Average",
+      "star_1": 2,
+      "star_2": 0,
+      "star_3": 2,
+      "star_4": 7,
+      "star_5": 0
+    },
+    {
+      "name": "quality",
+      "performance": "Average",
+      "star_1": 0,
+      "star_2": 2,
+      "star_3": 3,
+      "star_4": 7,
+      "star_5": 0
+    },
+    {
+      "name": "espn zone",
+      "performance": "Average",
+      "star_1": 0,
+      "star_2": 0,
+      "star_3": 4,
+      "star_4": 4,
+      "star_5": 0
+    },
+    {
+      "name": "amenities",
+      "performance": "Average",
+      "star_1": 0,
+      "star_2": 5,
+      "star_3": 10,
+      "star_4": 10,
+      "star_5": 2
+    },
+    {
+      "name": "roulette",
+      "performance": "Average",
+      "star_1": 0,
+      "star_2": 0,
+      "star_3": 2,
+      "star_4": 5,
+      "star_5": 0
+    },
+    {
+      "name": "queens",
+      "performance": "Average",
+      "star_1": 0,
+      "star_2": 0,
+      "star_3": 4,
+      "star_4": 2,
+      "star_5": 0
+    },
+    {
+      "name": "park avenue room",
+      "performance": "Average",
+      "star_1": 0,
+      "star_2": 0,
+      "star_3": 6,
+      "star_4": 10,
+      "star_5": 0
+    },
+    {
+      "name": "lol",
+      "performance": "Average",
+      "star_1": 0,
+      "star_2": 0,
+      "star_3": 2,
+      "star_4": 4,
+      "star_5": 2
+    },
+    {
+      "name": "games",
+      "performance": "Average",
+      "star_1": 3,
+      "star_2": 0,
+      "star_3": 16,
+      "star_4": 14,
+      "star_5": 8
+    },
+    {
+      "name": "bars",
+      "performance": "Average",
+      "star_1": 0,
+      "star_2": 6,
+      "star_3": 12,
+      "star_4": 22,
+      "star_5": 9
+    },
+    {
+      "name": "meals",
+      "performance": "Good",
+      "star_1": 0,
+      "star_2": 0,
+      "star_3": 0,
+      "star_4": 5,
+      "star_5": 0
+    },
+    {
+      "name": "wi-fi",
+      "performance": "Average",
+      "star_1": 0,
+      "star_2": 2,
+      "star_3": 3,
+      "star_4": 4,
+      "star_5": 0
+    },
+    {
+      "name": "standard",
+      "performance": "Average",
+      "star_1": 0,
+      "star_2": 2,
+      "star_3": 2,
+      "star_4": 2,
+      "star_5": 0
+    },
+    {
+      "name": "smoking room",
+      "performance": "Average",
+      "star_1": 4,
+      "star_2": 0,
+      "star_3": 5,
+      "star_4": 0,
+      "star_5": 0
+    },
+    {
+      "name": "lobby",
+      "performance": "Average",
+      "star_1": 0,
+      "star_2": 4,
+      "star_3": 4,
+      "star_4": 4,
+      "star_5": 0
+    },
+    {
+      "name": "ny",
+      "performance": "Average",
+      "star_1": 0,
+      "star_2": 0,
+      "star_3": 8,
+      "star_4": 11,
+      "star_5": 2
+    },
+    {
+      "name": "cover",
+      "performance": "Average",
+      "star_1": 0,
+      "star_2": 0,
+      "star_3": 3,
+      "star_4": 4,
+      "star_5": 0
+    },
+    {
+      "name": "parents",
+      "performance": "Bad",
+      "star_1": 3,
+      "star_2": 0,
+      "star_3": 0,
+      "star_4": 3,
+      "star_5": 0
+    },
+    {
+      "name": "charge",
+      "performance": "Average",
+      "star_1": 0,
+      "star_2": 2,
+      "star_3": 3,
+      "star_4": 5,
+      "star_5": 0
+    },
+    {
+      "name": "manager",
+      "performance": "Bad",
+      "star_1": 9,
+      "star_2": 3,
+      "star_3": 3,
+      "star_4": 3,
+      "star_5": 0
+    },
+    {
+      "name": "resorts",
+      "performance": "Average",
+      "star_1": 0,
+      "star_2": 2,
+      "star_3": 0,
+      "star_4": 5,
+      "star_5": 0
+    },
+    {
+      "name": "hallway",
+      "performance": "Average",
+      "star_1": 0,
+      "star_2": 4,
+      "star_3": 7,
+      "star_4": 2,
+      "star_5": 0
+    },
+    {
+      "name": "dollars",
+      "performance": "Bad",
+      "star_1": 5,
+      "star_2": 4,
+      "star_3": 5,
+      "star_4": 4,
+      "star_5": 0
+    },
+    {
+      "name": "someone",
+      "performance": "Average",
+      "star_1": 9,
+      "star_2": 5,
+      "star_3": 12,
+      "star_4": 12,
+      "star_5": 0
+    },
+    {
+      "name": "loud",
+      "performance": "Bad",
+      "star_1": 0,
+      "star_2": 5,
+      "star_3": 0,
+      "star_4": 2,
+      "star_5": 0
+    },
+    {
+      "name": "slice",
+      "performance": "Good",
+      "star_1": 0,
+      "star_2": 0,
+      "star_3": 3,
+      "star_4": 11,
+      "star_5": 6
+    },
+    {
+      "name": "arrival",
+      "performance": "Average",
+      "star_1": 0,
+      "star_2": 0,
+      "star_3": 3,
+      "star_4": 4,
+      "star_5": 0
+    },
+    {
+      "name": "gym",
+      "performance": "Average",
+      "star_1": 2,
+      "star_2": 0,
+      "star_3": 3,
+      "star_4": 8,
+      "star_5": 0
+    },
+    {
+      "name": "energy",
+      "performance": "Average",
+      "star_1": 0,
+      "star_2": 0,
+      "star_3": 2,
+      "star_4": 3,
+      "star_5": 0
+    },
+    {
+      "name": "distance",
+      "performance": "Average",
+      "star_1": 0,
+      "star_2": 0,
+      "star_3": 7,
+      "star_4": 13,
+      "star_5": 0
+    },
+    {
+      "name": "food court",
+      "performance": "Average",
+      "star_1": 0,
+      "star_2": 2,
+      "star_3": 4,
+      "star_4": 15,
+      "star_5": 0
+    },
+    {
+      "name": "deal",
+      "performance": "Average",
+      "star_1": 4,
+      "star_2": 7,
+      "star_3": 20,
+      "star_4": 23,
+      "star_5": 5
+    },
+    {
+      "name": "overall",
+      "performance": "Average",
+      "star_1": 0,
+      "star_2": 0,
+      "star_3": 4,
+      "star_4": 6,
+      "star_5": 0
+    },
+    {
+      "name": "buffet",
+      "performance": "Average",
+      "star_1": 0,
+      "star_2": 2,
+      "star_3": 5,
+      "star_4": 5,
+      "star_5": 2
+    },
+    {
+      "name": "son",
+      "performance": "Average",
+      "star_1": 0,
+      "star_2": 0,
+      "star_3": 2,
+      "star_4": 4,
+      "star_5": 0
+    },
+    {
+      "name": "mandalay bay",
+      "performance": "Average",
+      "star_1": 0,
+      "star_2": 4,
+      "star_3": 9,
+      "star_4": 9,
+      "star_5": 0
+    },
+    {
+      "name": "nobody",
+      "performance": "Average",
+      "star_1": 2,
+      "star_2": 0,
+      "star_3": 3,
+      "star_4": 2,
+      "star_5": 0
+    },
+    {
+      "name": "tvs",
+      "performance": "Average",
+      "star_1": 0,
+      "star_2": 0,
+      "star_3": 2,
+      "star_4": 3,
+      "star_5": 0
+    },
+    {
+      "name": "experiences",
+      "performance": "Bad",
+      "star_1": 3,
+      "star_2": 0,
+      "star_3": 0,
+      "star_4": 2,
+      "star_5": 0
+    },
+    {
+      "name": "rest",
+      "performance": "Average",
+      "star_1": 0,
+      "star_2": 3,
+      "star_3": 6,
+      "star_4": 11,
+      "star_5": 3
+    },
+    {
+      "name": "rate",
+      "performance": "Average",
+      "star_1": 0,
+      "star_2": 2,
+      "star_3": 6,
+      "star_4": 9,
+      "star_5": 2
+    },
+    {
+      "name": "pillows",
+      "performance": "Average",
+      "star_1": 2,
+      "star_2": 4,
+      "star_3": 6,
+      "star_4": 12,
+      "star_5": 0
+    },
+    {
+      "name": "phone",
+      "performance": "Bad",
+      "star_1": 2,
+      "star_2": 6,
+      "star_3": 5,
+      "star_4": 0,
+      "star_5": 0
+    },
+    {
+      "name": "ass",
+      "performance": "Average",
+      "star_1": 2,
+      "star_2": 3,
+      "star_3": 2,
+      "star_4": 5,
+      "star_5": 0
+    },
+    {
+      "name": "i",
+      "performance": "Average",
+      "star_1": 3,
+      "star_2": 5,
+      "star_3": 8,
+      "star_4": 9,
+      "star_5": 6
+    },
+    {
+      "name": "penny",
+      "performance": "Good",
+      "star_1": 0,
+      "star_2": 0,
+      "star_3": 0,
+      "star_4": 4,
+      "star_5": 2
+    },
+    {
+      "name": "new york theme",
+      "performance": "Average",
+      "star_1": 0,
+      "star_2": 0,
+      "star_3": 2,
+      "star_4": 4,
+      "star_5": 2
+    },
+    {
+      "name": "pros",
+      "performance": "Average",
+      "star_1": 0,
+      "star_2": 0,
+      "star_3": 8,
+      "star_4": 5,
+      "star_5": 3
+    },
+    {
+      "name": "luxury",
+      "performance": "Average",
+      "star_1": 0,
+      "star_2": 2,
+      "star_3": 3,
+      "star_4": 0,
+      "star_5": 0
+    },
+    {
+      "name": "lots",
+      "performance": "Average",
+      "star_1": 0,
+      "star_2": 7,
+      "star_3": 21,
+      "star_4": 32,
+      "star_5": 5
+    },
+    {
+      "name": "am",
+      "performance": "Average",
+      "star_1": 2,
+      "star_2": 3,
+      "star_3": 2,
+      "star_4": 4,
+      "star_5": 0
+    },
+    {
+      "name": "charm",
+      "performance": "Average",
+      "star_1": 0,
+      "star_2": 0,
+      "star_3": 2,
+      "star_4": 3,
+      "star_5": 0
+    },
+    {
+      "name": "elevators",
+      "performance": "Average",
+      "star_1": 3,
+      "star_2": 4,
+      "star_3": 12,
+      "star_4": 13,
+      "star_5": 3
+    },
+    {
+      "name": "face",
+      "performance": "Average",
+      "star_1": 2,
+      "star_2": 3,
+      "star_3": 2,
+      "star_4": 5,
+      "star_5": 0
+    },
+    {
+      "name": "steak house",
+      "performance": "Good",
+      "star_1": 0,
+      "star_2": 0,
+      "star_3": 0,
+      "star_4": 5,
+      "star_5": 0
+    },
+    {
+      "name": "weeks",
+      "performance": "Average",
+      "star_1": 0,
+      "star_2": 3,
+      "star_3": 0,
+      "star_4": 6,
+      "star_5": 2
+    },
+    {
+      "name": "door",
+      "performance": "Average",
+      "star_1": 11,
+      "star_2": 6,
+      "star_3": 19,
+      "star_4": 14,
+      "star_5": 3
+    },
+    {
+      "name": "advantage",
+      "performance": "Average",
+      "star_1": 0,
+      "star_2": 0,
+      "star_3": 2,
+      "star_4": 4,
+      "star_5": 0
+    },
+    {
+      "name": "resort fees",
+      "performance": "Average",
+      "star_1": 2,
+      "star_2": 2,
+      "star_3": 2,
+      "star_4": 7,
+      "star_5": 0
+    },
+    {
+      "name": "bummer",
+      "performance": "Average",
+      "star_1": 0,
+      "star_2": 2,
+      "star_3": 3,
+      "star_4": 0,
+      "star_5": 0
+    },
+    {
+      "name": "beer",
+      "performance": "Average",
+      "star_1": 3,
+      "star_2": 0,
+      "star_3": 2,
+      "star_4": 6,
+      "star_5": 2
+    },
+    {
+      "name": "fan",
+      "performance": "Average",
+      "star_1": 2,
+      "star_2": 0,
+      "star_3": 9,
+      "star_4": 16,
+      "star_5": 6
+    },
+    {
+      "name": "time",
+      "performance": "Average",
+      "star_1": 30,
+      "star_2": 43,
+      "star_3": 60,
+      "star_4": 110,
+      "star_5": 31
+    },
+    {
+      "name": "sense",
+      "performance": "Bad",
+      "star_1": 0,
+      "star_2": 3,
+      "star_3": 0,
+      "star_4": 2,
+      "star_5": 0
+    },
+    {
+      "name": "pool",
+      "performance": "Average",
+      "star_1": 3,
+      "star_2": 15,
+      "star_3": 19,
+      "star_4": 47,
+      "star_5": 9
+    },
+    {
+      "name": "row",
+      "performance": "Average",
+      "star_1": 0,
+      "star_2": 0,
+      "star_3": 3,
+      "star_4": 3,
+      "star_5": 0
+    },
+    {
+      "name": "street",
+      "performance": "Average",
+      "star_1": 0,
+      "star_2": 6,
+      "star_3": 12,
+      "star_4": 19,
+      "star_5": 0
+    },
+    {
+      "name": "size",
+      "performance": "Average",
+      "star_1": 2,
+      "star_2": 4,
+      "star_3": 9,
+      "star_4": 17,
+      "star_5": 0
+    },
+    {
+      "name": "chrysler building",
+      "performance": "Average",
+      "star_1": 0,
+      "star_2": 0,
+      "star_3": 2,
+      "star_4": 2,
+      "star_5": 2
+    },
+    {
+      "name": "daughter",
+      "performance": "Average",
+      "star_1": 3,
+      "star_2": 0,
+      "star_3": 2,
+      "star_4": 0,
+      "star_5": 2
+    },
+    {
+      "name": "america restaurant",
+      "performance": "Average",
+      "star_1": 0,
+      "star_2": 0,
+      "star_3": 3,
+      "star_4": 8,
+      "star_5": 0
+    },
+    {
+      "name": "city",
+      "performance": "Average",
+      "star_1": 2,
+      "star_2": 0,
+      "star_3": 13,
+      "star_4": 13,
+      "star_5": 3
+    },
+    {
+      "name": "clubs",
+      "performance": "Average",
+      "star_1": 0,
+      "star_2": 0,
+      "star_3": 3,
+      "star_4": 4,
+      "star_5": 2
+    },
+    {
+      "name": "new yorker",
+      "performance": "Average",
+      "star_1": 0,
+      "star_2": 2,
+      "star_3": 3,
+      "star_4": 2,
+      "star_5": 0
+    },
+    {
+      "name": "new york",
+      "performance": "Average",
+      "star_1": 2,
+      "star_2": 4,
+      "star_3": 7,
+      "star_4": 26,
+      "star_5": 8
+    },
+    {
+      "name": "drink",
+      "performance": "Average",
+      "star_1": 3,
+      "star_2": 5,
+      "star_3": 7,
+      "star_4": 13,
+      "star_5": 2
+    },
+    {
+      "name": "downstairs",
+      "performance": "Average",
+      "star_1": 3,
+      "star_2": 5,
+      "star_3": 7,
+      "star_4": 4,
+      "star_5": 2
+    },
+    {
+      "name": "coyote ugly",
+      "performance": "Good",
+      "star_1": 0,
+      "star_2": 2,
+      "star_3": 4,
+      "star_4": 18,
+      "star_5": 5
+    },
+    {
+      "name": "person",
+      "performance": "Average",
+      "star_1": 3,
+      "star_2": 3,
+      "star_3": 8,
+      "star_4": 11,
+      "star_5": 2
+    },
+    {
+      "name": "elevator",
+      "performance": "Average",
+      "star_1": 3,
+      "star_2": 6,
+      "star_3": 8,
+      "star_4": 20,
+      "star_5": 0
+    },
+    {
+      "name": "awesome",
+      "performance": "Average",
+      "star_1": 0,
+      "star_2": 0,
+      "star_3": 2,
+      "star_4": 5,
+      "star_5": 0
+    },
+    {
+      "name": "las vegas blvd",
+      "performance": "Good",
+      "star_1": 0,
+      "star_2": 0,
+      "star_3": 0,
+      "star_4": 7,
+      "star_5": 0
+    },
+    {
+      "name": "etc",
+      "performance": "Good",
+      "star_1": 0,
+      "star_2": 0,
+      "star_3": 0,
+      "star_4": 5,
+      "star_5": 0
+    },
+    {
+      "name": "room rates",
+      "performance": "Average",
+      "star_1": 0,
+      "star_2": 0,
+      "star_3": 2,
+      "star_4": 3,
+      "star_5": 0
+    },
+    {
+      "name": "tickets",
+      "performance": "Average",
+      "star_1": 2,
+      "star_2": 3,
+      "star_3": 5,
+      "star_4": 6,
+      "star_5": 2
+    },
+    {
+      "name": "mgm properties",
+      "performance": "Average",
+      "star_1": 0,
+      "star_2": 0,
+      "star_3": 2,
+      "star_4": 3,
+      "star_5": 0
+    },
+    {
+      "name": "theme",
+      "performance": "Average",
+      "star_1": 0,
+      "star_2": 4,
+      "star_3": 4,
+      "star_4": 15,
+      "star_5": 3
+    },
+    {
+      "name": "business center",
+      "performance": "Average",
+      "star_1": 0,
+      "star_2": 2,
+      "star_3": 0,
+      "star_4": 5,
+      "star_5": 0
+    },
+    {
+      "name": "patrons",
+      "performance": "Average",
+      "star_1": 0,
+      "star_2": 0,
+      "star_3": 2,
+      "star_4": 4,
+      "star_5": 0
+    },
+    {
+      "name": "thank",
+      "performance": "Average",
+      "star_1": 2,
+      "star_2": 0,
+      "star_3": 0,
+      "star_4": 2,
+      "star_5": 2
+    },
+    {
+      "name": "stay",
+      "performance": "Average",
+      "star_1": 8,
+      "star_2": 14,
+      "star_3": 23,
+      "star_4": 45,
+      "star_5": 8
+    },
+    {
+      "name": "monorail",
+      "performance": "Average",
+      "star_1": 0,
+      "star_2": 0,
+      "star_3": 3,
+      "star_4": 6,
+      "star_5": 2
+    },
+    {
+      "name": "new york-new york",
+      "performance": "Average",
+      "star_1": 0,
+      "star_2": 2,
+      "star_3": 5,
+      "star_4": 3,
+      "star_5": 0
+    },
+    {
+      "name": "nice",
+      "performance": "Good",
+      "star_1": 0,
+      "star_2": 0,
+      "star_3": 2,
+      "star_4": 8,
+      "star_5": 2
+    },
+    {
+      "name": "everyone",
+      "performance": "Average",
+      "star_1": 2,
+      "star_2": 7,
+      "star_3": 6,
+      "star_4": 11,
+      "star_5": 8
+    },
+    {
+      "name": "mirage",
+      "performance": "Average",
+      "star_1": 0,
+      "star_2": 2,
+      "star_3": 2,
+      "star_4": 3,
+      "star_5": 0
+    },
+    {
+      "name": "dirty",
+      "performance": "Bad",
+      "star_1": 0,
+      "star_2": 3,
+      "star_3": 2,
+      "star_4": 0,
+      "star_5": 0
+    },
+    {
+      "name": "employees",
+      "performance": "Average",
+      "star_1": 3,
+      "star_2": 2,
+      "star_3": 2,
+      "star_4": 6,
+      "star_5": 0
+    },
+    {
+      "name": "money",
+      "performance": "Average",
+      "star_1": 12,
+      "star_2": 12,
+      "star_3": 23,
+      "star_4": 31,
+      "star_5": 5
+    },
+    {
+      "name": "gonzalez y gonzalez",
+      "performance": "Average",
+      "star_1": 0,
+      "star_2": 0,
+      "star_3": 3,
+      "star_4": 3,
+      "star_5": 2
+    },
+    {
+      "name": "king bed",
+      "performance": "Average",
+      "star_1": 0,
+      "star_2": 0,
+      "star_3": 3,
+      "star_4": 2,
+      "star_5": 0
+    },
+    {
+      "name": "ride",
+      "performance": "Average",
+      "star_1": 0,
+      "star_2": 3,
+      "star_3": 13,
+      "star_4": 17,
+      "star_5": 0
+    },
+    {
+      "name": "anything",
+      "performance": "Average",
+      "star_1": 13,
+      "star_2": 8,
+      "star_3": 12,
+      "star_4": 27,
+      "star_5": 4
+    },
+    {
+      "name": "bags",
+      "performance": "Average",
+      "star_1": 3,
+      "star_2": 3,
+      "star_3": 0,
+      "star_4": 9,
+      "star_5": 3
+    },
+    {
+      "name": "speed",
+      "performance": "Average",
+      "star_1": 0,
+      "star_2": 0,
+      "star_3": 3,
+      "star_4": 2,
+      "star_5": 0
+    },
+    {
+      "name": "weird",
+      "performance": "Average",
+      "star_1": 0,
+      "star_2": 0,
+      "star_3": 3,
+      "star_4": 2,
+      "star_5": 0
+    },
+    {
+      "name": "places",
+      "performance": "Average",
+      "star_1": 3,
+      "star_2": 11,
+      "star_3": 19,
+      "star_4": 42,
+      "star_5": 11
+    },
+    {
+      "name": "eyes",
+      "performance": "Bad",
+      "star_1": 3,
+      "star_2": 2,
+      "star_3": 0,
+      "star_4": 3,
+      "star_5": 0
+    },
+    {
+      "name": "couple",
+      "performance": "Average",
+      "star_1": 4,
+      "star_2": 5,
+      "star_3": 5,
+      "star_4": 10,
+      "star_5": 4
+    },
+    {
+      "name": "comps",
+      "performance": "Average",
+      "star_1": 0,
+      "star_2": 2,
+      "star_3": 3,
+      "star_4": 0,
+      "star_5": 0
+    },
+    {
+      "name": "chin chin",
+      "performance": "Average",
+      "star_1": 0,
+      "star_2": 0,
+      "star_3": 3,
+      "star_4": 7,
+      "star_5": 2
+    },
+    {
+      "name": "fee",
+      "performance": "Average",
+      "star_1": 2,
+      "star_2": 4,
+      "star_3": 6,
+      "star_4": 8,
+      "star_5": 0
+    },
+    {
+      "name": "flight",
+      "performance": "Average",
+      "star_1": 3,
+      "star_2": 0,
+      "star_3": 0,
+      "star_4": 2,
+      "star_5": 2
+    },
+    {
+      "name": "tub",
+      "performance": "Good",
+      "star_1": 2,
+      "star_2": 0,
+      "star_3": 4,
+      "star_4": 14,
+      "star_5": 7
+    },
+    {
+      "name": "fries",
+      "performance": "Average",
+      "star_1": 0,
+      "star_2": 0,
+      "star_3": 4,
+      "star_4": 2,
+      "star_5": 0
+    },
+    {
+      "name": "town",
+      "performance": "Average",
+      "star_1": 4,
+      "star_2": 0,
+      "star_3": 3,
+      "star_4": 11,
+      "star_5": 3
+    },
+    {
+      "name": "food options",
+      "performance": "Average",
+      "star_1": 3,
+      "star_2": 3,
+      "star_3": 10,
+      "star_4": 9,
+      "star_5": 0
+    },
+    {
+      "name": "try",
+      "performance": "Average",
+      "star_1": 0,
+      "star_2": 0,
+      "star_3": 4,
+      "star_4": 2,
+      "star_5": 0
+    },
+    {
+      "name": "downside",
+      "performance": "Good",
+      "star_1": 0,
+      "star_2": 0,
+      "star_3": 0,
+      "star_4": 10,
+      "star_5": 0
+    },
+    {
+      "name": "il fornaio",
+      "performance": "Average",
+      "star_1": 0,
+      "star_2": 3,
+      "star_3": 3,
+      "star_4": 7,
+      "star_5": 0
+    },
+    {
+      "name": "party",
+      "performance": "Average",
+      "star_1": 2,
+      "star_2": 3,
+      "star_3": 5,
+      "star_4": 4,
+      "star_5": 3
+    },
+    {
+      "name": "fun",
+      "performance": "Average",
+      "star_1": 8,
+      "star_2": 10,
+      "star_3": 23,
+      "star_4": 41,
+      "star_5": 11
+    },
+    {
+      "name": "blackjack tables",
+      "performance": "Average",
+      "star_1": 0,
+      "star_2": 0,
+      "star_3": 2,
+      "star_4": 5,
+      "star_5": 0
+    },
+    {
+      "name": "desk",
+      "performance": "Average",
+      "star_1": 3,
+      "star_2": 5,
+      "star_3": 6,
+      "star_4": 7,
+      "star_5": 2
+    },
+    {
+      "name": "fridge",
+      "performance": "Average",
+      "star_1": 0,
+      "star_2": 3,
+      "star_3": 8,
+      "star_4": 7,
+      "star_5": 0
+    },
+    {
+      "name": "kids",
+      "performance": "Average",
+      "star_1": 3,
+      "star_2": 7,
+      "star_3": 15,
+      "star_4": 19,
+      "star_5": 6
+    },
+    {
+      "name": "vegas",
+      "performance": "Average",
+      "star_1": 14,
+      "star_2": 25,
+      "star_3": 41,
+      "star_4": 94,
+      "star_5": 32
+    },
+    {
+      "name": "walls",
+      "performance": "Average",
+      "star_1": 0,
+      "star_2": 5,
+      "star_3": 3,
+      "star_4": 5,
+      "star_5": 0
+    },
+    {
+      "name": "amount",
+      "performance": "Average",
+      "star_1": 0,
+      "star_2": 0,
+      "star_3": 5,
+      "star_4": 8,
+      "star_5": 0
+    },
+    {
+      "name": "food choices",
+      "performance": "Good",
+      "star_1": 0,
+      "star_2": 0,
+      "star_3": 2,
+      "star_4": 8,
+      "star_5": 0
+    },
+    {
+      "name": "adults",
+      "performance": "Average",
+      "star_1": 0,
+      "star_2": 3,
+      "star_3": 0,
+      "star_4": 7,
+      "star_5": 0
+    },
+    {
+      "name": "escalators",
+      "performance": "Good",
+      "star_1": 0,
+      "star_2": 0,
+      "star_3": 0,
+      "star_4": 3,
+      "star_5": 3
+    },
+    {
+      "name": "husband",
+      "performance": "Average",
+      "star_1": 3,
+      "star_2": 6,
+      "star_3": 4,
+      "star_4": 12,
+      "star_5": 3
+    },
+    {
+      "name": "go",
+      "performance": "Average",
+      "star_1": 0,
+      "star_2": 0,
+      "star_3": 2,
+      "star_4": 2,
+      "star_5": 2
+    },
+    {
+      "name": "casinos",
+      "performance": "Average",
+      "star_1": 3,
+      "star_2": 10,
+      "star_3": 13,
+      "star_4": 26,
+      "star_5": 9
+    },
+    {
+      "name": "airport",
+      "performance": "Average",
+      "star_1": 0,
+      "star_2": 0,
+      "star_3": 6,
+      "star_4": 10,
+      "star_5": 0
+    },
+    {
+      "name": "pizza",
+      "performance": "Good",
+      "star_1": 0,
+      "star_2": 6,
+      "star_3": 5,
+      "star_4": 28,
+      "star_5": 7
+    },
+    {
+      "name": "trip",
+      "performance": "Average",
+      "star_1": 6,
+      "star_2": 5,
+      "star_3": 12,
+      "star_4": 30,
+      "star_5": 12
+    },
+    {
+      "name": "sin city",
+      "performance": "Good",
+      "star_1": 0,
+      "star_2": 0,
+      "star_3": 2,
+      "star_4": 7,
+      "star_5": 0
+    },
+    {
+      "name": "girlfriend",
+      "performance": "Average",
+      "star_1": 0,
+      "star_2": 0,
+      "star_3": 2,
+      "star_4": 3,
+      "star_5": 2
+    },
+    {
+      "name": "dogs",
+      "performance": "Average",
+      "star_1": 0,
+      "star_2": 2,
+      "star_3": 4,
+      "star_4": 8,
+      "star_5": 0
+    },
+    {
+      "name": "table",
+      "performance": "Average",
+      "star_1": 10,
+      "star_2": 2,
+      "star_3": 4,
+      "star_4": 6,
+      "star_5": 3
+    },
+    {
+      "name": "woman",
+      "performance": "Average",
+      "star_1": 3,
+      "star_2": 0,
+      "star_3": 4,
+      "star_4": 0,
+      "star_5": 0
+    },
+    {
+      "name": "portions",
+      "performance": "Average",
+      "star_1": 0,
+      "star_2": 0,
+      "star_3": 3,
+      "star_4": 2,
+      "star_5": 0
+    },
+    {
+      "name": "times square",
+      "performance": "Good",
+      "star_1": 2,
+      "star_2": 0,
+      "star_3": 0,
+      "star_4": 5,
+      "star_5": 2
+    },
+    {
+      "name": "resort",
+      "performance": "Average",
+      "star_1": 0,
+      "star_2": 2,
+      "star_3": 3,
+      "star_4": 0,
+      "star_5": 2
+    },
+    {
+      "name": "reviews",
+      "performance": "Average",
+      "star_1": 0,
+      "star_2": 3,
+      "star_3": 2,
+      "star_4": 13,
+      "star_5": 0
+    },
+    {
+      "name": "blast",
+      "performance": "Good",
+      "star_1": 0,
+      "star_2": 0,
+      "star_3": 0,
+      "star_4": 14,
+      "star_5": 5
+    },
+    {
+      "name": "times",
+      "performance": "Average",
+      "star_1": 8,
+      "star_2": 6,
+      "star_3": 18,
+      "star_4": 30,
+      "star_5": 8
+    },
+    {
+      "name": "customers",
+      "performance": "Bad",
+      "star_1": 4,
+      "star_2": 2,
+      "star_3": 2,
+      "star_4": 3,
+      "star_5": 0
+    },
+    {
+      "name": "deli",
+      "performance": "Good",
+      "star_1": 0,
+      "star_2": 0,
+      "star_3": 2,
+      "star_4": 8,
+      "star_5": 0
+    },
+    {
+      "name": "music",
+      "performance": "Average",
+      "star_1": 2,
+      "star_2": 0,
+      "star_3": 7,
+      "star_4": 14,
+      "star_5": 3
+    },
+    {
+      "name": "check",
+      "performance": "Average",
+      "star_1": 5,
+      "star_2": 7,
+      "star_3": 15,
+      "star_4": 15,
+      "star_5": 4
+    },
+    {
+      "name": "idea",
+      "performance": "Average",
+      "star_1": 0,
+      "star_2": 0,
+      "star_3": 2,
+      "star_4": 3,
+      "star_5": 0
+    },
+    {
+      "name": "windows",
+      "performance": "Average",
+      "star_1": 3,
+      "star_2": 4,
+      "star_3": 7,
+      "star_4": 12,
+      "star_5": 0
+    },
+    {
+      "name": "august",
+      "performance": "Good",
+      "star_1": 0,
+      "star_2": 0,
+      "star_3": 0,
+      "star_4": 5,
+      "star_5": 0
+    },
+    {
+      "name": "layout",
+      "performance": "Average",
+      "star_1": 0,
+      "star_2": 3,
+      "star_3": 3,
+      "star_4": 4,
+      "star_5": 3
+    },
+    {
+      "name": "club",
+      "performance": "Good",
+      "star_1": 0,
+      "star_2": 0,
+      "star_3": 0,
+      "star_4": 7,
+      "star_5": 0
+    },
+    {
+      "name": "hotel/casino",
+      "performance": "Good",
+      "star_1": 0,
+      "star_2": 0,
+      "star_3": 3,
+      "star_4": 11,
+      "star_5": 3
+    },
+    {
+      "name": "price",
+      "performance": "Average",
+      "star_1": 10,
+      "star_2": 14,
+      "star_3": 31,
+      "star_4": 49,
+      "star_5": 9
+    },
+    {
+      "name": "ny ny",
+      "performance": "Average",
+      "star_1": 4,
+      "star_2": 4,
+      "star_3": 14,
+      "star_4": 17,
+      "star_5": 8
+    },
+    {
+      "name": "feet",
+      "performance": "Average",
+      "star_1": 2,
+      "star_2": 0,
+      "star_3": 4,
+      "star_4": 9,
+      "star_5": 4
+    },
+    {
+      "name": "bartender",
+      "performance": "Bad",
+      "star_1": 2,
+      "star_2": 3,
+      "star_3": 3,
+      "star_4": 0,
+      "star_5": 0
+    },
+    {
+      "name": "tv",
+      "performance": "Average",
+      "star_1": 4,
+      "star_2": 6,
+      "star_3": 15,
+      "star_4": 17,
+      "star_5": 6
+    },
+    {
+      "name": "zumanity",
+      "performance": "Average",
+      "star_1": 0,
+      "star_2": 4,
+      "star_3": 12,
+      "star_4": 17,
+      "star_5": 8
+    },
+    {
+      "name": "property",
+      "performance": "Average",
+      "star_1": 0,
+      "star_2": 2,
+      "star_3": 4,
+      "star_4": 6,
+      "star_5": 0
+    },
+    {
+      "name": "min",
+      "performance": "Bad",
+      "star_1": 2,
+      "star_2": 2,
+      "star_3": 2,
+      "star_4": 2,
+      "star_5": 0
+    },
+    {
+      "name": "cup",
+      "performance": "Average",
+      "star_1": 0,
+      "star_2": 2,
+      "star_3": 2,
+      "star_4": 4,
+      "star_5": 0
+    },
+    {
+      "name": "cosmo",
+      "performance": "Average",
+      "star_1": 0,
+      "star_2": 0,
+      "star_3": 3,
+      "star_4": 2,
+      "star_5": 0
+    },
+    {
+      "name": "head",
+      "performance": "Average",
+      "star_1": 2,
+      "star_2": 0,
+      "star_3": 6,
+      "star_4": 8,
+      "star_5": 0
+    },
+    {
+      "name": "dog",
+      "performance": "Average",
+      "star_1": 0,
+      "star_2": 0,
+      "star_3": 2,
+      "star_4": 4,
+      "star_5": 0
+    },
+    {
+      "name": "floor",
+      "performance": "Average",
+      "star_1": 6,
+      "star_2": 8,
+      "star_3": 28,
+      "star_4": 46,
+      "star_5": 5
+    },
+    {
+      "name": "coffee",
+      "performance": "Average",
+      "star_1": 0,
+      "star_2": 0,
+      "star_3": 4,
+      "star_4": 4,
+      "star_5": 2
+    },
+    {
+      "name": "lv",
+      "performance": "Good",
+      "star_1": 0,
+      "star_2": 0,
+      "star_3": 0,
+      "star_4": 4,
+      "star_5": 2
+    },
+    {
+      "name": "kid",
+      "performance": "Average",
+      "star_1": 2,
+      "star_2": 0,
+      "star_3": 2,
+      "star_4": 7,
+      "star_5": 0
+    },
+    {
+      "name": "sink",
+      "performance": "Average",
+      "star_1": 0,
+      "star_2": 2,
+      "star_3": 5,
+      "star_4": 3,
+      "star_5": 0
+    },
+    {
+      "name": "list",
+      "performance": "Average",
+      "star_1": 0,
+      "star_2": 0,
+      "star_3": 4,
+      "star_4": 7,
+      "star_5": 0
+    },
+    {
+      "name": "bedding",
+      "performance": "Average",
+      "star_1": 0,
+      "star_2": 0,
+      "star_3": 3,
+      "star_4": 2,
+      "star_5": 0
+    },
+    {
+      "name": "number",
+      "performance": "Average",
+      "star_1": 0,
+      "star_2": 0,
+      "star_3": 3,
+      "star_4": 3,
+      "star_5": 2
+    },
+    {
+      "name": "hubby",
+      "performance": "Average",
+      "star_1": 0,
+      "star_2": 2,
+      "star_3": 0,
+      "star_4": 4,
+      "star_5": 0
+    },
+    {
+      "name": "business",
+      "performance": "Bad",
+      "star_1": 5,
+      "star_2": 4,
+      "star_3": 0,
+      "star_4": 3,
+      "star_5": 0
+    },
+    {
+      "name": "option",
+      "performance": "Average",
+      "star_1": 0,
+      "star_2": 0,
+      "star_3": 3,
+      "star_4": 4,
+      "star_5": 0
+    },
+    {
+      "name": "family",
+      "performance": "Average",
+      "star_1": 2,
+      "star_2": 2,
+      "star_3": 3,
+      "star_4": 8,
+      "star_5": 6
+    },
+    {
+      "name": "nyny",
+      "performance": "Average",
+      "star_1": 7,
+      "star_2": 17,
+      "star_3": 24,
+      "star_4": 44,
+      "star_5": 15
+    },
+    {
+      "name": "registration",
+      "performance": "Average",
+      "star_1": 0,
+      "star_2": 0,
+      "star_3": 2,
+      "star_4": 4,
+      "star_5": 0
+    },
+    {
+      "name": "reservations",
+      "performance": "Bad",
+      "star_1": 5,
+      "star_2": 0,
+      "star_3": 0,
+      "star_4": 4,
+      "star_5": 0
+    },
+    {
+      "name": "spa suite",
+      "performance": "Good",
+      "star_1": 0,
+      "star_2": 0,
+      "star_3": 0,
+      "star_4": 7,
+      "star_5": 3
+    },
+    {
+      "name": "help",
+      "performance": "Average",
+      "star_1": 2,
+      "star_2": 0,
+      "star_3": 3,
+      "star_4": 0,
+      "star_5": 0
+    },
+    {
+      "name": "massage",
+      "performance": "Bad",
+      "star_1": 0,
+      "star_2": 3,
+      "star_3": 0,
+      "star_4": 0,
+      "star_5": 2
+    },
+    {
+      "name": "home",
+      "performance": "Average",
+      "star_1": 5,
+      "star_2": 0,
+      "star_3": 6,
+      "star_4": 13,
+      "star_5": 0
+    },
+    {
+      "name": "stairs",
+      "performance": "Average",
+      "star_1": 0,
+      "star_2": 0,
+      "star_3": 3,
+      "star_4": 4,
+      "star_5": 0
+    },
+    {
+      "name": "smell",
+      "performance": "Average",
+      "star_1": 0,
+      "star_2": 3,
+      "star_3": 4,
+      "star_4": 5,
+      "star_5": 2
+    },
+    {
+      "name": "las vegas",
+      "performance": "Average",
+      "star_1": 5,
+      "star_2": 8,
+      "star_3": 11,
+      "star_4": 16,
+      "star_5": 6
+    },
+    {
+      "name": "was",
+      "performance": "Bad",
+      "star_1": 2,
+      "star_2": 3,
+      "star_3": 3,
+      "star_4": 2,
+      "star_5": 0
+    },
+    {
+      "name": "park",
+      "performance": "Average",
+      "star_1": 0,
+      "star_2": 0,
+      "star_3": 3,
+      "star_4": 2,
+      "star_5": 0
+    },
+    {
+      "name": "security",
+      "performance": "Bad",
+      "star_1": 4,
+      "star_2": 4,
+      "star_3": 2,
+      "star_4": 3,
+      "star_5": 2
+    },
+    {
+      "name": "job",
+      "performance": "Average",
+      "star_1": 5,
+      "star_2": 3,
+      "star_3": 5,
+      "star_4": 10,
+      "star_5": 0
+    },
+    {
+      "name": "step",
+      "performance": "Average",
+      "star_1": 0,
+      "star_2": 0,
+      "star_3": 3,
+      "star_4": 2,
+      "star_5": 0
+    },
+    {
+      "name": "cash",
+      "performance": "Good",
+      "star_1": 2,
+      "star_2": 0,
+      "star_3": 0,
+      "star_4": 6,
+      "star_5": 2
+    },
+    {
+      "name": "service",
+      "performance": "Average",
+      "star_1": 9,
+      "star_2": 12,
+      "star_3": 26,
+      "star_4": 26,
+      "star_5": 10
+    },
+    {
+      "name": "clean",
+      "performance": "Good",
+      "star_1": 0,
+      "star_2": 0,
+      "star_3": 2,
+      "star_4": 8,
+      "star_5": 5
+    },
+    {
+      "name": "night stay",
+      "performance": "Average",
+      "star_1": 2,
+      "star_2": 0,
+      "star_3": 4,
+      "star_4": 2,
+      "star_5": 0
+    },
+    {
+      "name": "friend",
+      "performance": "Average",
+      "star_1": 7,
+      "star_2": 2,
+      "star_3": 13,
+      "star_4": 8,
+      "star_5": 4
+    },
+    {
+      "name": "not",
+      "performance": "Bad",
+      "star_1": 8,
+      "star_2": 4,
+      "star_3": 0,
+      "star_4": 3,
+      "star_5": 0
+    },
+    {
+      "name": "problem",
+      "performance": "Average",
+      "star_1": 5,
+      "star_2": 6,
+      "star_3": 8,
+      "star_4": 11,
+      "star_5": 5
+    },
+    {
+      "name": "girl",
+      "performance": "Average",
+      "star_1": 2,
+      "star_2": 2,
+      "star_3": 5,
+      "star_4": 7,
+      "star_5": 0
+    },
+    {
+      "name": "freeway",
+      "performance": "Good",
+      "star_1": 0,
+      "star_2": 0,
+      "star_3": 0,
+      "star_4": 4,
+      "star_5": 3
+    },
+    {
+      "name": "center",
+      "performance": "Average",
+      "star_1": 0,
+      "star_2": 0,
+      "star_3": 5,
+      "star_4": 6,
+      "star_5": 0
+    },
+    {
+      "name": "pub",
+      "performance": "Average",
+      "star_1": 0,
+      "star_2": 0,
+      "star_3": 5,
+      "star_4": 10,
+      "star_5": 0
+    },
+    {
+      "name": "wait",
+      "performance": "Average",
+      "star_1": 4,
+      "star_2": 6,
+      "star_3": 4,
+      "star_4": 6,
+      "star_5": 2
+    },
+    {
+      "name": "gallagher",
+      "performance": "Good",
+      "star_1": 0,
+      "star_2": 0,
+      "star_3": 0,
+      "star_4": 11,
+      "star_5": 0
+    },
+    {
+      "name": "group",
+      "performance": "Average",
+      "star_1": 0,
+      "star_2": 3,
+      "star_3": 5,
+      "star_4": 7,
+      "star_5": 3
+    },
+    {
+      "name": "lady",
+      "performance": "Average",
+      "star_1": 4,
+      "star_2": 4,
+      "star_3": 6,
+      "star_4": 11,
+      "star_5": 0
+    },
+    {
+      "name": "planet hollywood",
+      "performance": "Average",
+      "star_1": 0,
+      "star_2": 2,
+      "star_3": 2,
+      "star_4": 5,
+      "star_5": 0
+    },
+    {
+      "name": "lights",
+      "performance": "Average",
+      "star_1": 2,
+      "star_2": 0,
+      "star_3": 0,
+      "star_4": 4,
+      "star_5": 0
+    },
+    {
+      "name": "touch",
+      "performance": "Average",
+      "star_1": 0,
+      "star_2": 0,
+      "star_3": 2,
+      "star_4": 4,
+      "star_5": 0
+    },
+    {
+      "name": "trips",
+      "performance": "Average",
+      "star_1": 0,
+      "star_2": 0,
+      "star_3": 2,
+      "star_4": 0,
+      "star_5": 3
+    },
+    {
+      "name": "housekeeping",
+      "performance": "Average",
+      "star_1": 0,
+      "star_2": 2,
+      "star_3": 0,
+      "star_4": 3,
+      "star_5": 0
+    },
+    {
+      "name": "options",
+      "performance": "Average",
+      "star_1": 0,
+      "star_2": 5,
+      "star_3": 7,
+      "star_4": 10,
+      "star_5": 0
+    },
+    {
+      "name": "roof",
+      "performance": "Average",
+      "star_1": 0,
+      "star_2": 2,
+      "star_3": 4,
+      "star_4": 3,
+      "star_5": 0
+    },
+    {
+      "name": "check-in",
+      "performance": "Average",
+      "star_1": 3,
+      "star_2": 2,
+      "star_3": 5,
+      "star_4": 12,
+      "star_5": 0
+    },
+    {
+      "name": "fact",
+      "performance": "Average",
+      "star_1": 4,
+      "star_2": 3,
+      "star_3": 9,
+      "star_4": 14,
+      "star_5": 0
+    },
+    {
+      "name": "bite",
+      "performance": "Good",
+      "star_1": 0,
+      "star_2": 0,
+      "star_3": 0,
+      "star_4": 5,
+      "star_5": 0
+    },
+    {
+      "name": "name",
+      "performance": "Average",
+      "star_1": 4,
+      "star_2": 2,
+      "star_3": 3,
+      "star_4": 8,
+      "star_5": 0
+    },
+    {
+      "name": "paris",
+      "performance": "Average",
+      "star_1": 3,
+      "star_2": 3,
+      "star_3": 2,
+      "star_4": 11,
+      "star_5": 2
+    },
+    {
+      "name": "piano bar",
+      "performance": "Average",
+      "star_1": 0,
+      "star_2": 3,
+      "star_3": 6,
+      "star_4": 14,
+      "star_5": 3
+    },
+    {
+      "name": "internet",
+      "performance": "Average",
+      "star_1": 0,
+      "star_2": 0,
+      "star_3": 7,
+      "star_4": 7,
+      "star_5": 0
+    },
+    {
+      "name": "selection",
+      "performance": "Average",
+      "star_1": 0,
+      "star_2": 2,
+      "star_3": 7,
+      "star_4": 12,
+      "star_5": 3
+    },
+    {
+      "name": "cards",
+      "performance": "Average",
+      "star_1": 2,
+      "star_2": 0,
+      "star_3": 0,
+      "star_4": 3,
+      "star_5": 0
+    },
+    {
+      "name": "card",
+      "performance": "Bad",
+      "star_1": 2,
+      "star_2": 6,
+      "star_3": 3,
+      "star_4": 3,
+      "star_5": 0
+    },
+    {
+      "name": "bunch",
+      "performance": "Average",
+      "star_1": 0,
+      "star_2": 3,
+      "star_3": 5,
+      "star_4": 9,
+      "star_5": 4
+    },
+    {
+      "name": "midnight",
+      "performance": "Average",
+      "star_1": 0,
+      "star_2": 0,
+      "star_3": 3,
+      "star_4": 6,
+      "star_5": 0
+    },
+    {
+      "name": "new york new york",
+      "performance": "Average",
+      "star_1": 7,
+      "star_2": 13,
+      "star_3": 20,
+      "star_4": 40,
+      "star_5": 11
+    },
+    {
+      "name": "bellagio",
+      "performance": "Average",
+      "star_1": 0,
+      "star_2": 6,
+      "star_3": 10,
+      "star_4": 15,
+      "star_5": 4
+    },
+    {
+      "name": "water pressure",
+      "performance": "Average",
+      "star_1": 0,
+      "star_2": 0,
+      "star_3": 3,
+      "star_4": 2,
+      "star_5": 0
+    },
+    {
+      "name": "days",
+      "performance": "Average",
+      "star_1": 4,
+      "star_2": 7,
+      "star_3": 15,
+      "star_4": 14,
+      "star_5": 3
+    },
+    {
+      "name": "floors",
+      "performance": "Average",
+      "star_1": 0,
+      "star_2": 2,
+      "star_3": 5,
+      "star_4": 3,
+      "star_5": 2
+    },
+    {
+      "name": "bar",
+      "performance": "Average",
+      "star_1": 5,
+      "star_2": 5,
+      "star_3": 19,
+      "star_4": 32,
+      "star_5": 5
+    },
+    {
+      "name": "positives",
+      "performance": "Average",
+      "star_1": 2,
+      "star_2": 0,
+      "star_3": 3,
+      "star_4": 0,
+      "star_5": 0
+    },
+    {
+      "name": "none",
+      "performance": "Average",
+      "star_1": 0,
+      "star_2": 0,
+      "star_3": 5,
+      "star_4": 0,
+      "star_5": 0
+    },
+    {
+      "name": "center bar",
+      "performance": "Average",
+      "star_1": 0,
+      "star_2": 0,
+      "star_3": 2,
+      "star_4": 5,
+      "star_5": 0
+    },
+    {
+      "name": "care",
+      "performance": "Bad",
+      "star_1": 5,
+      "star_2": 0,
+      "star_3": 2,
+      "star_4": 0,
+      "star_5": 0
+    },
+    {
+      "name": "wynn",
+      "performance": "Average",
+      "star_1": 2,
+      "star_2": 3,
+      "star_3": 2,
+      "star_4": 8,
+      "star_5": 2
+    },
+    {
+      "name": "shows",
+      "performance": "Average",
+      "star_1": 0,
+      "star_2": 0,
+      "star_3": 3,
+      "star_4": 3,
+      "star_5": 0
+    },
+    {
+      "name": "heart",
+      "performance": "Average",
+      "star_1": 0,
+      "star_2": 2,
+      "star_3": 4,
+      "star_4": 7,
+      "star_5": 0
+    },
+    {
+      "name": "problems",
+      "performance": "Average",
+      "star_1": 0,
+      "star_2": 0,
+      "star_3": 5,
+      "star_4": 9,
+      "star_5": 3
+    },
+    {
+      "name": "services",
+      "performance": "Average",
+      "star_1": 0,
+      "star_2": 0,
+      "star_3": 3,
+      "star_4": 3,
+      "star_5": 0
+    },
+    {
+      "name": "steakhouse",
+      "performance": "Good",
+      "star_1": 0,
+      "star_2": 0,
+      "star_3": 2,
+      "star_4": 7,
+      "star_5": 2
+    },
+    {
+      "name": "pictures",
+      "performance": "Average",
+      "star_1": 0,
+      "star_2": 2,
+      "star_3": 4,
+      "star_4": 2,
+      "star_5": 2
+    },
+    {
+      "name": "breakfast buffet",
+      "performance": "Average",
+      "star_1": 0,
+      "star_2": 0,
+      "star_3": 2,
+      "star_4": 3,
+      "star_5": 0
+    },
+    {
+      "name": "hour",
+      "performance": "Average",
+      "star_1": 6,
+      "star_2": 0,
+      "star_3": 11,
+      "star_4": 5,
+      "star_5": 2
+    },
+    {
+      "name": "south",
+      "performance": "Average",
+      "star_1": 0,
+      "star_2": 0,
+      "star_3": 2,
+      "star_4": 6,
+      "star_5": 0
+    },
+    {
+      "name": "went",
+      "performance": "Average",
+      "star_1": 0,
+      "star_2": 2,
+      "star_3": 0,
+      "star_4": 2,
+      "star_5": 2
+    },
+    {
+      "name": "light",
+      "performance": "Average",
+      "star_1": 0,
+      "star_2": 0,
+      "star_3": 3,
+      "star_4": 2,
+      "star_5": 0
+    },
+    {
+      "name": "top",
+      "performance": "Average",
+      "star_1": 3,
+      "star_2": 3,
+      "star_3": 2,
+      "star_4": 15,
+      "star_5": 4
+    },
+    {
+      "name": "people",
+      "performance": "Average",
+      "star_1": 17,
+      "star_2": 19,
+      "star_3": 36,
+      "star_4": 57,
+      "star_5": 12
+    },
+    {
+      "name": "area",
+      "performance": "Average",
+      "star_1": 3,
+      "star_2": 10,
+      "star_3": 15,
+      "star_4": 29,
+      "star_5": 2
+    },
+    {
+      "name": "line",
+      "performance": "Average",
+      "star_1": 7,
+      "star_2": 8,
+      "star_3": 14,
+      "star_4": 27,
+      "star_5": 2
+    },
+    {
+      "name": "pretty",
+      "performance": "Good",
+      "star_1": 0,
+      "star_2": 0,
+      "star_3": 0,
+      "star_4": 7,
+      "star_5": 0
+    },
+    {
+      "name": "outside",
+      "performance": "Average",
+      "star_1": 0,
+      "star_2": 0,
+      "star_3": 11,
+      "star_4": 9,
+      "star_5": 0
+    },
+    {
+      "name": "thanks",
+      "performance": "Average",
+      "star_1": 0,
+      "star_2": 0,
+      "star_3": 2,
+      "star_4": 2,
+      "star_5": 2
+    },
+    {
+      "name": "excalibur",
+      "performance": "Average",
+      "star_1": 0,
+      "star_2": 4,
+      "star_3": 16,
+      "star_4": 20,
+      "star_5": 5
+    },
+    {
+      "name": "reason",
+      "performance": "Average",
+      "star_1": 4,
+      "star_2": 4,
+      "star_3": 9,
+      "star_4": 11,
+      "star_5": 0
+    },
+    {
+      "name": "friends",
+      "performance": "Average",
+      "star_1": 6,
+      "star_2": 5,
+      "star_3": 10,
+      "star_4": 16,
+      "star_5": 7
+    },
+    {
+      "name": "eat",
+      "performance": "Average",
+      "star_1": 0,
+      "star_2": 0,
+      "star_3": 2,
+      "star_4": 4,
+      "star_5": 2
+    },
+    {
+      "name": "chairs",
+      "performance": "Average",
+      "star_1": 2,
+      "star_2": 2,
+      "star_3": 2,
+      "star_4": 5,
+      "star_5": 0
+    },
+    {
+      "name": "dinner",
+      "performance": "Average",
+      "star_1": 2,
+      "star_2": 0,
+      "star_3": 7,
+      "star_4": 9,
+      "star_5": 0
+    },
+    {
+      "name": "hey",
+      "performance": "Average",
+      "star_1": 2,
+      "star_2": 0,
+      "star_3": 0,
+      "star_4": 2,
+      "star_5": 3
+    },
+    {
+      "name": "sports book",
+      "performance": "Average",
+      "star_1": 3,
+      "star_2": 0,
+      "star_3": 5,
+      "star_4": 5,
+      "star_5": 0
+    },
+    {
+      "name": "dealer",
+      "performance": "Bad",
+      "star_1": 4,
+      "star_2": 2,
+      "star_3": 0,
+      "star_4": 4,
+      "star_5": 0
+    },
+    {
+      "name": "lunch",
+      "performance": "Average",
+      "star_1": 0,
+      "star_2": 2,
+      "star_3": 2,
+      "star_4": 4,
+      "star_5": 2
+    },
+    {
+      "name": "experience",
+      "performance": "Average",
+      "star_1": 7,
+      "star_2": 11,
+      "star_3": 11,
+      "star_4": 29,
+      "star_5": 0
+    },
+    {
+      "name": "hell",
+      "performance": "Average",
+      "star_1": 3,
+      "star_2": 0,
+      "star_3": 0,
+      "star_4": 6,
+      "star_5": 0
+    },
+    {
+      "name": "ways",
+      "performance": "Average",
+      "star_1": 2,
+      "star_2": 0,
+      "star_3": 2,
+      "star_4": 2,
+      "star_5": 0
+    },
+    {
+      "name": "toilet",
+      "performance": "Average",
+      "star_1": 3,
+      "star_2": 0,
+      "star_3": 3,
+      "star_4": 4,
+      "star_5": 0
+    },
+    {
+      "name": "mirror",
+      "performance": "Average",
+      "star_1": 0,
+      "star_2": 0,
+      "star_3": 2,
+      "star_4": 3,
+      "star_5": 0
+    },
+    {
+      "name": "cocktail waitresses",
+      "performance": "Average",
+      "star_1": 0,
+      "star_2": 0,
+      "star_3": 2,
+      "star_4": 4,
+      "star_5": 0
+    },
+    {
+      "name": "luck",
+      "performance": "Average",
+      "star_1": 2,
+      "star_2": 2,
+      "star_3": 4,
+      "star_4": 5,
+      "star_5": 0
+    },
+    {
+      "name": "staff",
+      "performance": "Average",
+      "star_1": 6,
+      "star_2": 6,
+      "star_3": 20,
+      "star_4": 47,
+      "star_5": 19
+    },
+    {
+      "name": "morning",
+      "performance": "Average",
+      "star_1": 3,
+      "star_2": 10,
+      "star_3": 11,
+      "star_4": 10,
+      "star_5": 0
+    },
+    {
+      "name": "management",
+      "performance": "Bad",
+      "star_1": 3,
+      "star_2": 2,
+      "star_3": 0,
+      "star_4": 0,
+      "star_5": 0
+    },
+    {
+      "name": "inside",
+      "performance": "Average",
+      "star_1": 0,
+      "star_2": 0,
+      "star_3": 5,
+      "star_4": 5,
+      "star_5": 0
+    },
+    {
+      "name": "circus circus",
+      "performance": "Average",
+      "star_1": 0,
+      "star_2": 0,
+      "star_3": 4,
+      "star_4": 4,
+      "star_5": 0
+    },
+    {
+      "name": "house",
+      "performance": "Bad",
+      "star_1": 4,
+      "star_2": 0,
+      "star_3": 2,
+      "star_4": 2,
+      "star_5": 0
+    },
+    {
+      "name": "drinks",
+      "performance": "Average",
+      "star_1": 3,
+      "star_2": 10,
+      "star_3": 23,
+      "star_4": 37,
+      "star_5": 7
+    },
+    {
+      "name": "shopping",
+      "performance": "Average",
+      "star_1": 0,
+      "star_2": 0,
+      "star_3": 2,
+      "star_4": 3,
+      "star_5": 0
+    },
+    {
+      "name": "upgrade",
+      "performance": "Average",
+      "star_1": 4,
+      "star_2": 0,
+      "star_3": 2,
+      "star_4": 7,
+      "star_5": 3
+    },
+    {
+      "name": "suite",
+      "performance": "Average",
+      "star_1": 4,
+      "star_2": 5,
+      "star_3": 7,
+      "star_4": 11,
+      "star_5": 4
+    },
+    {
+      "name": "bathroom",
+      "performance": "Average",
+      "star_1": 6,
+      "star_2": 8,
+      "star_3": 24,
+      "star_4": 34,
+      "star_5": 4
+    },
+    {
+      "name": "type",
+      "performance": "Average",
+      "star_1": 2,
+      "star_2": 0,
+      "star_3": 5,
+      "star_4": 3,
+      "star_5": 2
+    },
+    {
+      "name": "bed",
+      "performance": "Average",
+      "star_1": 6,
+      "star_2": 11,
+      "star_3": 19,
+      "star_4": 24,
+      "star_5": 8
+    },
+    {
+      "name": "car",
+      "performance": "Average",
+      "star_1": 3,
+      "star_2": 3,
+      "star_3": 5,
+      "star_4": 10,
+      "star_5": 3
+    },
+    {
+      "name": "room rate",
+      "performance": "Average",
+      "star_1": 0,
+      "star_2": 0,
+      "star_3": 3,
+      "star_4": 2,
+      "star_5": 0
+    },
+    {
+      "name": "bill",
+      "performance": "Bad",
+      "star_1": 2,
+      "star_2": 2,
+      "star_3": 0,
+      "star_4": 3,
+      "star_5": 0
+    },
+    {
+      "name": "water",
+      "performance": "Average",
+      "star_1": 5,
+      "star_2": 6,
+      "star_3": 7,
+      "star_4": 6,
+      "star_5": 0
+    },
+    {
+      "name": "never",
+      "performance": "Bad",
+      "star_1": 0,
+      "star_2": 3,
+      "star_3": 0,
+      "star_4": 2,
+      "star_5": 0
+    },
+    {
+      "name": "furniture",
+      "performance": "Average",
+      "star_1": 0,
+      "star_2": 0,
+      "star_3": 3,
+      "star_4": 4,
+      "star_5": 0
+    },
+    {
+      "name": "may",
+      "performance": "Average",
+      "star_1": 0,
+      "star_2": 2,
+      "star_3": 0,
+      "star_4": 3,
+      "star_5": 0
+    },
+    {
+      "name": "ate",
+      "performance": "Average",
+      "star_1": 0,
+      "star_2": 0,
+      "star_3": 3,
+      "star_4": 4,
+      "star_5": 0
+    },
+    {
+      "name": "rude",
+      "performance": "Bad",
+      "star_1": 3,
+      "star_2": 0,
+      "star_3": 3,
+      "star_4": 0,
+      "star_5": 0
+    },
+    {
+      "name": "look",
+      "performance": "Average",
+      "star_1": 0,
+      "star_2": 2,
+      "star_3": 8,
+      "star_4": 5,
+      "star_5": 0
+    },
+    {
+      "name": "corner",
+      "performance": "Average",
+      "star_1": 0,
+      "star_2": 4,
+      "star_3": 2,
+      "star_4": 10,
+      "star_5": 2
+    },
+    {
+      "name": "monte carlo",
+      "performance": "Average",
+      "star_1": 0,
+      "star_2": 6,
+      "star_3": 8,
+      "star_4": 15,
+      "star_5": 0
+    },
+    {
+      "name": "restaurant",
+      "performance": "Average",
+      "star_1": 3,
+      "star_2": 3,
+      "star_3": 7,
+      "star_4": 12,
+      "star_5": 5
+    },
+    {
+      "name": "hall",
+      "performance": "Average",
+      "star_1": 0,
+      "star_2": 2,
+      "star_3": 0,
+      "star_4": 3,
+      "star_5": 0
+    },
+    {
+      "name": "one",
+      "performance": "Average",
+      "star_1": 7,
+      "star_2": 8,
+      "star_3": 8,
+      "star_4": 18,
+      "star_5": 3
+    },
+    {
+      "name": "sun",
+      "performance": "Average",
+      "star_1": 0,
+      "star_2": 3,
+      "star_3": 0,
+      "star_4": 4,
+      "star_5": 0
+    },
+    {
+      "name": "entrance",
+      "performance": "Good",
+      "star_1": 0,
+      "star_2": 0,
+      "star_3": 2,
+      "star_4": 10,
+      "star_5": 2
+    },
+    {
+      "name": "variety",
+      "performance": "Good",
+      "star_1": 0,
+      "star_2": 0,
+      "star_3": 2,
+      "star_4": 21,
+      "star_5": 3
+    },
+    {
+      "name": "wife",
+      "performance": "Average",
+      "star_1": 5,
+      "star_2": 4,
+      "star_3": 4,
+      "star_4": 10,
+      "star_5": 0
+    },
+    {
+      "name": "coupons",
+      "performance": "Good",
+      "star_1": 0,
+      "star_2": 0,
+      "star_3": 0,
+      "star_4": 7,
+      "star_5": 0
+    },
+    {
+      "name": "par",
+      "performance": "Average",
+      "star_1": 0,
+      "star_2": 2,
+      "star_3": 2,
+      "star_4": 2,
+      "star_5": 0
+    },
+    {
+      "name": "design",
+      "performance": "Average",
+      "star_1": 0,
+      "star_2": 2,
+      "star_3": 4,
+      "star_4": 6,
+      "star_5": 0
+    },
+    {
+      "name": "kinds",
+      "performance": "Average",
+      "star_1": 0,
+      "star_2": 0,
+      "star_3": 2,
+      "star_4": 5,
+      "star_5": 0
+    },
+    {
+      "name": "las vegas strip",
+      "performance": "Good",
+      "star_1": 0,
+      "star_2": 0,
+      "star_3": 0,
+      "star_4": 6,
+      "star_5": 0
+    },
+    {
+      "name": "mountains",
+      "performance": "Good",
+      "star_1": 0,
+      "star_2": 0,
+      "star_3": 0,
+      "star_4": 6,
+      "star_5": 0
+    },
+    {
+      "name": "window",
+      "performance": "Average",
+      "star_1": 2,
+      "star_2": 0,
+      "star_3": 10,
+      "star_4": 4,
+      "star_5": 2
+    },
+    {
+      "name": "sort",
+      "performance": "Average",
+      "star_1": 2,
+      "star_2": 4,
+      "star_3": 8,
+      "star_4": 6,
+      "star_5": 0
+    },
+    {
+      "name": "back",
+      "performance": "Average",
+      "star_1": 2,
+      "star_2": 0,
+      "star_3": 0,
+      "star_4": 5,
+      "star_5": 0
+    },
+    {
+      "name": "portion",
+      "performance": "Average",
+      "star_1": 0,
+      "star_2": 0,
+      "star_3": 5,
+      "star_4": 2,
+      "star_5": 0
+    },
+    {
+      "name": "did",
+      "performance": "Average",
+      "star_1": 0,
+      "star_2": 2,
+      "star_3": 0,
+      "star_4": 5,
+      "star_5": 0
+    },
+    {
+      "name": "bet",
+      "performance": "Average",
+      "star_1": 0,
+      "star_2": 0,
+      "star_3": 2,
+      "star_4": 4,
+      "star_5": 0
+    },
+    {
+      "name": "sinks",
+      "performance": "Average",
+      "star_1": 0,
+      "star_2": 2,
+      "star_3": 0,
+      "star_4": 3,
+      "star_5": 0
+    },
+    {
+      "name": "question",
+      "performance": "Bad",
+      "star_1": 0,
+      "star_2": 3,
+      "star_3": 0,
+      "star_4": 2,
+      "star_5": 0
+    },
+    {
+      "name": "conversation",
+      "performance": "Bad",
+      "star_1": 0,
+      "star_2": 3,
+      "star_3": 2,
+      "star_4": 0,
+      "star_5": 0
+    },
+    {
+      "name": "players",
+      "performance": "Average",
+      "star_1": 3,
+      "star_2": 2,
+      "star_3": 2,
+      "star_4": 6,
+      "star_5": 0
+    },
+    {
+      "name": "sportsbook",
+      "performance": "Average",
+      "star_1": 0,
+      "star_2": 0,
+      "star_3": 2,
+      "star_4": 5,
+      "star_5": 0
+    },
+    {
+      "name": "access",
+      "performance": "Average",
+      "star_1": 0,
+      "star_2": 3,
+      "star_3": 5,
+      "star_4": 16,
+      "star_5": 4
+    },
+    {
+      "name": "well",
+      "performance": "Average",
+      "star_1": 2,
+      "star_2": 0,
+      "star_3": 4,
+      "star_4": 2,
+      "star_5": 0
+    },
+    {
+      "name": "game",
+      "performance": "Average",
+      "star_1": 3,
+      "star_2": 3,
+      "star_3": 6,
+      "star_4": 0,
+      "star_5": 4
+    },
+    {
+      "name": "taxes",
+      "performance": "Average",
+      "star_1": 0,
+      "star_2": 0,
+      "star_3": 3,
+      "star_4": 3,
+      "star_5": 0
+    },
+    {
+      "name": "reasons",
+      "performance": "Average",
+      "star_1": 0,
+      "star_2": 2,
+      "star_3": 2,
+      "star_4": 4,
+      "star_5": 0
+    },
+    {
+      "name": "hallways",
+      "performance": "Bad",
+      "star_1": 0,
+      "star_2": 4,
+      "star_3": 3,
+      "star_4": 0,
+      "star_5": 0
+    },
+    {
+      "name": "steps",
+      "performance": "Average",
+      "star_1": 0,
+      "star_2": 0,
+      "star_3": 3,
+      "star_4": 2,
+      "star_5": 0
+    },
+    {
+      "name": "penny slots",
+      "performance": "Good",
+      "star_1": 0,
+      "star_2": 0,
+      "star_3": 0,
+      "star_4": 5,
+      "star_5": 0
+    },
+    {
+      "name": "tv channels",
+      "performance": "Average",
+      "star_1": 0,
+      "star_2": 0,
+      "star_3": 3,
+      "star_4": 2,
+      "star_5": 0
+    },
+    {
+      "name": "thing",
+      "performance": "Average",
+      "star_1": 9,
+      "star_2": 14,
+      "star_3": 25,
+      "star_4": 40,
+      "star_5": 6
+    }
+  ]
+}

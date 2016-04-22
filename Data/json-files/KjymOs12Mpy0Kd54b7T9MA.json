@@ -1,0 +1,5143 @@
+{
+  "features": [
+    {
+      "name": "today",
+      "performance": "Good",
+      "star_1": 0,
+      "star_2": 0,
+      "star_3": 0,
+      "star_4": 3,
+      "star_5": 3
+    },
+    {
+      "name": "seabass",
+      "performance": "Average",
+      "star_1": 0,
+      "star_2": 0,
+      "star_3": 4,
+      "star_4": 0,
+      "star_5": 3
+    },
+    {
+      "name": "business",
+      "performance": "Good",
+      "star_1": 0,
+      "star_2": 2,
+      "star_3": 0,
+      "star_4": 3,
+      "star_5": 4
+    },
+    {
+      "name": "patio",
+      "performance": "Good",
+      "star_1": 2,
+      "star_2": 12,
+      "star_3": 22,
+      "star_4": 55,
+      "star_5": 69
+    },
+    {
+      "name": "parmesan",
+      "performance": "Good",
+      "star_1": 0,
+      "star_2": 0,
+      "star_3": 0,
+      "star_4": 6,
+      "star_5": 3
+    },
+    {
+      "name": "cuisine",
+      "performance": "Good",
+      "star_1": 0,
+      "star_2": 0,
+      "star_3": 0,
+      "star_4": 2,
+      "star_5": 5
+    },
+    {
+      "name": "customers",
+      "performance": "Bad",
+      "star_1": 3,
+      "star_2": 2,
+      "star_3": 0,
+      "star_4": 3,
+      "star_5": 0
+    },
+    {
+      "name": "right",
+      "performance": "Average",
+      "star_1": 0,
+      "star_2": 0,
+      "star_3": 4,
+      "star_4": 5,
+      "star_5": 7
+    },
+    {
+      "name": "hubby",
+      "performance": "Good",
+      "star_1": 0,
+      "star_2": 0,
+      "star_3": 2,
+      "star_4": 4,
+      "star_5": 3
+    },
+    {
+      "name": "beef",
+      "performance": "Good",
+      "star_1": 0,
+      "star_2": 2,
+      "star_3": 0,
+      "star_4": 9,
+      "star_5": 4
+    },
+    {
+      "name": "bellagio",
+      "performance": "Good",
+      "star_1": 3,
+      "star_2": 6,
+      "star_3": 12,
+      "star_4": 60,
+      "star_5": 41
+    },
+    {
+      "name": "ones",
+      "performance": "Bad",
+      "star_1": 0,
+      "star_2": 3,
+      "star_3": 0,
+      "star_4": 2,
+      "star_5": 0
+    },
+    {
+      "name": "customer",
+      "performance": "Bad",
+      "star_1": 3,
+      "star_2": 0,
+      "star_3": 0,
+      "star_4": 3,
+      "star_5": 0
+    },
+    {
+      "name": "type",
+      "performance": "Good",
+      "star_1": 0,
+      "star_2": 0,
+      "star_3": 0,
+      "star_4": 3,
+      "star_5": 8
+    },
+    {
+      "name": "lobster",
+      "performance": "Average",
+      "star_1": 0,
+      "star_2": 0,
+      "star_3": 4,
+      "star_4": 2,
+      "star_5": 0
+    },
+    {
+      "name": "anything",
+      "performance": "Average",
+      "star_1": 6,
+      "star_2": 3,
+      "star_3": 11,
+      "star_4": 18,
+      "star_5": 13
+    },
+    {
+      "name": "arrival",
+      "performance": "Average",
+      "star_1": 0,
+      "star_2": 0,
+      "star_3": 3,
+      "star_4": 0,
+      "star_5": 5
+    },
+    {
+      "name": "combination",
+      "performance": "Good",
+      "star_1": 0,
+      "star_2": 0,
+      "star_3": 2,
+      "star_4": 3,
+      "star_5": 6
+    },
+    {
+      "name": "greens",
+      "performance": "Good",
+      "star_1": 0,
+      "star_2": 2,
+      "star_3": 0,
+      "star_4": 7,
+      "star_5": 9
+    },
+    {
+      "name": "rate",
+      "performance": "Average",
+      "star_1": 2,
+      "star_2": 0,
+      "star_3": 4,
+      "star_4": 0,
+      "star_5": 0
+    },
+    {
+      "name": "mushroom risotto",
+      "performance": "Good",
+      "star_1": 0,
+      "star_2": 2,
+      "star_3": 0,
+      "star_4": 4,
+      "star_5": 7
+    },
+    {
+      "name": "window",
+      "performance": "Good",
+      "star_1": 0,
+      "star_2": 4,
+      "star_3": 5,
+      "star_4": 21,
+      "star_5": 11
+    },
+    {
+      "name": "walnuts",
+      "performance": "Good",
+      "star_1": 0,
+      "star_2": 0,
+      "star_3": 0,
+      "star_4": 2,
+      "star_5": 3
+    },
+    {
+      "name": "ice cream",
+      "performance": "Average",
+      "star_1": 0,
+      "star_2": 0,
+      "star_3": 2,
+      "star_4": 5,
+      "star_5": 0
+    },
+    {
+      "name": "host",
+      "performance": "Good",
+      "star_1": 0,
+      "star_2": 0,
+      "star_3": 0,
+      "star_4": 3,
+      "star_5": 2
+    },
+    {
+      "name": "outside",
+      "performance": "Good",
+      "star_1": 0,
+      "star_2": 0,
+      "star_3": 3,
+      "star_4": 9,
+      "star_5": 10
+    },
+    {
+      "name": "aioli",
+      "performance": "Average",
+      "star_1": 0,
+      "star_2": 0,
+      "star_3": 2,
+      "star_4": 2,
+      "star_5": 3
+    },
+    {
+      "name": "thing",
+      "performance": "Average",
+      "star_1": 6,
+      "star_2": 8,
+      "star_3": 12,
+      "star_4": 26,
+      "star_5": 26
+    },
+    {
+      "name": "bass",
+      "performance": "Good",
+      "star_1": 0,
+      "star_2": 0,
+      "star_3": 0,
+      "star_4": 2,
+      "star_5": 3
+    },
+    {
+      "name": "delicious",
+      "performance": "Good",
+      "star_1": 0,
+      "star_2": 0,
+      "star_3": 0,
+      "star_4": 6,
+      "star_5": 4
+    },
+    {
+      "name": "lunch",
+      "performance": "Average",
+      "star_1": 2,
+      "star_2": 12,
+      "star_3": 31,
+      "star_4": 61,
+      "star_5": 41
+    },
+    {
+      "name": "point",
+      "performance": "Average",
+      "star_1": 6,
+      "star_2": 4,
+      "star_3": 5,
+      "star_4": 8,
+      "star_5": 7
+    },
+    {
+      "name": "spot",
+      "performance": "Average",
+      "star_1": 0,
+      "star_2": 4,
+      "star_3": 7,
+      "star_4": 15,
+      "star_5": 15
+    },
+    {
+      "name": "tomatoes",
+      "performance": "Average",
+      "star_1": 0,
+      "star_2": 6,
+      "star_3": 2,
+      "star_4": 4,
+      "star_5": 4
+    },
+    {
+      "name": "truffles",
+      "performance": "Good",
+      "star_1": 2,
+      "star_2": 0,
+      "star_3": 0,
+      "star_4": 2,
+      "star_5": 6
+    },
+    {
+      "name": "terrace",
+      "performance": "Average",
+      "star_1": 0,
+      "star_2": 0,
+      "star_3": 4,
+      "star_4": 4,
+      "star_5": 6
+    },
+    {
+      "name": "hostesses",
+      "performance": "Bad",
+      "star_1": 0,
+      "star_2": 4,
+      "star_3": 0,
+      "star_4": 0,
+      "star_5": 2
+    },
+    {
+      "name": "photos",
+      "performance": "Average",
+      "star_1": 0,
+      "star_2": 0,
+      "star_3": 2,
+      "star_4": 4,
+      "star_5": 0
+    },
+    {
+      "name": "wait",
+      "performance": "Average",
+      "star_1": 2,
+      "star_2": 6,
+      "star_3": 6,
+      "star_4": 10,
+      "star_5": 21
+    },
+    {
+      "name": "rest",
+      "performance": "Average",
+      "star_1": 4,
+      "star_2": 6,
+      "star_3": 6,
+      "star_4": 11,
+      "star_5": 6
+    },
+    {
+      "name": "bf",
+      "performance": "Good",
+      "star_1": 0,
+      "star_2": 0,
+      "star_3": 0,
+      "star_4": 6,
+      "star_5": 2
+    },
+    {
+      "name": "portobello flatbread",
+      "performance": "Good",
+      "star_1": 0,
+      "star_2": 0,
+      "star_3": 0,
+      "star_4": 3,
+      "star_5": 4
+    },
+    {
+      "name": "duck",
+      "performance": "Average",
+      "star_1": 0,
+      "star_2": 3,
+      "star_3": 0,
+      "star_4": 4,
+      "star_5": 0
+    },
+    {
+      "name": "bunch",
+      "performance": "Average",
+      "star_1": 0,
+      "star_2": 2,
+      "star_3": 0,
+      "star_4": 0,
+      "star_5": 3
+    },
+    {
+      "name": "heat",
+      "performance": "Good",
+      "star_1": 0,
+      "star_2": 0,
+      "star_3": 0,
+      "star_4": 5,
+      "star_5": 0
+    },
+    {
+      "name": "patio seating",
+      "performance": "Good",
+      "star_1": 0,
+      "star_2": 0,
+      "star_3": 0,
+      "star_4": 9,
+      "star_5": 3
+    },
+    {
+      "name": "world",
+      "performance": "Good",
+      "star_1": 0,
+      "star_2": 0,
+      "star_3": 2,
+      "star_4": 3,
+      "star_5": 5
+    },
+    {
+      "name": "great view",
+      "performance": "Good",
+      "star_1": 0,
+      "star_2": 0,
+      "star_3": 0,
+      "star_4": 3,
+      "star_5": 3
+    },
+    {
+      "name": "ate",
+      "performance": "Good",
+      "star_1": 0,
+      "star_2": 0,
+      "star_3": 0,
+      "star_4": 9,
+      "star_5": 2
+    },
+    {
+      "name": "juicy",
+      "performance": "Good",
+      "star_1": 0,
+      "star_2": 0,
+      "star_3": 0,
+      "star_4": 4,
+      "star_5": 7
+    },
+    {
+      "name": "starter",
+      "performance": "Average",
+      "star_1": 0,
+      "star_2": 3,
+      "star_3": 0,
+      "star_4": 3,
+      "star_5": 3
+    },
+    {
+      "name": "balcony",
+      "performance": "Good",
+      "star_1": 0,
+      "star_2": 0,
+      "star_3": 0,
+      "star_4": 9,
+      "star_5": 12
+    },
+    {
+      "name": "beef tartare",
+      "performance": "Average",
+      "star_1": 0,
+      "star_2": 0,
+      "star_3": 2,
+      "star_4": 0,
+      "star_5": 3
+    },
+    {
+      "name": "location",
+      "performance": "Average",
+      "star_1": 4,
+      "star_2": 2,
+      "star_3": 7,
+      "star_4": 17,
+      "star_5": 2
+    },
+    {
+      "name": "assortment",
+      "performance": "Good",
+      "star_1": 0,
+      "star_2": 0,
+      "star_3": 2,
+      "star_4": 7,
+      "star_5": 8
+    },
+    {
+      "name": "boyfriend",
+      "performance": "Good",
+      "star_1": 3,
+      "star_2": 3,
+      "star_3": 2,
+      "star_4": 13,
+      "star_5": 12
+    },
+    {
+      "name": "perfect",
+      "performance": "Good",
+      "star_1": 0,
+      "star_2": 0,
+      "star_3": 0,
+      "star_4": 5,
+      "star_5": 5
+    },
+    {
+      "name": "hit",
+      "performance": "Average",
+      "star_1": 0,
+      "star_2": 2,
+      "star_3": 0,
+      "star_4": 3,
+      "star_5": 2
+    },
+    {
+      "name": "beginning",
+      "performance": "Average",
+      "star_1": 0,
+      "star_2": 2,
+      "star_3": 0,
+      "star_4": 2,
+      "star_5": 2
+    },
+    {
+      "name": "ravioli",
+      "performance": "Average",
+      "star_1": 2,
+      "star_2": 2,
+      "star_3": 9,
+      "star_4": 8,
+      "star_5": 5
+    },
+    {
+      "name": "check",
+      "performance": "Average",
+      "star_1": 2,
+      "star_2": 4,
+      "star_3": 4,
+      "star_4": 4,
+      "star_5": 3
+    },
+    {
+      "name": "oh",
+      "performance": "Good",
+      "star_1": 0,
+      "star_2": 0,
+      "star_3": 0,
+      "star_4": 3,
+      "star_5": 5
+    },
+    {
+      "name": "complaints",
+      "performance": "Average",
+      "star_1": 0,
+      "star_2": 0,
+      "star_3": 2,
+      "star_4": 3,
+      "star_5": 2
+    },
+    {
+      "name": "wine list",
+      "performance": "Average",
+      "star_1": 2,
+      "star_2": 0,
+      "star_3": 0,
+      "star_4": 3,
+      "star_5": 2
+    },
+    {
+      "name": "seat",
+      "performance": "Average",
+      "star_1": 0,
+      "star_2": 5,
+      "star_3": 13,
+      "star_4": 24,
+      "star_5": 14
+    },
+    {
+      "name": "sauces",
+      "performance": "Average",
+      "star_1": 2,
+      "star_2": 0,
+      "star_3": 0,
+      "star_4": 3,
+      "star_5": 0
+    },
+    {
+      "name": "plate",
+      "performance": "Average",
+      "star_1": 2,
+      "star_2": 9,
+      "star_3": 13,
+      "star_4": 20,
+      "star_5": 23
+    },
+    {
+      "name": "courses",
+      "performance": "Good",
+      "star_1": 0,
+      "star_2": 2,
+      "star_3": 0,
+      "star_4": 6,
+      "star_5": 4
+    },
+    {
+      "name": "highly",
+      "performance": "Good",
+      "star_1": 0,
+      "star_2": 0,
+      "star_3": 0,
+      "star_4": 0,
+      "star_5": 6
+    },
+    {
+      "name": "tables",
+      "performance": "Average",
+      "star_1": 5,
+      "star_2": 15,
+      "star_3": 12,
+      "star_4": 13,
+      "star_5": 13
+    },
+    {
+      "name": "love",
+      "performance": "Good",
+      "star_1": 0,
+      "star_2": 0,
+      "star_3": 0,
+      "star_4": 6,
+      "star_5": 4
+    },
+    {
+      "name": "reason",
+      "performance": "Average",
+      "star_1": 5,
+      "star_2": 2,
+      "star_3": 6,
+      "star_4": 15,
+      "star_5": 6
+    },
+    {
+      "name": "mix",
+      "performance": "Good",
+      "star_1": 0,
+      "star_2": 0,
+      "star_3": 0,
+      "star_4": 5,
+      "star_5": 6
+    },
+    {
+      "name": "man",
+      "performance": "Average",
+      "star_1": 0,
+      "star_2": 3,
+      "star_3": 0,
+      "star_4": 4,
+      "star_5": 3
+    },
+    {
+      "name": "tea",
+      "performance": "Average",
+      "star_1": 0,
+      "star_2": 0,
+      "star_3": 2,
+      "star_4": 4,
+      "star_5": 2
+    },
+    {
+      "name": "friend",
+      "performance": "Good",
+      "star_1": 4,
+      "star_2": 5,
+      "star_3": 5,
+      "star_4": 23,
+      "star_5": 21
+    },
+    {
+      "name": "buffet",
+      "performance": "Average",
+      "star_1": 0,
+      "star_2": 0,
+      "star_3": 3,
+      "star_4": 2,
+      "star_5": 0
+    },
+    {
+      "name": "pork tenderloin",
+      "performance": "Good",
+      "star_1": 0,
+      "star_2": 0,
+      "star_3": 0,
+      "star_4": 3,
+      "star_5": 2
+    },
+    {
+      "name": "request",
+      "performance": "Good",
+      "star_1": 0,
+      "star_2": 0,
+      "star_3": 0,
+      "star_4": 2,
+      "star_5": 3
+    },
+    {
+      "name": "problem",
+      "performance": "Good",
+      "star_1": 0,
+      "star_2": 0,
+      "star_3": 0,
+      "star_4": 6,
+      "star_5": 3
+    },
+    {
+      "name": "halibut",
+      "performance": "Average",
+      "star_1": 0,
+      "star_2": 3,
+      "star_3": 0,
+      "star_4": 3,
+      "star_5": 3
+    },
+    {
+      "name": "line",
+      "performance": "Good",
+      "star_1": 0,
+      "star_2": 4,
+      "star_3": 0,
+      "star_4": 7,
+      "star_5": 6
+    },
+    {
+      "name": "dining experience",
+      "performance": "Good",
+      "star_1": 0,
+      "star_2": 0,
+      "star_3": 0,
+      "star_4": 6,
+      "star_5": 8
+    },
+    {
+      "name": "experience",
+      "performance": "Average",
+      "star_1": 11,
+      "star_2": 13,
+      "star_3": 23,
+      "star_4": 36,
+      "star_5": 46
+    },
+    {
+      "name": "carpaccio",
+      "performance": "Average",
+      "star_1": 2,
+      "star_2": 6,
+      "star_3": 8,
+      "star_4": 16,
+      "star_5": 22
+    },
+    {
+      "name": "rib eye",
+      "performance": "Good",
+      "star_1": 0,
+      "star_2": 0,
+      "star_3": 0,
+      "star_4": 3,
+      "star_5": 2
+    },
+    {
+      "name": "lol",
+      "performance": "Average",
+      "star_1": 0,
+      "star_2": 0,
+      "star_3": 2,
+      "star_4": 0,
+      "star_5": 3
+    },
+    {
+      "name": "friends",
+      "performance": "Good",
+      "star_1": 0,
+      "star_2": 5,
+      "star_3": 3,
+      "star_4": 17,
+      "star_5": 14
+    },
+    {
+      "name": "very",
+      "performance": "Average",
+      "star_1": 0,
+      "star_2": 0,
+      "star_3": 3,
+      "star_4": 4,
+      "star_5": 3
+    },
+    {
+      "name": "taste",
+      "performance": "Average",
+      "star_1": 2,
+      "star_2": 7,
+      "star_3": 8,
+      "star_4": 18,
+      "star_5": 12
+    },
+    {
+      "name": "fountain show",
+      "performance": "Good",
+      "star_1": 3,
+      "star_2": 2,
+      "star_3": 5,
+      "star_4": 20,
+      "star_5": 14
+    },
+    {
+      "name": "spaghetti",
+      "performance": "Average",
+      "star_1": 0,
+      "star_2": 3,
+      "star_3": 0,
+      "star_4": 2,
+      "star_5": 2
+    },
+    {
+      "name": "space",
+      "performance": "Good",
+      "star_1": 0,
+      "star_2": 0,
+      "star_3": 0,
+      "star_4": 4,
+      "star_5": 2
+    },
+    {
+      "name": "average",
+      "performance": "Average",
+      "star_1": 0,
+      "star_2": 3,
+      "star_3": 3,
+      "star_4": 4,
+      "star_5": 0
+    },
+    {
+      "name": "expectations",
+      "performance": "Average",
+      "star_1": 0,
+      "star_2": 4,
+      "star_3": 3,
+      "star_4": 4,
+      "star_5": 6
+    },
+    {
+      "name": "months",
+      "performance": "Average",
+      "star_1": 0,
+      "star_2": 0,
+      "star_3": 2,
+      "star_4": 3,
+      "star_5": 2
+    },
+    {
+      "name": "appetizers",
+      "performance": "Average",
+      "star_1": 0,
+      "star_2": 4,
+      "star_3": 10,
+      "star_4": 17,
+      "star_5": 18
+    },
+    {
+      "name": "sandwiches",
+      "performance": "Good",
+      "star_1": 0,
+      "star_2": 0,
+      "star_3": 0,
+      "star_4": 3,
+      "star_5": 2
+    },
+    {
+      "name": "butternut squash tortellini",
+      "performance": "Good",
+      "star_1": 0,
+      "star_2": 0,
+      "star_3": 2,
+      "star_4": 5,
+      "star_5": 2
+    },
+    {
+      "name": "week",
+      "performance": "Good",
+      "star_1": 0,
+      "star_2": 0,
+      "star_3": 4,
+      "star_4": 7,
+      "star_5": 7
+    },
+    {
+      "name": "cocktail",
+      "performance": "Average",
+      "star_1": 0,
+      "star_2": 5,
+      "star_3": 4,
+      "star_4": 4,
+      "star_5": 11
+    },
+    {
+      "name": "foccacia",
+      "performance": "Good",
+      "star_1": 0,
+      "star_2": 0,
+      "star_3": 0,
+      "star_4": 3,
+      "star_5": 2
+    },
+    {
+      "name": "center",
+      "performance": "Average",
+      "star_1": 2,
+      "star_2": 0,
+      "star_3": 3,
+      "star_4": 0,
+      "star_5": 2
+    },
+    {
+      "name": "cocktails",
+      "performance": "Good",
+      "star_1": 0,
+      "star_2": 3,
+      "star_3": 3,
+      "star_4": 12,
+      "star_5": 16
+    },
+    {
+      "name": "feeling",
+      "performance": "Average",
+      "star_1": 0,
+      "star_2": 0,
+      "star_3": 5,
+      "star_4": 0,
+      "star_5": 0
+    },
+    {
+      "name": "town",
+      "performance": "Average",
+      "star_1": 0,
+      "star_2": 0,
+      "star_3": 6,
+      "star_4": 8,
+      "star_5": 10
+    },
+    {
+      "name": "front",
+      "performance": "Average",
+      "star_1": 3,
+      "star_2": 6,
+      "star_3": 3,
+      "star_4": 12,
+      "star_5": 7
+    },
+    {
+      "name": "saltiness",
+      "performance": "Good",
+      "star_1": 0,
+      "star_2": 0,
+      "star_3": 0,
+      "star_4": 3,
+      "star_5": 2
+    },
+    {
+      "name": "perfection",
+      "performance": "Good",
+      "star_1": 0,
+      "star_2": 0,
+      "star_3": 4,
+      "star_4": 5,
+      "star_5": 8
+    },
+    {
+      "name": "vibe",
+      "performance": "Good",
+      "star_1": 0,
+      "star_2": 0,
+      "star_3": 0,
+      "star_4": 4,
+      "star_5": 3
+    },
+    {
+      "name": "anyway",
+      "performance": "Good",
+      "star_1": 0,
+      "star_2": 0,
+      "star_3": 0,
+      "star_4": 4,
+      "star_5": 2
+    },
+    {
+      "name": "mind",
+      "performance": "Good",
+      "star_1": 0,
+      "star_2": 0,
+      "star_3": 2,
+      "star_4": 4,
+      "star_5": 6
+    },
+    {
+      "name": "something",
+      "performance": "Average",
+      "star_1": 3,
+      "star_2": 8,
+      "star_3": 17,
+      "star_4": 21,
+      "star_5": 19
+    },
+    {
+      "name": "first",
+      "performance": "Good",
+      "star_1": 0,
+      "star_2": 2,
+      "star_3": 0,
+      "star_4": 4,
+      "star_5": 3
+    },
+    {
+      "name": "treat",
+      "performance": "Good",
+      "star_1": 0,
+      "star_2": 0,
+      "star_3": 2,
+      "star_4": 3,
+      "star_5": 5
+    },
+    {
+      "name": "chickpeas",
+      "performance": "Average",
+      "star_1": 0,
+      "star_2": 2,
+      "star_3": 5,
+      "star_4": 3,
+      "star_5": 6
+    },
+    {
+      "name": "mushrooms",
+      "performance": "Good",
+      "star_1": 0,
+      "star_2": 2,
+      "star_3": 0,
+      "star_4": 5,
+      "star_5": 4
+    },
+    {
+      "name": "great food",
+      "performance": "Good",
+      "star_1": 0,
+      "star_2": 0,
+      "star_3": 0,
+      "star_4": 7,
+      "star_5": 5
+    },
+    {
+      "name": "never",
+      "performance": "Good",
+      "star_1": 0,
+      "star_2": 0,
+      "star_3": 0,
+      "star_4": 3,
+      "star_5": 2
+    },
+    {
+      "name": "money",
+      "performance": "Average",
+      "star_1": 10,
+      "star_2": 9,
+      "star_3": 4,
+      "star_4": 8,
+      "star_5": 8
+    },
+    {
+      "name": "part",
+      "performance": "Average",
+      "star_1": 2,
+      "star_2": 7,
+      "star_3": 6,
+      "star_4": 20,
+      "star_5": 13
+    },
+    {
+      "name": "yum",
+      "performance": "Average",
+      "star_1": 0,
+      "star_2": 0,
+      "star_3": 2,
+      "star_4": 4,
+      "star_5": 2
+    },
+    {
+      "name": "butternut squash ravioli",
+      "performance": "Good",
+      "star_1": 0,
+      "star_2": 3,
+      "star_3": 0,
+      "star_4": 7,
+      "star_5": 5
+    },
+    {
+      "name": "chicken",
+      "performance": "Average",
+      "star_1": 5,
+      "star_2": 4,
+      "star_3": 11,
+      "star_4": 22,
+      "star_5": 12
+    },
+    {
+      "name": "cut",
+      "performance": "Average",
+      "star_1": 0,
+      "star_2": 0,
+      "star_3": 2,
+      "star_4": 0,
+      "star_5": 4
+    },
+    {
+      "name": "polenta",
+      "performance": "Good",
+      "star_1": 2,
+      "star_2": 2,
+      "star_3": 0,
+      "star_4": 4,
+      "star_5": 10
+    },
+    {
+      "name": "excellent",
+      "performance": "Good",
+      "star_1": 0,
+      "star_2": 0,
+      "star_3": 0,
+      "star_4": 2,
+      "star_5": 4
+    },
+    {
+      "name": "spreads",
+      "performance": "Good",
+      "star_1": 0,
+      "star_2": 0,
+      "star_3": 7,
+      "star_4": 14,
+      "star_5": 12
+    },
+    {
+      "name": "ways",
+      "performance": "Good",
+      "star_1": 0,
+      "star_2": 2,
+      "star_3": 0,
+      "star_4": 4,
+      "star_5": 4
+    },
+    {
+      "name": "crisp",
+      "performance": "Good",
+      "star_1": 0,
+      "star_2": 0,
+      "star_3": 0,
+      "star_4": 6,
+      "star_5": 3
+    },
+    {
+      "name": "alcohol",
+      "performance": "Average",
+      "star_1": 0,
+      "star_2": 2,
+      "star_3": 0,
+      "star_4": 0,
+      "star_5": 3
+    },
+    {
+      "name": "lobster mac",
+      "performance": "Good",
+      "star_1": 0,
+      "star_2": 0,
+      "star_3": 0,
+      "star_4": 3,
+      "star_5": 3
+    },
+    {
+      "name": "veggies",
+      "performance": "Average",
+      "star_1": 0,
+      "star_2": 2,
+      "star_3": 0,
+      "star_4": 0,
+      "star_5": 3
+    },
+    {
+      "name": "casino",
+      "performance": "Good",
+      "star_1": 0,
+      "star_2": 0,
+      "star_3": 0,
+      "star_4": 4,
+      "star_5": 2
+    },
+    {
+      "name": "care",
+      "performance": "Good",
+      "star_1": 0,
+      "star_2": 0,
+      "star_3": 0,
+      "star_4": 3,
+      "star_5": 2
+    },
+    {
+      "name": "view",
+      "performance": "Average",
+      "star_1": 4,
+      "star_2": 15,
+      "star_3": 38,
+      "star_4": 83,
+      "star_5": 86
+    },
+    {
+      "name": "tasty",
+      "performance": "Average",
+      "star_1": 0,
+      "star_2": 0,
+      "star_3": 3,
+      "star_4": 3,
+      "star_5": 2
+    },
+    {
+      "name": "apps",
+      "performance": "Good",
+      "star_1": 0,
+      "star_2": 0,
+      "star_3": 0,
+      "star_4": 2,
+      "star_5": 3
+    },
+    {
+      "name": "i",
+      "performance": "Average",
+      "star_1": 0,
+      "star_2": 6,
+      "star_3": 7,
+      "star_4": 10,
+      "star_5": 16
+    },
+    {
+      "name": "desert",
+      "performance": "Good",
+      "star_1": 0,
+      "star_2": 0,
+      "star_3": 3,
+      "star_4": 6,
+      "star_5": 4
+    },
+    {
+      "name": "plates",
+      "performance": "Good",
+      "star_1": 0,
+      "star_2": 0,
+      "star_3": 3,
+      "star_4": 7,
+      "star_5": 4
+    },
+    {
+      "name": "ribeye",
+      "performance": "Average",
+      "star_1": 0,
+      "star_2": 0,
+      "star_3": 3,
+      "star_4": 4,
+      "star_5": 3
+    },
+    {
+      "name": "vodka",
+      "performance": "Good",
+      "star_1": 0,
+      "star_2": 0,
+      "star_3": 0,
+      "star_4": 0,
+      "star_5": 5
+    },
+    {
+      "name": "chocolate cake",
+      "performance": "Average",
+      "star_1": 0,
+      "star_2": 2,
+      "star_3": 2,
+      "star_4": 3,
+      "star_5": 3
+    },
+    {
+      "name": "basket",
+      "performance": "Average",
+      "star_1": 0,
+      "star_2": 0,
+      "star_3": 5,
+      "star_4": 9,
+      "star_5": 3
+    },
+    {
+      "name": "conversation",
+      "performance": "Average",
+      "star_1": 2,
+      "star_2": 2,
+      "star_3": 2,
+      "star_4": 4,
+      "star_5": 0
+    },
+    {
+      "name": "waitstaff",
+      "performance": "Average",
+      "star_1": 0,
+      "star_2": 2,
+      "star_3": 0,
+      "star_4": 6,
+      "star_5": 0
+    },
+    {
+      "name": "tapanades",
+      "performance": "Good",
+      "star_1": 0,
+      "star_2": 0,
+      "star_3": 0,
+      "star_4": 2,
+      "star_5": 5
+    },
+    {
+      "name": "service",
+      "performance": "Average",
+      "star_1": 20,
+      "star_2": 31,
+      "star_3": 53,
+      "star_4": 107,
+      "star_5": 114
+    },
+    {
+      "name": "dip",
+      "performance": "Average",
+      "star_1": 0,
+      "star_2": 0,
+      "star_3": 2,
+      "star_4": 0,
+      "star_5": 3
+    },
+    {
+      "name": "huge",
+      "performance": "Good",
+      "star_1": 0,
+      "star_2": 0,
+      "star_3": 0,
+      "star_4": 6,
+      "star_5": 0
+    },
+    {
+      "name": "review",
+      "performance": "Average",
+      "star_1": 0,
+      "star_2": 3,
+      "star_3": 5,
+      "star_4": 13,
+      "star_5": 11
+    },
+    {
+      "name": "saturday night",
+      "performance": "Average",
+      "star_1": 0,
+      "star_2": 0,
+      "star_3": 3,
+      "star_4": 5,
+      "star_5": 3
+    },
+    {
+      "name": "hours",
+      "performance": "Bad",
+      "star_1": 5,
+      "star_2": 5,
+      "star_3": 4,
+      "star_4": 3,
+      "star_5": 3
+    },
+    {
+      "name": "comments",
+      "performance": "Average",
+      "star_1": 0,
+      "star_2": 0,
+      "star_3": 3,
+      "star_4": 0,
+      "star_5": 2
+    },
+    {
+      "name": "so",
+      "performance": "Good",
+      "star_1": 0,
+      "star_2": 0,
+      "star_3": 0,
+      "star_4": 4,
+      "star_5": 3
+    },
+    {
+      "name": "bread",
+      "performance": "Average",
+      "star_1": 8,
+      "star_2": 18,
+      "star_3": 24,
+      "star_4": 63,
+      "star_5": 67
+    },
+    {
+      "name": "none",
+      "performance": "Average",
+      "star_1": 0,
+      "star_2": 3,
+      "star_3": 0,
+      "star_4": 2,
+      "star_5": 2
+    },
+    {
+      "name": "hint",
+      "performance": "Average",
+      "star_1": 0,
+      "star_2": 0,
+      "star_3": 2,
+      "star_4": 3,
+      "star_5": 0
+    },
+    {
+      "name": "super",
+      "performance": "Good",
+      "star_1": 0,
+      "star_2": 0,
+      "star_3": 0,
+      "star_4": 3,
+      "star_5": 2
+    },
+    {
+      "name": "bartender",
+      "performance": "Average",
+      "star_1": 0,
+      "star_2": 3,
+      "star_3": 3,
+      "star_4": 5,
+      "star_5": 8
+    },
+    {
+      "name": "olives",
+      "performance": "Average",
+      "star_1": 18,
+      "star_2": 25,
+      "star_3": 37,
+      "star_4": 124,
+      "star_5": 103
+    },
+    {
+      "name": "sure",
+      "performance": "Good",
+      "star_1": 0,
+      "star_2": 0,
+      "star_3": 0,
+      "star_4": 3,
+      "star_5": 2
+    },
+    {
+      "name": "thank",
+      "performance": "Good",
+      "star_1": 0,
+      "star_2": 0,
+      "star_3": 0,
+      "star_4": 2,
+      "star_5": 7
+    },
+    {
+      "name": "home",
+      "performance": "Good",
+      "star_1": 0,
+      "star_2": 0,
+      "star_3": 2,
+      "star_4": 4,
+      "star_5": 6
+    },
+    {
+      "name": "half",
+      "performance": "Average",
+      "star_1": 4,
+      "star_2": 0,
+      "star_3": 4,
+      "star_4": 3,
+      "star_5": 3
+    },
+    {
+      "name": "advance",
+      "performance": "Average",
+      "star_1": 2,
+      "star_2": 4,
+      "star_3": 6,
+      "star_4": 7,
+      "star_5": 2
+    },
+    {
+      "name": "bottles",
+      "performance": "Good",
+      "star_1": 0,
+      "star_2": 0,
+      "star_3": 0,
+      "star_4": 2,
+      "star_5": 3
+    },
+    {
+      "name": "mine",
+      "performance": "Good",
+      "star_1": 0,
+      "star_2": 0,
+      "star_3": 0,
+      "star_4": 2,
+      "star_5": 5
+    },
+    {
+      "name": "bite",
+      "performance": "Average",
+      "star_1": 2,
+      "star_2": 2,
+      "star_3": 5,
+      "star_4": 16,
+      "star_5": 10
+    },
+    {
+      "name": "one",
+      "performance": "Average",
+      "star_1": 3,
+      "star_2": 6,
+      "star_3": 7,
+      "star_4": 8,
+      "star_5": 10
+    },
+    {
+      "name": "asparagus",
+      "performance": "Average",
+      "star_1": 0,
+      "star_2": 0,
+      "star_3": 3,
+      "star_4": 4,
+      "star_5": 2
+    },
+    {
+      "name": "stop",
+      "performance": "Average",
+      "star_1": 0,
+      "star_2": 0,
+      "star_3": 2,
+      "star_4": 3,
+      "star_5": 0
+    },
+    {
+      "name": "door",
+      "performance": "Good",
+      "star_1": 0,
+      "star_2": 0,
+      "star_3": 0,
+      "star_4": 6,
+      "star_5": 5
+    },
+    {
+      "name": "spinach",
+      "performance": "Average",
+      "star_1": 0,
+      "star_2": 0,
+      "star_3": 2,
+      "star_4": 0,
+      "star_5": 3
+    },
+    {
+      "name": "bellagio fountain",
+      "performance": "Good",
+      "star_1": 0,
+      "star_2": 0,
+      "star_3": 4,
+      "star_4": 4,
+      "star_5": 12
+    },
+    {
+      "name": "came",
+      "performance": "Good",
+      "star_1": 0,
+      "star_2": 0,
+      "star_3": 0,
+      "star_4": 9,
+      "star_5": 3
+    },
+    {
+      "name": "just",
+      "performance": "Average",
+      "star_1": 2,
+      "star_2": 0,
+      "star_3": 2,
+      "star_4": 2,
+      "star_5": 5
+    },
+    {
+      "name": "hotel",
+      "performance": "Average",
+      "star_1": 0,
+      "star_2": 4,
+      "star_3": 2,
+      "star_4": 4,
+      "star_5": 3
+    },
+    {
+      "name": "summer",
+      "performance": "Average",
+      "star_1": 0,
+      "star_2": 0,
+      "star_3": 2,
+      "star_4": 2,
+      "star_5": 3
+    },
+    {
+      "name": "food",
+      "performance": "Average",
+      "star_1": 31,
+      "star_2": 51,
+      "star_3": 73,
+      "star_4": 141,
+      "star_5": 153
+    },
+    {
+      "name": "sauce",
+      "performance": "Average",
+      "star_1": 2,
+      "star_2": 5,
+      "star_3": 14,
+      "star_4": 10,
+      "star_5": 24
+    },
+    {
+      "name": "heaven",
+      "performance": "Good",
+      "star_1": 0,
+      "star_2": 0,
+      "star_3": 0,
+      "star_4": 2,
+      "star_5": 5
+    },
+    {
+      "name": "well",
+      "performance": "Average",
+      "star_1": 0,
+      "star_2": 0,
+      "star_3": 4,
+      "star_4": 5,
+      "star_5": 2
+    },
+    {
+      "name": "sommelier",
+      "performance": "Average",
+      "star_1": 0,
+      "star_2": 5,
+      "star_3": 0,
+      "star_4": 4,
+      "star_5": 5
+    },
+    {
+      "name": "drinks",
+      "performance": "Average",
+      "star_1": 6,
+      "star_2": 5,
+      "star_3": 20,
+      "star_4": 26,
+      "star_5": 29
+    },
+    {
+      "name": "o",
+      "performance": "Good",
+      "star_1": 0,
+      "star_2": 0,
+      "star_3": 0,
+      "star_4": 2,
+      "star_5": 8
+    },
+    {
+      "name": "yelp",
+      "performance": "Average",
+      "star_1": 2,
+      "star_2": 0,
+      "star_3": 2,
+      "star_4": 5,
+      "star_5": 4
+    },
+    {
+      "name": "patio table",
+      "performance": "Good",
+      "star_1": 0,
+      "star_2": 0,
+      "star_3": 0,
+      "star_4": 3,
+      "star_5": 3
+    },
+    {
+      "name": "course",
+      "performance": "Average",
+      "star_1": 3,
+      "star_2": 8,
+      "star_3": 8,
+      "star_4": 22,
+      "star_5": 31
+    },
+    {
+      "name": "show",
+      "performance": "Good",
+      "star_1": 0,
+      "star_2": 5,
+      "star_3": 4,
+      "star_4": 17,
+      "star_5": 13
+    },
+    {
+      "name": "lack",
+      "performance": "Average",
+      "star_1": 0,
+      "star_2": 0,
+      "star_3": 2,
+      "star_4": 5,
+      "star_5": 0
+    },
+    {
+      "name": "presentation",
+      "performance": "Good",
+      "star_1": 0,
+      "star_2": 4,
+      "star_3": 0,
+      "star_4": 8,
+      "star_5": 9
+    },
+    {
+      "name": "app",
+      "performance": "Average",
+      "star_1": 0,
+      "star_2": 0,
+      "star_3": 2,
+      "star_4": 3,
+      "star_5": 2
+    },
+    {
+      "name": "meat",
+      "performance": "Good",
+      "star_1": 0,
+      "star_2": 6,
+      "star_3": 4,
+      "star_4": 17,
+      "star_5": 17
+    },
+    {
+      "name": "waiters",
+      "performance": "Good",
+      "star_1": 0,
+      "star_2": 0,
+      "star_3": 2,
+      "star_4": 7,
+      "star_5": 0
+    },
+    {
+      "name": "squid",
+      "performance": "Average",
+      "star_1": 0,
+      "star_2": 4,
+      "star_3": 7,
+      "star_4": 12,
+      "star_5": 11
+    },
+    {
+      "name": "note",
+      "performance": "Average",
+      "star_1": 0,
+      "star_2": 2,
+      "star_3": 4,
+      "star_4": 7,
+      "star_5": 2
+    },
+    {
+      "name": "reasons",
+      "performance": "Average",
+      "star_1": 0,
+      "star_2": 3,
+      "star_3": 0,
+      "star_4": 2,
+      "star_5": 2
+    },
+    {
+      "name": "spots",
+      "performance": "Average",
+      "star_1": 0,
+      "star_2": 0,
+      "star_3": 2,
+      "star_4": 2,
+      "star_5": 2
+    },
+    {
+      "name": "truffle fries",
+      "performance": "Good",
+      "star_1": 0,
+      "star_2": 0,
+      "star_3": 0,
+      "star_4": 6,
+      "star_5": 2
+    },
+    {
+      "name": "pieces",
+      "performance": "Average",
+      "star_1": 0,
+      "star_2": 0,
+      "star_3": 4,
+      "star_4": 9,
+      "star_5": 2
+    },
+    {
+      "name": "choice",
+      "performance": "Good",
+      "star_1": 0,
+      "star_2": 0,
+      "star_3": 2,
+      "star_4": 7,
+      "star_5": 7
+    },
+    {
+      "name": "choices",
+      "performance": "Average",
+      "star_1": 0,
+      "star_2": 4,
+      "star_3": 2,
+      "star_4": 4,
+      "star_5": 8
+    },
+    {
+      "name": "try",
+      "performance": "Average",
+      "star_1": 0,
+      "star_2": 0,
+      "star_3": 3,
+      "star_4": 6,
+      "star_5": 0
+    },
+    {
+      "name": "entrees",
+      "performance": "Average",
+      "star_1": 4,
+      "star_2": 9,
+      "star_3": 9,
+      "star_4": 22,
+      "star_5": 15
+    },
+    {
+      "name": "ambiance",
+      "performance": "Average",
+      "star_1": 2,
+      "star_2": 2,
+      "star_3": 10,
+      "star_4": 19,
+      "star_5": 21
+    },
+    {
+      "name": "life",
+      "performance": "Average",
+      "star_1": 2,
+      "star_2": 3,
+      "star_3": 0,
+      "star_4": 4,
+      "star_5": 11
+    },
+    {
+      "name": "menus",
+      "performance": "Average",
+      "star_1": 0,
+      "star_2": 3,
+      "star_3": 0,
+      "star_4": 2,
+      "star_5": 3
+    },
+    {
+      "name": "list",
+      "performance": "Average",
+      "star_1": 0,
+      "star_2": 2,
+      "star_3": 9,
+      "star_4": 11,
+      "star_5": 9
+    },
+    {
+      "name": "beef tenderloin",
+      "performance": "Good",
+      "star_1": 0,
+      "star_2": 2,
+      "star_3": 0,
+      "star_4": 6,
+      "star_5": 5
+    },
+    {
+      "name": "chunks",
+      "performance": "Good",
+      "star_1": 0,
+      "star_2": 0,
+      "star_3": 0,
+      "star_4": 4,
+      "star_5": 2
+    },
+    {
+      "name": "meals",
+      "performance": "Average",
+      "star_1": 2,
+      "star_2": 4,
+      "star_3": 7,
+      "star_4": 10,
+      "star_5": 16
+    },
+    {
+      "name": "book",
+      "performance": "Good",
+      "star_1": 0,
+      "star_2": 0,
+      "star_3": 0,
+      "star_4": 2,
+      "star_5": 3
+    },
+    {
+      "name": "wind",
+      "performance": "Good",
+      "star_1": 0,
+      "star_2": 0,
+      "star_3": 0,
+      "star_4": 0,
+      "star_5": 5
+    },
+    {
+      "name": "parents",
+      "performance": "Average",
+      "star_1": 0,
+      "star_2": 0,
+      "star_3": 3,
+      "star_4": 2,
+      "star_5": 0
+    },
+    {
+      "name": "consistency",
+      "performance": "Average",
+      "star_1": 0,
+      "star_2": 2,
+      "star_3": 2,
+      "star_4": 0,
+      "star_5": 3
+    },
+    {
+      "name": "menu",
+      "performance": "Average",
+      "star_1": 4,
+      "star_2": 10,
+      "star_3": 17,
+      "star_4": 52,
+      "star_5": 37
+    },
+    {
+      "name": "item",
+      "performance": "Average",
+      "star_1": 0,
+      "star_2": 2,
+      "star_3": 0,
+      "star_4": 0,
+      "star_5": 4
+    },
+    {
+      "name": "bread basket",
+      "performance": "Good",
+      "star_1": 2,
+      "star_2": 2,
+      "star_3": 10,
+      "star_4": 28,
+      "star_5": 15
+    },
+    {
+      "name": "manager",
+      "performance": "Bad",
+      "star_1": 5,
+      "star_2": 5,
+      "star_3": 0,
+      "star_4": 2,
+      "star_5": 4
+    },
+    {
+      "name": "cream",
+      "performance": "Average",
+      "star_1": 0,
+      "star_2": 2,
+      "star_3": 2,
+      "star_4": 4,
+      "star_5": 2
+    },
+    {
+      "name": "fig",
+      "performance": "Average",
+      "star_1": 0,
+      "star_2": 3,
+      "star_3": 10,
+      "star_4": 19,
+      "star_5": 20
+    },
+    {
+      "name": "look",
+      "performance": "Average",
+      "star_1": 0,
+      "star_2": 2,
+      "star_3": 2,
+      "star_4": 4,
+      "star_5": 0
+    },
+    {
+      "name": "tuna carpaccio",
+      "performance": "Average",
+      "star_1": 0,
+      "star_2": 2,
+      "star_3": 2,
+      "star_4": 7,
+      "star_5": 3
+    },
+    {
+      "name": "english",
+      "performance": "Bad",
+      "star_1": 0,
+      "star_2": 3,
+      "star_3": 2,
+      "star_4": 0,
+      "star_5": 0
+    },
+    {
+      "name": "stuff",
+      "performance": "Average",
+      "star_1": 0,
+      "star_2": 0,
+      "star_3": 4,
+      "star_4": 4,
+      "star_5": 5
+    },
+    {
+      "name": "favorites",
+      "performance": "Good",
+      "star_1": 0,
+      "star_2": 0,
+      "star_3": 2,
+      "star_4": 0,
+      "star_5": 9
+    },
+    {
+      "name": "sirloin",
+      "performance": "Average",
+      "star_1": 0,
+      "star_2": 2,
+      "star_3": 4,
+      "star_4": 2,
+      "star_5": 4
+    },
+    {
+      "name": "squash",
+      "performance": "Good",
+      "star_1": 0,
+      "star_2": 0,
+      "star_3": 0,
+      "star_4": 2,
+      "star_5": 3
+    },
+    {
+      "name": "end",
+      "performance": "Average",
+      "star_1": 0,
+      "star_2": 3,
+      "star_3": 5,
+      "star_4": 11,
+      "star_5": 8
+    },
+    {
+      "name": "mushroom pasta",
+      "performance": "Average",
+      "star_1": 0,
+      "star_2": 0,
+      "star_3": 3,
+      "star_4": 2,
+      "star_5": 0
+    },
+    {
+      "name": "fries",
+      "performance": "Good",
+      "star_1": 0,
+      "star_2": 0,
+      "star_3": 0,
+      "star_4": 13,
+      "star_5": 7
+    },
+    {
+      "name": "shrimp",
+      "performance": "Good",
+      "star_1": 0,
+      "star_2": 0,
+      "star_3": 3,
+      "star_4": 5,
+      "star_5": 5
+    },
+    {
+      "name": "weekday",
+      "performance": "Average",
+      "star_1": 0,
+      "star_2": 0,
+      "star_3": 2,
+      "star_4": 0,
+      "star_5": 3
+    },
+    {
+      "name": "raviolis",
+      "performance": "Good",
+      "star_1": 0,
+      "star_2": 0,
+      "star_3": 0,
+      "star_4": 3,
+      "star_5": 2
+    },
+    {
+      "name": "picture",
+      "performance": "Average",
+      "star_1": 0,
+      "star_2": 0,
+      "star_3": 3,
+      "star_4": 2,
+      "star_5": 4
+    },
+    {
+      "name": "reservations",
+      "performance": "Average",
+      "star_1": 3,
+      "star_2": 9,
+      "star_3": 19,
+      "star_4": 33,
+      "star_5": 38
+    },
+    {
+      "name": "flavors",
+      "performance": "Average",
+      "star_1": 0,
+      "star_2": 5,
+      "star_3": 6,
+      "star_4": 13,
+      "star_5": 17
+    },
+    {
+      "name": "reduction",
+      "performance": "Good",
+      "star_1": 0,
+      "star_2": 2,
+      "star_3": 0,
+      "star_4": 2,
+      "star_5": 5
+    },
+    {
+      "name": "degrees",
+      "performance": "Average",
+      "star_1": 0,
+      "star_2": 0,
+      "star_3": 2,
+      "star_4": 3,
+      "star_5": 0
+    },
+    {
+      "name": "others",
+      "performance": "Average",
+      "star_1": 0,
+      "star_2": 0,
+      "star_3": 4,
+      "star_4": 3,
+      "star_5": 6
+    },
+    {
+      "name": "mediocre",
+      "performance": "Average",
+      "star_1": 0,
+      "star_2": 2,
+      "star_3": 2,
+      "star_4": 2,
+      "star_5": 0
+    },
+    {
+      "name": "thanks",
+      "performance": "Good",
+      "star_1": 0,
+      "star_2": 0,
+      "star_3": 0,
+      "star_4": 4,
+      "star_5": 2
+    },
+    {
+      "name": "divine",
+      "performance": "Good",
+      "star_1": 0,
+      "star_2": 0,
+      "star_3": 0,
+      "star_4": 3,
+      "star_5": 3
+    },
+    {
+      "name": "staff",
+      "performance": "Average",
+      "star_1": 8,
+      "star_2": 7,
+      "star_3": 6,
+      "star_4": 23,
+      "star_5": 22
+    },
+    {
+      "name": "mood",
+      "performance": "Average",
+      "star_1": 0,
+      "star_2": 0,
+      "star_3": 3,
+      "star_4": 3,
+      "star_5": 0
+    },
+    {
+      "name": "deal",
+      "performance": "Average",
+      "star_1": 0,
+      "star_2": 3,
+      "star_3": 0,
+      "star_4": 5,
+      "star_5": 2
+    },
+    {
+      "name": "server",
+      "performance": "Average",
+      "star_1": 4,
+      "star_2": 12,
+      "star_3": 21,
+      "star_4": 29,
+      "star_5": 37
+    },
+    {
+      "name": "someone",
+      "performance": "Average",
+      "star_1": 3,
+      "star_2": 4,
+      "star_3": 5,
+      "star_4": 7,
+      "star_5": 5
+    },
+    {
+      "name": "salads",
+      "performance": "Good",
+      "star_1": 0,
+      "star_2": 2,
+      "star_3": 0,
+      "star_4": 5,
+      "star_5": 7
+    },
+    {
+      "name": "min",
+      "performance": "Average",
+      "star_1": 0,
+      "star_2": 3,
+      "star_3": 2,
+      "star_4": 3,
+      "star_5": 3
+    },
+    {
+      "name": "windows",
+      "performance": "Good",
+      "star_1": 0,
+      "star_2": 0,
+      "star_3": 0,
+      "star_4": 10,
+      "star_5": 7
+    },
+    {
+      "name": "sea scallops",
+      "performance": "Good",
+      "star_1": 0,
+      "star_2": 0,
+      "star_3": 2,
+      "star_4": 3,
+      "star_5": 5
+    },
+    {
+      "name": "visit",
+      "performance": "Good",
+      "star_1": 2,
+      "star_2": 2,
+      "star_3": 3,
+      "star_4": 13,
+      "star_5": 14
+    },
+    {
+      "name": "sea bass",
+      "performance": "Average",
+      "star_1": 3,
+      "star_2": 0,
+      "star_3": 4,
+      "star_4": 8,
+      "star_5": 12
+    },
+    {
+      "name": "highlight",
+      "performance": "Good",
+      "star_1": 0,
+      "star_2": 0,
+      "star_3": 0,
+      "star_4": 5,
+      "star_5": 2
+    },
+    {
+      "name": "people",
+      "performance": "Average",
+      "star_1": 6,
+      "star_2": 17,
+      "star_3": 23,
+      "star_4": 32,
+      "star_5": 21
+    },
+    {
+      "name": "feel",
+      "performance": "Good",
+      "star_1": 0,
+      "star_2": 0,
+      "star_3": 0,
+      "star_4": 5,
+      "star_5": 0
+    },
+    {
+      "name": "ca",
+      "performance": "Good",
+      "star_1": 0,
+      "star_2": 0,
+      "star_3": 0,
+      "star_4": 2,
+      "star_5": 5
+    },
+    {
+      "name": "decor",
+      "performance": "Good",
+      "star_1": 0,
+      "star_2": 3,
+      "star_3": 5,
+      "star_4": 13,
+      "star_5": 14
+    },
+    {
+      "name": "gnocchi",
+      "performance": "Average",
+      "star_1": 3,
+      "star_2": 3,
+      "star_3": 4,
+      "star_4": 10,
+      "star_5": 10
+    },
+    {
+      "name": "rolls",
+      "performance": "Good",
+      "star_1": 0,
+      "star_2": 0,
+      "star_3": 0,
+      "star_4": 3,
+      "star_5": 2
+    },
+    {
+      "name": "hand",
+      "performance": "Average",
+      "star_1": 0,
+      "star_2": 2,
+      "star_3": 4,
+      "star_4": 5,
+      "star_5": 3
+    },
+    {
+      "name": "hey",
+      "performance": "Good",
+      "star_1": 0,
+      "star_2": 0,
+      "star_3": 0,
+      "star_4": 4,
+      "star_5": 2
+    },
+    {
+      "name": "enjoy",
+      "performance": "Good",
+      "star_1": 0,
+      "star_2": 0,
+      "star_3": 0,
+      "star_4": 2,
+      "star_5": 3
+    },
+    {
+      "name": "oil",
+      "performance": "Good",
+      "star_1": 0,
+      "star_2": 0,
+      "star_3": 5,
+      "star_4": 9,
+      "star_5": 10
+    },
+    {
+      "name": "bellagio fountain show",
+      "performance": "Good",
+      "star_1": 0,
+      "star_2": 0,
+      "star_3": 3,
+      "star_4": 9,
+      "star_5": 7
+    },
+    {
+      "name": "mouth",
+      "performance": "Good",
+      "star_1": 0,
+      "star_2": 2,
+      "star_3": 0,
+      "star_4": 15,
+      "star_5": 19
+    },
+    {
+      "name": "drink menu",
+      "performance": "Average",
+      "star_1": 0,
+      "star_2": 0,
+      "star_3": 3,
+      "star_4": 4,
+      "star_5": 2
+    },
+    {
+      "name": "salty",
+      "performance": "Average",
+      "star_1": 2,
+      "star_2": 3,
+      "star_3": 4,
+      "star_4": 9,
+      "star_5": 6
+    },
+    {
+      "name": "guy",
+      "performance": "Average",
+      "star_1": 0,
+      "star_2": 2,
+      "star_3": 3,
+      "star_4": 2,
+      "star_5": 4
+    },
+    {
+      "name": "guess",
+      "performance": "Good",
+      "star_1": 0,
+      "star_2": 0,
+      "star_3": 0,
+      "star_4": 5,
+      "star_5": 0
+    },
+    {
+      "name": "dish",
+      "performance": "Average",
+      "star_1": 5,
+      "star_2": 8,
+      "star_3": 22,
+      "star_4": 41,
+      "star_5": 39
+    },
+    {
+      "name": "day",
+      "performance": "Good",
+      "star_1": 3,
+      "star_2": 3,
+      "star_3": 7,
+      "star_4": 30,
+      "star_5": 19
+    },
+    {
+      "name": "complaint",
+      "performance": "Good",
+      "star_1": 0,
+      "star_2": 0,
+      "star_3": 0,
+      "star_4": 7,
+      "star_5": 2
+    },
+    {
+      "name": "eyes",
+      "performance": "Average",
+      "star_1": 0,
+      "star_2": 4,
+      "star_3": 2,
+      "star_4": 4,
+      "star_5": 2
+    },
+    {
+      "name": "bottle",
+      "performance": "Average",
+      "star_1": 0,
+      "star_2": 4,
+      "star_3": 2,
+      "star_4": 8,
+      "star_5": 7
+    },
+    {
+      "name": "price",
+      "performance": "Average",
+      "star_1": 4,
+      "star_2": 9,
+      "star_3": 9,
+      "star_4": 16,
+      "star_5": 18
+    },
+    {
+      "name": "start",
+      "performance": "Good",
+      "star_1": 0,
+      "star_2": 0,
+      "star_3": 0,
+      "star_4": 4,
+      "star_5": 4
+    },
+    {
+      "name": "pasta dishes",
+      "performance": "Good",
+      "star_1": 0,
+      "star_2": 0,
+      "star_3": 0,
+      "star_4": 3,
+      "star_5": 2
+    },
+    {
+      "name": "mushroom flatbread",
+      "performance": "Average",
+      "star_1": 0,
+      "star_2": 0,
+      "star_3": 2,
+      "star_4": 3,
+      "star_5": 2
+    },
+    {
+      "name": "pasta",
+      "performance": "Average",
+      "star_1": 4,
+      "star_2": 6,
+      "star_3": 11,
+      "star_4": 16,
+      "star_5": 18
+    },
+    {
+      "name": "meal",
+      "performance": "Average",
+      "star_1": 9,
+      "star_2": 25,
+      "star_3": 34,
+      "star_4": 75,
+      "star_5": 57
+    },
+    {
+      "name": "items",
+      "performance": "Average",
+      "star_1": 0,
+      "star_2": 2,
+      "star_3": 5,
+      "star_4": 4,
+      "star_5": 7
+    },
+    {
+      "name": "strip",
+      "performance": "Good",
+      "star_1": 0,
+      "star_2": 0,
+      "star_3": 7,
+      "star_4": 23,
+      "star_5": 16
+    },
+    {
+      "name": "mom",
+      "performance": "Good",
+      "star_1": 0,
+      "star_2": 0,
+      "star_3": 0,
+      "star_4": 3,
+      "star_5": 4
+    },
+    {
+      "name": "atmosphere",
+      "performance": "Average",
+      "star_1": 3,
+      "star_2": 2,
+      "star_3": 10,
+      "star_4": 20,
+      "star_5": 17
+    },
+    {
+      "name": "kinds",
+      "performance": "Good",
+      "star_1": 0,
+      "star_2": 0,
+      "star_3": 0,
+      "star_4": 3,
+      "star_5": 4
+    },
+    {
+      "name": "burger",
+      "performance": "Good",
+      "star_1": 0,
+      "star_2": 3,
+      "star_3": 0,
+      "star_4": 19,
+      "star_5": 4
+    },
+    {
+      "name": "chocolate",
+      "performance": "Good",
+      "star_1": 0,
+      "star_2": 0,
+      "star_3": 0,
+      "star_4": 0,
+      "star_5": 6
+    },
+    {
+      "name": "options",
+      "performance": "Average",
+      "star_1": 0,
+      "star_2": 2,
+      "star_3": 7,
+      "star_4": 9,
+      "star_5": 4
+    },
+    {
+      "name": "yummy",
+      "performance": "Good",
+      "star_1": 0,
+      "star_2": 0,
+      "star_3": 0,
+      "star_4": 8,
+      "star_5": 6
+    },
+    {
+      "name": "sense",
+      "performance": "Average",
+      "star_1": 0,
+      "star_2": 0,
+      "star_3": 2,
+      "star_4": 3,
+      "star_5": 0
+    },
+    {
+      "name": "ribs",
+      "performance": "Good",
+      "star_1": 0,
+      "star_2": 0,
+      "star_3": 0,
+      "star_4": 5,
+      "star_5": 2
+    },
+    {
+      "name": "restaurants",
+      "performance": "Average",
+      "star_1": 12,
+      "star_2": 7,
+      "star_3": 10,
+      "star_4": 28,
+      "star_5": 22
+    },
+    {
+      "name": "octopus",
+      "performance": "Average",
+      "star_1": 0,
+      "star_2": 5,
+      "star_3": 7,
+      "star_4": 13,
+      "star_5": 16
+    },
+    {
+      "name": "dining",
+      "performance": "Average",
+      "star_1": 2,
+      "star_2": 2,
+      "star_3": 2,
+      "star_4": 2,
+      "star_5": 3
+    },
+    {
+      "name": "veranda",
+      "performance": "Good",
+      "star_1": 0,
+      "star_2": 0,
+      "star_3": 0,
+      "star_4": 3,
+      "star_5": 2
+    },
+    {
+      "name": "will",
+      "performance": "Good",
+      "star_1": 0,
+      "star_2": 0,
+      "star_3": 0,
+      "star_4": 2,
+      "star_5": 3
+    },
+    {
+      "name": "orders",
+      "performance": "Average",
+      "star_1": 0,
+      "star_2": 0,
+      "star_3": 3,
+      "star_4": 3,
+      "star_5": 2
+    },
+    {
+      "name": "flatbread",
+      "performance": "Good",
+      "star_1": 0,
+      "star_2": 5,
+      "star_3": 3,
+      "star_4": 31,
+      "star_5": 19
+    },
+    {
+      "name": "variety",
+      "performance": "Good",
+      "star_1": 0,
+      "star_2": 0,
+      "star_3": 3,
+      "star_4": 10,
+      "star_5": 8
+    },
+    {
+      "name": "prices",
+      "performance": "Average",
+      "star_1": 3,
+      "star_2": 4,
+      "star_3": 9,
+      "star_4": 14,
+      "star_5": 9
+    },
+    {
+      "name": "hostess",
+      "performance": "Average",
+      "star_1": 7,
+      "star_2": 11,
+      "star_3": 10,
+      "star_4": 11,
+      "star_5": 6
+    },
+    {
+      "name": "ambience",
+      "performance": "Good",
+      "star_1": 0,
+      "star_2": 0,
+      "star_3": 2,
+      "star_4": 9,
+      "star_5": 8
+    },
+    {
+      "name": "crust",
+      "performance": "Good",
+      "star_1": 0,
+      "star_2": 0,
+      "star_3": 0,
+      "star_4": 5,
+      "star_5": 4
+    },
+    {
+      "name": "beans",
+      "performance": "Average",
+      "star_1": 4,
+      "star_2": 3,
+      "star_3": 3,
+      "star_4": 8,
+      "star_5": 7
+    },
+    {
+      "name": "girls",
+      "performance": "Good",
+      "star_1": 0,
+      "star_2": 0,
+      "star_3": 0,
+      "star_4": 5,
+      "star_5": 6
+    },
+    {
+      "name": "surprise",
+      "performance": "Good",
+      "star_1": 0,
+      "star_2": 0,
+      "star_3": 2,
+      "star_4": 5,
+      "star_5": 3
+    },
+    {
+      "name": "again",
+      "performance": "Average",
+      "star_1": 0,
+      "star_2": 2,
+      "star_3": 2,
+      "star_4": 3,
+      "star_5": 3
+    },
+    {
+      "name": "steaks",
+      "performance": "Average",
+      "star_1": 0,
+      "star_2": 0,
+      "star_3": 2,
+      "star_4": 2,
+      "star_5": 4
+    },
+    {
+      "name": "place",
+      "performance": "Average",
+      "star_1": 17,
+      "star_2": 27,
+      "star_3": 34,
+      "star_4": 95,
+      "star_5": 82
+    },
+    {
+      "name": "chef",
+      "performance": "Average",
+      "star_1": 2,
+      "star_2": 4,
+      "star_3": 0,
+      "star_4": 0,
+      "star_5": 11
+    },
+    {
+      "name": "weekend",
+      "performance": "Average",
+      "star_1": 0,
+      "star_2": 2,
+      "star_3": 3,
+      "star_4": 7,
+      "star_5": 2
+    },
+    {
+      "name": "family",
+      "performance": "Good",
+      "star_1": 0,
+      "star_2": 0,
+      "star_3": 0,
+      "star_4": 6,
+      "star_5": 4
+    },
+    {
+      "name": "wow",
+      "performance": "Good",
+      "star_1": 0,
+      "star_2": 2,
+      "star_3": 2,
+      "star_4": 5,
+      "star_5": 12
+    },
+    {
+      "name": "room",
+      "performance": "Average",
+      "star_1": 3,
+      "star_2": 2,
+      "star_3": 3,
+      "star_4": 12,
+      "star_5": 12
+    },
+    {
+      "name": "matter",
+      "performance": "Good",
+      "star_1": 0,
+      "star_2": 0,
+      "star_3": 2,
+      "star_4": 5,
+      "star_5": 4
+    },
+    {
+      "name": "tuna tartare",
+      "performance": "Average",
+      "star_1": 0,
+      "star_2": 2,
+      "star_3": 4,
+      "star_4": 6,
+      "star_5": 9
+    },
+    {
+      "name": "pork",
+      "performance": "Good",
+      "star_1": 0,
+      "star_2": 0,
+      "star_3": 0,
+      "star_4": 5,
+      "star_5": 0
+    },
+    {
+      "name": "tomato sauce",
+      "performance": "Average",
+      "star_1": 0,
+      "star_2": 2,
+      "star_3": 2,
+      "star_4": 0,
+      "star_5": 2
+    },
+    {
+      "name": "idea",
+      "performance": "Average",
+      "star_1": 3,
+      "star_2": 0,
+      "star_3": 2,
+      "star_4": 6,
+      "star_5": 4
+    },
+    {
+      "name": "everything",
+      "performance": "Average",
+      "star_1": 3,
+      "star_2": 6,
+      "star_3": 17,
+      "star_4": 32,
+      "star_5": 32
+    },
+    {
+      "name": "beef carpaccio",
+      "performance": "Good",
+      "star_1": 2,
+      "star_2": 9,
+      "star_3": 11,
+      "star_4": 33,
+      "star_5": 41
+    },
+    {
+      "name": "tapenades",
+      "performance": "Good",
+      "star_1": 0,
+      "star_2": 2,
+      "star_3": 0,
+      "star_4": 4,
+      "star_5": 9
+    },
+    {
+      "name": "middle",
+      "performance": "Average",
+      "star_1": 0,
+      "star_2": 0,
+      "star_3": 8,
+      "star_4": 8,
+      "star_5": 4
+    },
+    {
+      "name": "quality",
+      "performance": "Good",
+      "star_1": 2,
+      "star_2": 3,
+      "star_3": 0,
+      "star_4": 11,
+      "star_5": 14
+    },
+    {
+      "name": "water show",
+      "performance": "Good",
+      "star_1": 0,
+      "star_2": 4,
+      "star_3": 3,
+      "star_4": 15,
+      "star_5": 22
+    },
+    {
+      "name": "flatbreads",
+      "performance": "Average",
+      "star_1": 0,
+      "star_2": 0,
+      "star_3": 8,
+      "star_4": 11,
+      "star_5": 12
+    },
+    {
+      "name": "size",
+      "performance": "Average",
+      "star_1": 0,
+      "star_2": 2,
+      "star_3": 2,
+      "star_4": 5,
+      "star_5": 4
+    },
+    {
+      "name": "ingredients",
+      "performance": "Good",
+      "star_1": 0,
+      "star_2": 0,
+      "star_3": 0,
+      "star_4": 7,
+      "star_5": 7
+    },
+    {
+      "name": "husband",
+      "performance": "Average",
+      "star_1": 5,
+      "star_2": 7,
+      "star_3": 13,
+      "star_4": 21,
+      "star_5": 15
+    },
+    {
+      "name": "waitress",
+      "performance": "Average",
+      "star_1": 2,
+      "star_2": 9,
+      "star_3": 6,
+      "star_4": 5,
+      "star_5": 10
+    },
+    {
+      "name": "great",
+      "performance": "Good",
+      "star_1": 0,
+      "star_2": 2,
+      "star_3": 0,
+      "star_4": 7,
+      "star_5": 6
+    },
+    {
+      "name": "prosciutto",
+      "performance": "Good",
+      "star_1": 0,
+      "star_2": 0,
+      "star_3": 9,
+      "star_4": 17,
+      "star_5": 19
+    },
+    {
+      "name": "establishment",
+      "performance": "Average",
+      "star_1": 2,
+      "star_2": 0,
+      "star_3": 3,
+      "star_4": 2,
+      "star_5": 3
+    },
+    {
+      "name": "tortelli",
+      "performance": "Average",
+      "star_1": 0,
+      "star_2": 2,
+      "star_3": 0,
+      "star_4": 2,
+      "star_5": 3
+    },
+    {
+      "name": "date",
+      "performance": "Good",
+      "star_1": 0,
+      "star_2": 2,
+      "star_3": 0,
+      "star_4": 10,
+      "star_5": 5
+    },
+    {
+      "name": "waiter",
+      "performance": "Average",
+      "star_1": 9,
+      "star_2": 18,
+      "star_3": 21,
+      "star_4": 36,
+      "star_5": 35
+    },
+    {
+      "name": "servers",
+      "performance": "Average",
+      "star_1": 0,
+      "star_2": 7,
+      "star_3": 0,
+      "star_4": 5,
+      "star_5": 5
+    },
+    {
+      "name": "foie gras",
+      "performance": "Good",
+      "star_1": 0,
+      "star_2": 0,
+      "star_3": 3,
+      "star_4": 4,
+      "star_5": 7
+    },
+    {
+      "name": "chocolate bread",
+      "performance": "Good",
+      "star_1": 0,
+      "star_2": 0,
+      "star_3": 0,
+      "star_4": 4,
+      "star_5": 2
+    },
+    {
+      "name": "share",
+      "performance": "Good",
+      "star_1": 0,
+      "star_2": 0,
+      "star_3": 3,
+      "star_4": 13,
+      "star_5": 10
+    },
+    {
+      "name": "guests",
+      "performance": "Good",
+      "star_1": 0,
+      "star_2": 0,
+      "star_3": 0,
+      "star_4": 6,
+      "star_5": 5
+    },
+    {
+      "name": "fact",
+      "performance": "Good",
+      "star_1": 0,
+      "star_2": 4,
+      "star_3": 0,
+      "star_4": 7,
+      "star_5": 8
+    },
+    {
+      "name": "types",
+      "performance": "Average",
+      "star_1": 0,
+      "star_2": 2,
+      "star_3": 4,
+      "star_4": 8,
+      "star_5": 2
+    },
+    {
+      "name": "flavor",
+      "performance": "Average",
+      "star_1": 6,
+      "star_2": 8,
+      "star_3": 17,
+      "star_4": 24,
+      "star_5": 13
+    },
+    {
+      "name": "lamb",
+      "performance": "Good",
+      "star_1": 0,
+      "star_2": 0,
+      "star_3": 0,
+      "star_4": 6,
+      "star_5": 0
+    },
+    {
+      "name": "las vegas",
+      "performance": "Average",
+      "star_1": 3,
+      "star_2": 2,
+      "star_3": 9,
+      "star_4": 14,
+      "star_5": 18
+    },
+    {
+      "name": "sausage",
+      "performance": "Average",
+      "star_1": 0,
+      "star_2": 0,
+      "star_3": 6,
+      "star_4": 6,
+      "star_5": 10
+    },
+    {
+      "name": "butternut squash tortelli",
+      "performance": "Good",
+      "star_1": 0,
+      "star_2": 5,
+      "star_3": 0,
+      "star_4": 9,
+      "star_5": 9
+    },
+    {
+      "name": "shops",
+      "performance": "Good",
+      "star_1": 0,
+      "star_2": 0,
+      "star_3": 0,
+      "star_4": 3,
+      "star_5": 3
+    },
+    {
+      "name": "kitchen",
+      "performance": "Bad",
+      "star_1": 3,
+      "star_2": 4,
+      "star_3": 0,
+      "star_4": 3,
+      "star_5": 2
+    },
+    {
+      "name": "decision",
+      "performance": "Good",
+      "star_1": 0,
+      "star_2": 0,
+      "star_3": 0,
+      "star_4": 5,
+      "star_5": 0
+    },
+    {
+      "name": "weeks",
+      "performance": "Average",
+      "star_1": 2,
+      "star_2": 2,
+      "star_3": 2,
+      "star_4": 0,
+      "star_5": 3
+    },
+    {
+      "name": "potatoes",
+      "performance": "Good",
+      "star_1": 0,
+      "star_2": 3,
+      "star_3": 4,
+      "star_4": 14,
+      "star_5": 8
+    },
+    {
+      "name": "reservation",
+      "performance": "Average",
+      "star_1": 10,
+      "star_2": 16,
+      "star_3": 22,
+      "star_4": 39,
+      "star_5": 41
+    },
+    {
+      "name": "birthday dinner",
+      "performance": "Good",
+      "star_1": 0,
+      "star_2": 0,
+      "star_3": 0,
+      "star_4": 4,
+      "star_5": 2
+    },
+    {
+      "name": "fan",
+      "performance": "Good",
+      "star_1": 0,
+      "star_2": 0,
+      "star_3": 5,
+      "star_4": 13,
+      "star_5": 10
+    },
+    {
+      "name": "bar",
+      "performance": "Good",
+      "star_1": 3,
+      "star_2": 2,
+      "star_3": 12,
+      "star_4": 29,
+      "star_5": 36
+    },
+    {
+      "name": "awesome",
+      "performance": "Good",
+      "star_1": 0,
+      "star_2": 0,
+      "star_3": 0,
+      "star_4": 4,
+      "star_5": 2
+    },
+    {
+      "name": "reviews",
+      "performance": "Average",
+      "star_1": 5,
+      "star_2": 4,
+      "star_3": 0,
+      "star_4": 10,
+      "star_5": 11
+    },
+    {
+      "name": "great service",
+      "performance": "Good",
+      "star_1": 0,
+      "star_2": 0,
+      "star_3": 0,
+      "star_4": 6,
+      "star_5": 7
+    },
+    {
+      "name": "notch",
+      "performance": "Good",
+      "star_1": 0,
+      "star_2": 0,
+      "star_3": 2,
+      "star_4": 7,
+      "star_5": 8
+    },
+    {
+      "name": "selection",
+      "performance": "Good",
+      "star_1": 0,
+      "star_2": 0,
+      "star_3": 0,
+      "star_4": 13,
+      "star_5": 0
+    },
+    {
+      "name": "fun",
+      "performance": "Good",
+      "star_1": 0,
+      "star_2": 0,
+      "star_3": 0,
+      "star_4": 6,
+      "star_5": 5
+    },
+    {
+      "name": "amount",
+      "performance": "Good",
+      "star_1": 0,
+      "star_2": 2,
+      "star_3": 2,
+      "star_4": 7,
+      "star_5": 8
+    },
+    {
+      "name": "bit",
+      "performance": "Average",
+      "star_1": 3,
+      "star_2": 6,
+      "star_3": 21,
+      "star_4": 40,
+      "star_5": 28
+    },
+    {
+      "name": "prosciutto flatbread",
+      "performance": "Good",
+      "star_1": 0,
+      "star_2": 0,
+      "star_3": 3,
+      "star_4": 2,
+      "star_5": 8
+    },
+    {
+      "name": "tapenade",
+      "performance": "Average",
+      "star_1": 4,
+      "star_2": 6,
+      "star_3": 7,
+      "star_4": 20,
+      "star_5": 24
+    },
+    {
+      "name": "hands",
+      "performance": "Good",
+      "star_1": 0,
+      "star_2": 0,
+      "star_3": 0,
+      "star_4": 3,
+      "star_5": 3
+    },
+    {
+      "name": "value",
+      "performance": "Good",
+      "star_1": 2,
+      "star_2": 0,
+      "star_3": 0,
+      "star_4": 4,
+      "star_5": 4
+    },
+    {
+      "name": "work",
+      "performance": "Bad",
+      "star_1": 0,
+      "star_2": 3,
+      "star_3": 0,
+      "star_4": 0,
+      "star_5": 3
+    },
+    {
+      "name": "setting",
+      "performance": "Average",
+      "star_1": 0,
+      "star_2": 2,
+      "star_3": 2,
+      "star_4": 2,
+      "star_5": 0
+    },
+    {
+      "name": "spread",
+      "performance": "Good",
+      "star_1": 0,
+      "star_2": 2,
+      "star_3": 6,
+      "star_4": 20,
+      "star_5": 10
+    },
+    {
+      "name": "calamari",
+      "performance": "Average",
+      "star_1": 0,
+      "star_2": 2,
+      "star_3": 6,
+      "star_4": 5,
+      "star_5": 0
+    },
+    {
+      "name": "time",
+      "performance": "Average",
+      "star_1": 15,
+      "star_2": 29,
+      "star_3": 26,
+      "star_4": 83,
+      "star_5": 75
+    },
+    {
+      "name": "kick",
+      "performance": "Good",
+      "star_1": 0,
+      "star_2": 0,
+      "star_3": 0,
+      "star_4": 0,
+      "star_5": 5
+    },
+    {
+      "name": "todd english",
+      "performance": "Average",
+      "star_1": 4,
+      "star_2": 9,
+      "star_3": 8,
+      "star_4": 24,
+      "star_5": 19
+    },
+    {
+      "name": "okay",
+      "performance": "Average",
+      "star_1": 0,
+      "star_2": 3,
+      "star_3": 3,
+      "star_4": 0,
+      "star_5": 3
+    },
+    {
+      "name": "desserts",
+      "performance": "Average",
+      "star_1": 0,
+      "star_2": 4,
+      "star_3": 3,
+      "star_4": 3,
+      "star_5": 6
+    },
+    {
+      "name": "ok",
+      "performance": "Average",
+      "star_1": 0,
+      "star_2": 3,
+      "star_3": 4,
+      "star_4": 2,
+      "star_5": 2
+    },
+    {
+      "name": "bottom",
+      "performance": "Average",
+      "star_1": 0,
+      "star_2": 0,
+      "star_3": 2,
+      "star_4": 2,
+      "star_5": 2
+    },
+    {
+      "name": "star",
+      "performance": "Average",
+      "star_1": 3,
+      "star_2": 2,
+      "star_3": 0,
+      "star_4": 12,
+      "star_5": 3
+    },
+    {
+      "name": "recommendation",
+      "performance": "Good",
+      "star_1": 0,
+      "star_2": 0,
+      "star_3": 0,
+      "star_4": 0,
+      "star_5": 6
+    },
+    {
+      "name": "wines",
+      "performance": "Good",
+      "star_1": 0,
+      "star_2": 2,
+      "star_3": 0,
+      "star_4": 3,
+      "star_5": 5
+    },
+    {
+      "name": "martini",
+      "performance": "Good",
+      "star_1": 0,
+      "star_2": 2,
+      "star_3": 2,
+      "star_4": 9,
+      "star_5": 10
+    },
+    {
+      "name": "lv",
+      "performance": "Good",
+      "star_1": 0,
+      "star_2": 0,
+      "star_3": 0,
+      "star_4": 3,
+      "star_5": 2
+    },
+    {
+      "name": "days",
+      "performance": "Average",
+      "star_1": 2,
+      "star_2": 2,
+      "star_3": 2,
+      "star_4": 7,
+      "star_5": 11
+    },
+    {
+      "name": "girlfriend",
+      "performance": "Good",
+      "star_1": 0,
+      "star_2": 0,
+      "star_3": 2,
+      "star_4": 3,
+      "star_5": 6
+    },
+    {
+      "name": "views",
+      "performance": "Good",
+      "star_1": 2,
+      "star_2": 0,
+      "star_3": 2,
+      "star_4": 11,
+      "star_5": 16
+    },
+    {
+      "name": "bites",
+      "performance": "Average",
+      "star_1": 0,
+      "star_2": 4,
+      "star_3": 2,
+      "star_4": 2,
+      "star_5": 2
+    },
+    {
+      "name": "while",
+      "performance": "Average",
+      "star_1": 2,
+      "star_2": 2,
+      "star_3": 4,
+      "star_4": 3,
+      "star_5": 4
+    },
+    {
+      "name": "hour",
+      "performance": "Average",
+      "star_1": 2,
+      "star_2": 6,
+      "star_3": 5,
+      "star_4": 9,
+      "star_5": 4
+    },
+    {
+      "name": "salmon",
+      "performance": "Average",
+      "star_1": 2,
+      "star_2": 2,
+      "star_3": 6,
+      "star_4": 11,
+      "star_5": 13
+    },
+    {
+      "name": "salt",
+      "performance": "Average",
+      "star_1": 0,
+      "star_2": 8,
+      "star_3": 3,
+      "star_4": 3,
+      "star_5": 3
+    },
+    {
+      "name": "bowl",
+      "performance": "Average",
+      "star_1": 0,
+      "star_2": 0,
+      "star_3": 6,
+      "star_4": 0,
+      "star_5": 0
+    },
+    {
+      "name": "gras",
+      "performance": "Good",
+      "star_1": 0,
+      "star_2": 0,
+      "star_3": 0,
+      "star_4": 3,
+      "star_5": 2
+    },
+    {
+      "name": "glass",
+      "performance": "Average",
+      "star_1": 2,
+      "star_2": 6,
+      "star_3": 6,
+      "star_4": 10,
+      "star_5": 6
+    },
+    {
+      "name": "weather",
+      "performance": "Good",
+      "star_1": 0,
+      "star_2": 0,
+      "star_3": 2,
+      "star_4": 3,
+      "star_5": 7
+    },
+    {
+      "name": "onion",
+      "performance": "Good",
+      "star_1": 0,
+      "star_2": 0,
+      "star_3": 0,
+      "star_4": 4,
+      "star_5": 3
+    },
+    {
+      "name": "attitude",
+      "performance": "Bad",
+      "star_1": 2,
+      "star_2": 2,
+      "star_3": 2,
+      "star_4": 0,
+      "star_5": 0
+    },
+    {
+      "name": "dining room",
+      "performance": "Good",
+      "star_1": 0,
+      "star_2": 2,
+      "star_3": 0,
+      "star_4": 5,
+      "star_5": 2
+    },
+    {
+      "name": "omg",
+      "performance": "Good",
+      "star_1": 0,
+      "star_2": 0,
+      "star_3": 0,
+      "star_4": 4,
+      "star_5": 3
+    },
+    {
+      "name": "night",
+      "performance": "Average",
+      "star_1": 7,
+      "star_2": 9,
+      "star_3": 12,
+      "star_4": 35,
+      "star_5": 26
+    },
+    {
+      "name": "figs",
+      "performance": "Good",
+      "star_1": 0,
+      "star_2": 0,
+      "star_3": 3,
+      "star_4": 5,
+      "star_5": 8
+    },
+    {
+      "name": "diners",
+      "performance": "Average",
+      "star_1": 0,
+      "star_2": 0,
+      "star_3": 3,
+      "star_4": 3,
+      "star_5": 0
+    },
+    {
+      "name": "dark",
+      "performance": "Good",
+      "star_1": 0,
+      "star_2": 0,
+      "star_3": 0,
+      "star_4": 3,
+      "star_5": 2
+    },
+    {
+      "name": "portion",
+      "performance": "Average",
+      "star_1": 0,
+      "star_2": 3,
+      "star_3": 9,
+      "star_4": 10,
+      "star_5": 12
+    },
+    {
+      "name": "minutes",
+      "performance": "Average",
+      "star_1": 8,
+      "star_2": 16,
+      "star_3": 8,
+      "star_4": 21,
+      "star_5": 15
+    },
+    {
+      "name": "crispy",
+      "performance": "Good",
+      "star_1": 0,
+      "star_2": 0,
+      "star_3": 2,
+      "star_4": 6,
+      "star_5": 3
+    },
+    {
+      "name": "coffee",
+      "performance": "Bad",
+      "star_1": 0,
+      "star_2": 3,
+      "star_3": 2,
+      "star_4": 0,
+      "star_5": 0
+    },
+    {
+      "name": "chilean sea bass",
+      "performance": "Good",
+      "star_1": 0,
+      "star_2": 0,
+      "star_3": 0,
+      "star_4": 5,
+      "star_5": 5
+    },
+    {
+      "name": "places",
+      "performance": "Average",
+      "star_1": 2,
+      "star_2": 6,
+      "star_3": 6,
+      "star_4": 17,
+      "star_5": 15
+    },
+    {
+      "name": "piece",
+      "performance": "Average",
+      "star_1": 0,
+      "star_2": 2,
+      "star_3": 3,
+      "star_4": 7,
+      "star_5": 6
+    },
+    {
+      "name": "amazing",
+      "performance": "Good",
+      "star_1": 0,
+      "star_2": 0,
+      "star_3": 0,
+      "star_4": 9,
+      "star_5": 9
+    },
+    {
+      "name": "veal",
+      "performance": "Average",
+      "star_1": 0,
+      "star_2": 0,
+      "star_3": 3,
+      "star_4": 4,
+      "star_5": 0
+    },
+    {
+      "name": "risotto",
+      "performance": "Good",
+      "star_1": 0,
+      "star_2": 3,
+      "star_3": 3,
+      "star_4": 6,
+      "star_5": 13
+    },
+    {
+      "name": "overall",
+      "performance": "Good",
+      "star_1": 0,
+      "star_2": 0,
+      "star_3": 0,
+      "star_4": 6,
+      "star_5": 3
+    },
+    {
+      "name": "mins",
+      "performance": "Good",
+      "star_1": 0,
+      "star_2": 0,
+      "star_3": 0,
+      "star_4": 2,
+      "star_5": 4
+    },
+    {
+      "name": "tip",
+      "performance": "Average",
+      "star_1": 0,
+      "star_2": 0,
+      "star_3": 4,
+      "star_4": 8,
+      "star_5": 4
+    },
+    {
+      "name": "oysters",
+      "performance": "Average",
+      "star_1": 0,
+      "star_2": 0,
+      "star_3": 2,
+      "star_4": 0,
+      "star_5": 3
+    },
+    {
+      "name": "kids",
+      "performance": "Average",
+      "star_1": 0,
+      "star_2": 2,
+      "star_3": 0,
+      "star_4": 2,
+      "star_5": 4
+    },
+    {
+      "name": "sit",
+      "performance": "Good",
+      "star_1": 0,
+      "star_2": 0,
+      "star_3": 0,
+      "star_4": 4,
+      "star_5": 5
+    },
+    {
+      "name": "dressing",
+      "performance": "Good",
+      "star_1": 0,
+      "star_2": 0,
+      "star_3": 0,
+      "star_4": 4,
+      "star_5": 2
+    },
+    {
+      "name": "restaurant",
+      "performance": "Average",
+      "star_1": 14,
+      "star_2": 19,
+      "star_3": 33,
+      "star_4": 71,
+      "star_5": 72
+    },
+    {
+      "name": "tender",
+      "performance": "Average",
+      "star_1": 0,
+      "star_2": 0,
+      "star_3": 5,
+      "star_4": 5,
+      "star_5": 8
+    },
+    {
+      "name": "everyone",
+      "performance": "Good",
+      "star_1": 0,
+      "star_2": 4,
+      "star_3": 5,
+      "star_4": 19,
+      "star_5": 16
+    },
+    {
+      "name": "ricotta ravioli",
+      "performance": "Average",
+      "star_1": 0,
+      "star_2": 0,
+      "star_3": 6,
+      "star_4": 4,
+      "star_5": 7
+    },
+    {
+      "name": "things",
+      "performance": "Average",
+      "star_1": 5,
+      "star_2": 7,
+      "star_3": 7,
+      "star_4": 20,
+      "star_5": 12
+    },
+    {
+      "name": "sort",
+      "performance": "Average",
+      "star_1": 0,
+      "star_2": 2,
+      "star_3": 4,
+      "star_4": 6,
+      "star_5": 2
+    },
+    {
+      "name": "style",
+      "performance": "Average",
+      "star_1": 0,
+      "star_2": 0,
+      "star_3": 4,
+      "star_4": 2,
+      "star_5": 0
+    },
+    {
+      "name": "bed",
+      "performance": "Good",
+      "star_1": 0,
+      "star_2": 0,
+      "star_3": 3,
+      "star_4": 6,
+      "star_5": 7
+    },
+    {
+      "name": "specials",
+      "performance": "Good",
+      "star_1": 0,
+      "star_2": 2,
+      "star_3": 0,
+      "star_4": 3,
+      "star_5": 7
+    },
+    {
+      "name": "top",
+      "performance": "Average",
+      "star_1": 5,
+      "star_2": 6,
+      "star_3": 7,
+      "star_4": 11,
+      "star_5": 15
+    },
+    {
+      "name": "sister",
+      "performance": "Average",
+      "star_1": 0,
+      "star_2": 0,
+      "star_3": 3,
+      "star_4": 4,
+      "star_5": 4
+    },
+    {
+      "name": "name",
+      "performance": "Average",
+      "star_1": 0,
+      "star_2": 8,
+      "star_3": 3,
+      "star_4": 14,
+      "star_5": 11
+    },
+    {
+      "name": "lots",
+      "performance": "Good",
+      "star_1": 0,
+      "star_2": 0,
+      "star_3": 0,
+      "star_4": 11,
+      "star_5": 7
+    },
+    {
+      "name": "dishes",
+      "performance": "Average",
+      "star_1": 2,
+      "star_2": 8,
+      "star_3": 7,
+      "star_4": 24,
+      "star_5": 18
+    },
+    {
+      "name": "soup",
+      "performance": "Average",
+      "star_1": 2,
+      "star_2": 2,
+      "star_3": 2,
+      "star_4": 6,
+      "star_5": 0
+    },
+    {
+      "name": "goodness",
+      "performance": "Average",
+      "star_1": 0,
+      "star_2": 2,
+      "star_3": 0,
+      "star_4": 4,
+      "star_5": 0
+    },
+    {
+      "name": "fountains",
+      "performance": "Good",
+      "star_1": 4,
+      "star_2": 9,
+      "star_3": 18,
+      "star_4": 62,
+      "star_5": 59
+    },
+    {
+      "name": "cheese",
+      "performance": "Average",
+      "star_1": 3,
+      "star_2": 3,
+      "star_3": 7,
+      "star_4": 13,
+      "star_5": 15
+    },
+    {
+      "name": "glaze",
+      "performance": "Good",
+      "star_1": 0,
+      "star_2": 0,
+      "star_3": 0,
+      "star_4": 3,
+      "star_5": 2
+    },
+    {
+      "name": "couple",
+      "performance": "Average",
+      "star_1": 0,
+      "star_2": 4,
+      "star_3": 7,
+      "star_4": 13,
+      "star_5": 14
+    },
+    {
+      "name": "onions",
+      "performance": "Average",
+      "star_1": 0,
+      "star_2": 2,
+      "star_3": 5,
+      "star_4": 13,
+      "star_5": 3
+    },
+    {
+      "name": "sat",
+      "performance": "Good",
+      "star_1": 0,
+      "star_2": 0,
+      "star_3": 0,
+      "star_4": 2,
+      "star_5": 3
+    },
+    {
+      "name": "bellagio water show",
+      "performance": "Good",
+      "star_1": 0,
+      "star_2": 0,
+      "star_3": 4,
+      "star_4": 9,
+      "star_5": 7
+    },
+    {
+      "name": "got",
+      "performance": "Good",
+      "star_1": 0,
+      "star_2": 0,
+      "star_3": 0,
+      "star_4": 0,
+      "star_5": 5
+    },
+    {
+      "name": "nice",
+      "performance": "Average",
+      "star_1": 0,
+      "star_2": 0,
+      "star_3": 3,
+      "star_4": 4,
+      "star_5": 2
+    },
+    {
+      "name": "portions",
+      "performance": "Good",
+      "star_1": 0,
+      "star_2": 3,
+      "star_3": 4,
+      "star_4": 13,
+      "star_5": 9
+    },
+    {
+      "name": "city",
+      "performance": "Average",
+      "star_1": 0,
+      "star_2": 2,
+      "star_3": 2,
+      "star_4": 0,
+      "star_5": 2
+    },
+    {
+      "name": "ask",
+      "performance": "Good",
+      "star_1": 0,
+      "star_2": 0,
+      "star_3": 0,
+      "star_4": 8,
+      "star_5": 7
+    },
+    {
+      "name": "seats",
+      "performance": "Average",
+      "star_1": 0,
+      "star_2": 0,
+      "star_3": 6,
+      "star_4": 3,
+      "star_5": 3
+    },
+    {
+      "name": "lake bellagio",
+      "performance": "Good",
+      "star_1": 0,
+      "star_2": 0,
+      "star_3": 0,
+      "star_4": 3,
+      "star_5": 6
+    },
+    {
+      "name": "salad",
+      "performance": "Average",
+      "star_1": 3,
+      "star_2": 9,
+      "star_3": 9,
+      "star_4": 24,
+      "star_5": 11
+    },
+    {
+      "name": "boston",
+      "performance": "Bad",
+      "star_1": 0,
+      "star_2": 4,
+      "star_3": 0,
+      "star_4": 2,
+      "star_5": 0
+    },
+    {
+      "name": "lot",
+      "performance": "Average",
+      "star_1": 0,
+      "star_2": 10,
+      "star_3": 6,
+      "star_4": 23,
+      "star_5": 11
+    },
+    {
+      "name": "starters",
+      "performance": "Average",
+      "star_1": 0,
+      "star_2": 0,
+      "star_3": 2,
+      "star_4": 6,
+      "star_5": 0
+    },
+    {
+      "name": "dessert",
+      "performance": "Average",
+      "star_1": 5,
+      "star_2": 3,
+      "star_3": 12,
+      "star_4": 31,
+      "star_5": 27
+    },
+    {
+      "name": "bellagio fountains",
+      "performance": "Good",
+      "star_1": 0,
+      "star_2": 3,
+      "star_3": 11,
+      "star_4": 30,
+      "star_5": 41
+    },
+    {
+      "name": "vacation",
+      "performance": "Average",
+      "star_1": 2,
+      "star_2": 0,
+      "star_3": 0,
+      "star_4": 3,
+      "star_5": 3
+    },
+    {
+      "name": "pricey",
+      "performance": "Good",
+      "star_1": 0,
+      "star_2": 0,
+      "star_3": 0,
+      "star_4": 7,
+      "star_5": 4
+    },
+    {
+      "name": "scallops",
+      "performance": "Average",
+      "star_1": 0,
+      "star_2": 8,
+      "star_3": 15,
+      "star_4": 19,
+      "star_5": 24
+    },
+    {
+      "name": "pastas",
+      "performance": "Good",
+      "star_1": 0,
+      "star_2": 2,
+      "star_3": 0,
+      "star_4": 7,
+      "star_5": 11
+    },
+    {
+      "name": "not",
+      "performance": "Good",
+      "star_1": 0,
+      "star_2": 0,
+      "star_3": 0,
+      "star_4": 2,
+      "star_5": 3
+    },
+    {
+      "name": "seating",
+      "performance": "Average",
+      "star_1": 2,
+      "star_2": 6,
+      "star_3": 3,
+      "star_4": 16,
+      "star_5": 7
+    },
+    {
+      "name": "way",
+      "performance": "Average",
+      "star_1": 9,
+      "star_2": 12,
+      "star_3": 11,
+      "star_4": 37,
+      "star_5": 25
+    },
+    {
+      "name": "area",
+      "performance": "Average",
+      "star_1": 0,
+      "star_2": 2,
+      "star_3": 3,
+      "star_4": 9,
+      "star_5": 3
+    },
+    {
+      "name": "fountain",
+      "performance": "Average",
+      "star_1": 2,
+      "star_2": 4,
+      "star_3": 7,
+      "star_4": 9,
+      "star_5": 7
+    },
+    {
+      "name": "experiences",
+      "performance": "Average",
+      "star_1": 0,
+      "star_2": 2,
+      "star_3": 0,
+      "star_4": 3,
+      "star_5": 2
+    },
+    {
+      "name": "caesar salad",
+      "performance": "Bad",
+      "star_1": 2,
+      "star_2": 2,
+      "star_3": 2,
+      "star_4": 2,
+      "star_5": 0
+    },
+    {
+      "name": "occasion",
+      "performance": "Average",
+      "star_1": 0,
+      "star_2": 0,
+      "star_3": 4,
+      "star_4": 2,
+      "star_5": 5
+    },
+    {
+      "name": "texture",
+      "performance": "Average",
+      "star_1": 0,
+      "star_2": 6,
+      "star_3": 5,
+      "star_4": 5,
+      "star_5": 2
+    },
+    {
+      "name": "butter",
+      "performance": "Good",
+      "star_1": 0,
+      "star_2": 2,
+      "star_3": 2,
+      "star_4": 9,
+      "star_5": 11
+    },
+    {
+      "name": "todd",
+      "performance": "Average",
+      "star_1": 0,
+      "star_2": 0,
+      "star_3": 2,
+      "star_4": 4,
+      "star_5": 0
+    },
+    {
+      "name": "dinner",
+      "performance": "Average",
+      "star_1": 11,
+      "star_2": 13,
+      "star_3": 22,
+      "star_4": 71,
+      "star_5": 57
+    },
+    {
+      "name": "bartenders",
+      "performance": "Good",
+      "star_1": 0,
+      "star_2": 2,
+      "star_3": 0,
+      "star_4": 5,
+      "star_5": 5
+    },
+    {
+      "name": "number",
+      "performance": "Average",
+      "star_1": 0,
+      "star_2": 2,
+      "star_3": 2,
+      "star_4": 3,
+      "star_5": 0
+    },
+    {
+      "name": "boy",
+      "performance": "Average",
+      "star_1": 0,
+      "star_2": 0,
+      "star_3": 2,
+      "star_4": 2,
+      "star_5": 3
+    },
+    {
+      "name": "breads",
+      "performance": "Good",
+      "star_1": 0,
+      "star_2": 0,
+      "star_3": 8,
+      "star_4": 19,
+      "star_5": 27
+    },
+    {
+      "name": "nothing",
+      "performance": "Average",
+      "star_1": 7,
+      "star_2": 15,
+      "star_3": 16,
+      "star_4": 13,
+      "star_5": 7
+    },
+    {
+      "name": "anyone",
+      "performance": "Average",
+      "star_1": 3,
+      "star_2": 5,
+      "star_3": 2,
+      "star_4": 6,
+      "star_5": 9
+    },
+    {
+      "name": "kind",
+      "performance": "Average",
+      "star_1": 2,
+      "star_2": 4,
+      "star_3": 14,
+      "star_4": 20,
+      "star_5": 9
+    },
+    {
+      "name": "cake",
+      "performance": "Average",
+      "star_1": 2,
+      "star_2": 3,
+      "star_3": 4,
+      "star_4": 9,
+      "star_5": 5
+    },
+    {
+      "name": "chance",
+      "performance": "Good",
+      "star_1": 2,
+      "star_2": 0,
+      "star_3": 2,
+      "star_4": 8,
+      "star_5": 6
+    },
+    {
+      "name": "job",
+      "performance": "Average",
+      "star_1": 0,
+      "star_2": 0,
+      "star_3": 4,
+      "star_4": 3,
+      "star_5": 2
+    },
+    {
+      "name": "description",
+      "performance": "Average",
+      "star_1": 0,
+      "star_2": 0,
+      "star_3": 2,
+      "star_4": 3,
+      "star_5": 0
+    },
+    {
+      "name": "medium",
+      "performance": "Average",
+      "star_1": 0,
+      "star_2": 3,
+      "star_3": 3,
+      "star_4": 3,
+      "star_5": 2
+    },
+    {
+      "name": "evening",
+      "performance": "Good",
+      "star_1": 0,
+      "star_2": 0,
+      "star_3": 6,
+      "star_4": 11,
+      "star_5": 12
+    },
+    {
+      "name": "come",
+      "performance": "Good",
+      "star_1": 0,
+      "star_2": 0,
+      "star_3": 0,
+      "star_4": 4,
+      "star_5": 3
+    },
+    {
+      "name": "years",
+      "performance": "Average",
+      "star_1": 0,
+      "star_2": 5,
+      "star_3": 8,
+      "star_4": 7,
+      "star_5": 11
+    },
+    {
+      "name": "sweet",
+      "performance": "Good",
+      "star_1": 0,
+      "star_2": 0,
+      "star_3": 2,
+      "star_4": 7,
+      "star_5": 3
+    },
+    {
+      "name": "steak",
+      "performance": "Average",
+      "star_1": 3,
+      "star_2": 6,
+      "star_3": 13,
+      "star_4": 18,
+      "star_5": 14
+    },
+    {
+      "name": "was",
+      "performance": "Average",
+      "star_1": 0,
+      "star_2": 0,
+      "star_3": 3,
+      "star_4": 6,
+      "star_5": 0
+    },
+    {
+      "name": "paul",
+      "performance": "Good",
+      "star_1": 0,
+      "star_2": 0,
+      "star_3": 0,
+      "star_4": 6,
+      "star_5": 6
+    },
+    {
+      "name": "attention",
+      "performance": "Average",
+      "star_1": 0,
+      "star_2": 0,
+      "star_3": 4,
+      "star_4": 4,
+      "star_5": 6
+    },
+    {
+      "name": "birthday",
+      "performance": "Good",
+      "star_1": 0,
+      "star_2": 5,
+      "star_3": 2,
+      "star_4": 13,
+      "star_5": 10
+    },
+    {
+      "name": "entree",
+      "performance": "Average",
+      "star_1": 2,
+      "star_2": 6,
+      "star_3": 9,
+      "star_4": 17,
+      "star_5": 19
+    },
+    {
+      "name": "eat",
+      "performance": "Good",
+      "star_1": 0,
+      "star_2": 2,
+      "star_3": 0,
+      "star_4": 4,
+      "star_5": 6
+    },
+    {
+      "name": "indoors",
+      "performance": "Good",
+      "star_1": 0,
+      "star_2": 0,
+      "star_3": 0,
+      "star_4": 0,
+      "star_5": 6
+    },
+    {
+      "name": "slices",
+      "performance": "Good",
+      "star_1": 0,
+      "star_2": 0,
+      "star_3": 0,
+      "star_4": 5,
+      "star_5": 4
+    },
+    {
+      "name": "wine",
+      "performance": "Average",
+      "star_1": 4,
+      "star_2": 6,
+      "star_3": 11,
+      "star_4": 25,
+      "star_5": 16
+    },
+    {
+      "name": "fish",
+      "performance": "Average",
+      "star_1": 0,
+      "star_2": 2,
+      "star_3": 4,
+      "star_4": 9,
+      "star_5": 6
+    },
+    {
+      "name": "wife",
+      "performance": "Average",
+      "star_1": 3,
+      "star_2": 3,
+      "star_3": 6,
+      "star_4": 9,
+      "star_5": 15
+    },
+    {
+      "name": "bill",
+      "performance": "Average",
+      "star_1": 7,
+      "star_2": 6,
+      "star_3": 4,
+      "star_4": 8,
+      "star_5": 4
+    },
+    {
+      "name": "lighting",
+      "performance": "Good",
+      "star_1": 0,
+      "star_2": 0,
+      "star_3": 0,
+      "star_4": 5,
+      "star_5": 0
+    },
+    {
+      "name": "house",
+      "performance": "Good",
+      "star_1": 0,
+      "star_2": 0,
+      "star_3": 0,
+      "star_4": 4,
+      "star_5": 5
+    },
+    {
+      "name": "goat cheese",
+      "performance": "Good",
+      "star_1": 0,
+      "star_2": 0,
+      "star_3": 0,
+      "star_4": 4,
+      "star_5": 3
+    },
+    {
+      "name": "olive",
+      "performance": "Average",
+      "star_1": 5,
+      "star_2": 2,
+      "star_3": 5,
+      "star_4": 12,
+      "star_5": 13
+    },
+    {
+      "name": "inside",
+      "performance": "Good",
+      "star_1": 0,
+      "star_2": 0,
+      "star_3": 5,
+      "star_4": 11,
+      "star_5": 8
+    },
+    {
+      "name": "table",
+      "performance": "Average",
+      "star_1": 6,
+      "star_2": 22,
+      "star_3": 31,
+      "star_4": 63,
+      "star_5": 52
+    },
+    {
+      "name": "went",
+      "performance": "Average",
+      "star_1": 0,
+      "star_2": 2,
+      "star_3": 6,
+      "star_4": 4,
+      "star_5": 6
+    },
+    {
+      "name": "side",
+      "performance": "Average",
+      "star_1": 3,
+      "star_2": 4,
+      "star_3": 15,
+      "star_4": 30,
+      "star_5": 15
+    },
+    {
+      "name": "sweetness",
+      "performance": "Good",
+      "star_1": 0,
+      "star_2": 0,
+      "star_3": 2,
+      "star_4": 3,
+      "star_5": 5
+    },
+    {
+      "name": "btw",
+      "performance": "Good",
+      "star_1": 0,
+      "star_2": 0,
+      "star_3": 0,
+      "star_4": 2,
+      "star_5": 3
+    },
+    {
+      "name": "times",
+      "performance": "Average",
+      "star_1": 4,
+      "star_2": 4,
+      "star_3": 9,
+      "star_4": 23,
+      "star_5": 25
+    },
+    {
+      "name": "vegas",
+      "performance": "Good",
+      "star_1": 10,
+      "star_2": 15,
+      "star_3": 11,
+      "star_4": 78,
+      "star_5": 87
+    },
+    {
+      "name": "favorite",
+      "performance": "Average",
+      "star_1": 0,
+      "star_2": 2,
+      "star_3": 0,
+      "star_4": 4,
+      "star_5": 2
+    },
+    {
+      "name": "rib",
+      "performance": "Good",
+      "star_1": 0,
+      "star_2": 2,
+      "star_3": 0,
+      "star_4": 4,
+      "star_5": 5
+    },
+    {
+      "name": "arugula",
+      "performance": "Average",
+      "star_1": 0,
+      "star_2": 0,
+      "star_3": 4,
+      "star_4": 0,
+      "star_5": 5
+    },
+    {
+      "name": "group",
+      "performance": "Good",
+      "star_1": 0,
+      "star_2": 4,
+      "star_3": 6,
+      "star_4": 21,
+      "star_5": 15
+    },
+    {
+      "name": "exception",
+      "performance": "Bad",
+      "star_1": 3,
+      "star_2": 0,
+      "star_3": 0,
+      "star_4": 0,
+      "star_5": 2
+    },
+    {
+      "name": "level",
+      "performance": "Average",
+      "star_1": 3,
+      "star_2": 0,
+      "star_3": 2,
+      "star_4": 2,
+      "star_5": 0
+    },
+    {
+      "name": "year",
+      "performance": "Average",
+      "star_1": 0,
+      "star_2": 4,
+      "star_3": 3,
+      "star_4": 0,
+      "star_5": 6
+    },
+    {
+      "name": "glasses",
+      "performance": "Average",
+      "star_1": 2,
+      "star_2": 0,
+      "star_3": 2,
+      "star_4": 3,
+      "star_5": 0
+    },
+    {
+      "name": "drink",
+      "performance": "Average",
+      "star_1": 3,
+      "star_2": 5,
+      "star_3": 2,
+      "star_4": 15,
+      "star_5": 11
+    },
+    {
+      "name": "suggestion",
+      "performance": "Good",
+      "star_1": 0,
+      "star_2": 0,
+      "star_3": 0,
+      "star_4": 3,
+      "star_5": 2
+    },
+    {
+      "name": "trips",
+      "performance": "Good",
+      "star_1": 0,
+      "star_2": 0,
+      "star_3": 0,
+      "star_4": 3,
+      "star_5": 3
+    },
+    {
+      "name": "ipad",
+      "performance": "Average",
+      "star_1": 0,
+      "star_2": 0,
+      "star_3": 5,
+      "star_4": 4,
+      "star_5": 3
+    },
+    {
+      "name": "crab",
+      "performance": "Average",
+      "star_1": 0,
+      "star_2": 2,
+      "star_3": 3,
+      "star_4": 3,
+      "star_5": 5
+    },
+    {
+      "name": "tapanade",
+      "performance": "Good",
+      "star_1": 0,
+      "star_2": 0,
+      "star_3": 0,
+      "star_4": 3,
+      "star_5": 2
+    },
+    {
+      "name": "pork chop",
+      "performance": "Average",
+      "star_1": 0,
+      "star_2": 0,
+      "star_3": 2,
+      "star_4": 3,
+      "star_5": 2
+    },
+    {
+      "name": "too",
+      "performance": "Good",
+      "star_1": 0,
+      "star_2": 0,
+      "star_3": 2,
+      "star_4": 5,
+      "star_5": 2
+    },
+    {
+      "name": "pictures",
+      "performance": "Good",
+      "star_1": 0,
+      "star_2": 0,
+      "star_3": 2,
+      "star_4": 3,
+      "star_5": 4
+    },
+    {
+      "name": "advice",
+      "performance": "Average",
+      "star_1": 0,
+      "star_2": 2,
+      "star_3": 0,
+      "star_4": 0,
+      "star_5": 4
+    },
+    {
+      "name": "lake",
+      "performance": "Average",
+      "star_1": 0,
+      "star_2": 0,
+      "star_3": 2,
+      "star_4": 2,
+      "star_5": 3
+    },
+    {
+      "name": "toppings",
+      "performance": "Good",
+      "star_1": 0,
+      "star_2": 0,
+      "star_3": 0,
+      "star_4": 3,
+      "star_5": 2
+    },
+    {
+      "name": "seafood",
+      "performance": "Average",
+      "star_1": 0,
+      "star_2": 0,
+      "star_3": 2,
+      "star_4": 3,
+      "star_5": 3
+    },
+    {
+      "name": "martinis",
+      "performance": "Good",
+      "star_1": 0,
+      "star_2": 0,
+      "star_3": 0,
+      "star_4": 5,
+      "star_5": 0
+    },
+    {
+      "name": "disappointment",
+      "performance": "Bad",
+      "star_1": 7,
+      "star_2": 5,
+      "star_3": 5,
+      "star_4": 3,
+      "star_5": 0
+    },
+    {
+      "name": "restaurant week",
+      "performance": "Average",
+      "star_1": 0,
+      "star_2": 0,
+      "star_3": 2,
+      "star_4": 4,
+      "star_5": 2
+    },
+    {
+      "name": "case",
+      "performance": "Average",
+      "star_1": 4,
+      "star_2": 0,
+      "star_3": 0,
+      "star_4": 8,
+      "star_5": 3
+    },
+    {
+      "name": "water",
+      "performance": "Average",
+      "star_1": 2,
+      "star_2": 10,
+      "star_3": 5,
+      "star_4": 6,
+      "star_5": 11
+    },
+    {
+      "name": "trip",
+      "performance": "Average",
+      "star_1": 2,
+      "star_2": 7,
+      "star_3": 4,
+      "star_4": 24,
+      "star_5": 13
+    },
+    {
+      "name": "mahi mahi",
+      "performance": "Good",
+      "star_1": 0,
+      "star_2": 0,
+      "star_3": 0,
+      "star_4": 3,
+      "star_5": 2
+    },
+    {
+      "name": "ton",
+      "performance": "Average",
+      "star_1": 0,
+      "star_2": 0,
+      "star_3": 2,
+      "star_4": 0,
+      "star_5": 3
+    },
+    {
+      "name": "pm",
+      "performance": "Average",
+      "star_1": 0,
+      "star_2": 2,
+      "star_3": 0,
+      "star_4": 3,
+      "star_5": 2
+    },
+    {
+      "name": "bland",
+      "performance": "Bad",
+      "star_1": 4,
+      "star_2": 7,
+      "star_3": 3,
+      "star_4": 4,
+      "star_5": 0
+    },
+    {
+      "name": "appetizer",
+      "performance": "Good",
+      "star_1": 0,
+      "star_2": 2,
+      "star_3": 10,
+      "star_4": 28,
+      "star_5": 28
+    },
+    {
+      "name": "chops",
+      "performance": "Average",
+      "star_1": 0,
+      "star_2": 0,
+      "star_3": 2,
+      "star_4": 3,
+      "star_5": 0
+    },
+    {
+      "name": "nyc",
+      "performance": "Average",
+      "star_1": 2,
+      "star_2": 0,
+      "star_3": 2,
+      "star_4": 4,
+      "star_5": 3
+    },
+    {
+      "name": "waters",
+      "performance": "Average",
+      "star_1": 0,
+      "star_2": 0,
+      "star_3": 2,
+      "star_4": 6,
+      "star_5": 0
+    },
+    {
+      "name": "cookies",
+      "performance": "Good",
+      "star_1": 0,
+      "star_2": 0,
+      "star_3": 0,
+      "star_4": 6,
+      "star_5": 4
+    },
+    {
+      "name": "butternut squash pasta",
+      "performance": "Good",
+      "star_1": 0,
+      "star_2": 0,
+      "star_3": 0,
+      "star_4": 3,
+      "star_5": 3
+    },
+    {
+      "name": "music",
+      "performance": "Good",
+      "star_1": 0,
+      "star_2": 0,
+      "star_3": 0,
+      "star_4": 6,
+      "star_5": 6
+    },
+    {
+      "name": "issue",
+      "performance": "Bad",
+      "star_1": 0,
+      "star_2": 4,
+      "star_3": 0,
+      "star_4": 3,
+      "star_5": 0
+    },
+    {
+      "name": "party",
+      "performance": "Average",
+      "star_1": 2,
+      "star_2": 2,
+      "star_3": 4,
+      "star_4": 10,
+      "star_5": 7
+    },
+    {
+      "name": "pizza",
+      "performance": "Average",
+      "star_1": 2,
+      "star_2": 3,
+      "star_3": 4,
+      "star_4": 9,
+      "star_5": 8
+    },
+    {
+      "name": "recommendations",
+      "performance": "Average",
+      "star_1": 0,
+      "star_2": 0,
+      "star_3": 2,
+      "star_4": 3,
+      "star_5": 2
+    },
+    {
+      "name": "stars",
+      "performance": "Average",
+      "star_1": 5,
+      "star_2": 9,
+      "star_3": 15,
+      "star_4": 26,
+      "star_5": 13
+    },
+    {
+      "name": "saturday",
+      "performance": "Good",
+      "star_1": 0,
+      "star_2": 0,
+      "star_3": 0,
+      "star_4": 4,
+      "star_5": 2
+    },
+    {
+      "name": "order",
+      "performance": "Average",
+      "star_1": 7,
+      "star_2": 17,
+      "star_3": 12,
+      "star_4": 29,
+      "star_5": 18
+    },
+    {
+      "name": "tart",
+      "performance": "Good",
+      "star_1": 0,
+      "star_2": 0,
+      "star_3": 0,
+      "star_4": 2,
+      "star_5": 4
+    },
+    {
+      "name": "outdoors",
+      "performance": "Good",
+      "star_1": 0,
+      "star_2": 0,
+      "star_3": 0,
+      "star_4": 3,
+      "star_5": 2
+    },
+    {
+      "name": "person",
+      "performance": "Average",
+      "star_1": 2,
+      "star_2": 0,
+      "star_3": 3,
+      "star_4": 4,
+      "star_5": 5
+    },
+    {
+      "name": "misters",
+      "performance": "Good",
+      "star_1": 0,
+      "star_2": 0,
+      "star_3": 0,
+      "star_4": 5,
+      "star_5": 0
+    },
+    {
+      "name": "plenty",
+      "performance": "Average",
+      "star_1": 0,
+      "star_2": 3,
+      "star_3": 2,
+      "star_4": 3,
+      "star_5": 5
+    },
+    {
+      "name": "opinion",
+      "performance": "Average",
+      "star_1": 0,
+      "star_2": 0,
+      "star_3": 2,
+      "star_4": 5,
+      "star_5": 0
+    },
+    {
+      "name": "mention",
+      "performance": "Good",
+      "star_1": 0,
+      "star_2": 0,
+      "star_3": 0,
+      "star_4": 2,
+      "star_5": 3
+    }
+  ]
+}

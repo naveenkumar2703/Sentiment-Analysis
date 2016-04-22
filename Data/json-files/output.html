@@ -1,0 +1,260 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title>Sentiment analysis project</title>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/d3/3.5.16/d3.min.js"></script>
+    <link href='https://fonts.googleapis.com/css?family=Open+Sans' rel='stylesheet' type='text/css'>
+    <style>
+    
+      .axis text {
+        font-family: 'Open Sans', sans-serif;
+        font-size: 16pt;
+      }
+      .axis .label {
+        font-size: 20pt;
+      }
+
+      .axis path, .axis line {
+        fill: none;
+        stroke: #000;
+        shape-rendering: crispEdges;
+      }
+
+      .x.axis text {
+        font-size: 12pt;
+      }
+
+    </style>
+  </head>
+  <body>
+    <h1>Business feedback based on user reviews</h1>
+    <form action="action_page.php" method="get">
+      <output>Select a business: </output>
+      <input list="business_id" name="business_id" oninput="onSelectBusiness(this.value)" style="width:250px;">
+      <datalist id="business_id">
+      </datalist>
+    
+    
+    <h2>Features of selected business</h2>
+      <table id="features_table" border="1" width = "75%">
+          <tr>
+    <th>Good</th>
+    <th>Bad</th> 
+    <th>Average</th>
+  </tr>
+  <tr>
+    <td>Select a business to display features</td>
+    <td>Select a business to display features</td> 
+    <td>Select a business to display features</td>
+  </tr>
+      </table>
+      <br/>
+      <output>Select a feature: </output>
+      <input list="feature_id" name="feature_id" oninput="onSelectFeature(this.value)" style="width:250px;">
+      <datalist id="feature_id">
+      </datalist>
+      <br/>
+</form>
+    <script>
+    window.onload = function(){
+        var business_list_file = "file:///Users/naveenkumar2703/GitHub/Sentiment-Analysis/Data/json-files/very_popular_business.txt";
+   
+        var business_ids = getFile(business_list_file).split(" ");
+        //alert(business_ids);
+        var business_drop_down = document.getElementById("business_id"); 
+        for (var itr=0; itr<business_ids.length; itr++)
+        {
+                var optn = document.createElement("option");
+                optn.textContent = business_ids[itr];
+                optn.value = business_ids[itr];
+                //alert('appending'+business_ids[itr]);
+                business_drop_down.appendChild(optn);
+        }
+
+
+}
+
+function getFile(file){
+    var rawFile = new XMLHttpRequest();
+    rawFile.open("GET", file, false);
+    var allText;
+    rawFile.onreadystatechange = function ()
+    {
+        if(rawFile.readyState === 4)
+        {
+            if(rawFile.status === 200 || rawFile.status == 0)
+            {
+                allText = rawFile.responseText;
+            }
+        }
+    }
+    rawFile.send(null);
+    return allText;
+}
+      var outerWidth = 500;
+      var outerHeight = 250;
+      var margin = { left: 40, top: 30, right: 30, bottom: 30 };
+      var barPadding = 0.2;
+
+      var xColumn = "rating";
+      var yColumn = "count";
+
+      var innerWidth  = outerWidth  - margin.left - margin.right;
+      var innerHeight = outerHeight - margin.top  - margin.bottom;
+
+      var svg = d3.select("body").append("svg")
+        .attr("width",  outerWidth)
+        .attr("height", outerHeight);
+      var g = svg.append("g")
+        .attr("transform", "translate(" + margin.left + "," + margin.top + ")");
+      var xAxisG = g.append("g")
+        .attr("class", "x axis")
+        .attr("transform", "translate(0," + innerHeight + ")");
+      var yAxisG = g.append("g")
+        .attr("class", "y axis");
+
+      var xScale = d3.scale.ordinal().rangeBands([0, innerWidth], barPadding);
+      var yScale = d3.scale.linear().range([innerHeight, 0]);
+      var colorScale = d3.scale.category10();
+      //colorScale.range(["#009900","#00ff00","#ffff00","#ff751a","#e60000"]);
+
+      var xAxis = d3.svg.axis().scale(xScale).orient("bottom")
+        .outerTickSize(0);
+      var yAxis = d3.svg.axis().scale(yScale).orient("left")
+        .ticks(5)
+        .outerTickSize(0);
+        var feature_obj = null;
+
+      function render(data){
+
+        xScale.domain(       data.map( function (d){ return d[xColumn]; }));
+        yScale.domain([0, d3.max(data, function (d){ return d[yColumn]; })]);
+
+        xAxisG.call(xAxis);
+        yAxisG.call(yAxis);
+
+        var bars = g.selectAll("rect").data(data);
+        bars.enter().append("rect")
+          .attr("width", xScale.rangeBand());
+        bars
+          .attr("x",      function (d){ return               xScale(d[xColumn]); })
+          .attr("y",      function (d){ return               yScale(d[yColumn]); })
+          .attr("height", function (d){ return innerHeight - yScale(d[yColumn]); })
+          .attr("fill", function (d){ return colorScale(d[yColumn]); });
+        bars.exit().remove();
+      }
+
+      function onSelectBusiness(business_id){
+        //alert('selected'+business_id);
+        var business_feature_file = "file:///Users/naveenkumar2703/GitHub/Sentiment-Analysis/Data/json-files/"+business_id+".json";
+        //alert('openeing'+business_feature_file);
+        var features = getFile(business_feature_file);
+        feature_obj = null;
+        feature_obj = JSON.parse(features);
+        //alert(feature_obj);
+        var goodFeatures = new Array();
+        var avgFeatures = new Array();
+        var badFeatures = new Array();
+        var feature_drop_down = document.getElementById("feature_id"); 
+        features_table = document.getElementById("features_table");
+        features_table.deleteRow(0); 
+        features_table.deleteRow(0);//deleting two rows. not duplicate 
+        header = features_table.createTHead();
+        var headerRow = header.insertRow(0);
+        var cell0 = headerRow.insertCell(0);
+        cell0.innerHTML = "<b>Good</b>";
+        var cell1 = headerRow.insertCell(1);
+        cell1.innerHTML = "<b>Bad</b>";
+        var cell2 = headerRow.insertCell(2);
+        cell2.innerHTML = "<b>Average</b>";
+        var row = features_table.insertRow(1);
+        var cell1 = row.insertCell(0);
+        var cell2 = row.insertCell(1);
+        var cell3 = row.insertCell(2);
+        var goodText = "";
+        var badText = "";
+        var avgText = "";
+        document.getElementById("feature_id").innerHTML = "";
+        for (var itr=0; itr < feature_obj.features.length; itr++)
+        {
+             var optn = document.createElement("option");
+                optn.textContent = feature_obj.features[itr].name;
+                optn.value = feature_obj.features[itr].name;
+                //alert('appending '+feature_obj.features[itr].name+" "+feature_obj.features[itr].performance);
+                feature_drop_down.appendChild(optn);
+                
+                if(feature_obj.features[itr].performance == "Good")
+                {
+                    goodFeatures[goodFeatures.length] = feature_obj.features[itr].name;
+                    if(goodText.length == 0)
+                    {
+                        goodText = feature_obj.features[itr].name;
+                    }
+                    else
+                    {
+                        goodText = goodText+', '+feature_obj.features[itr].name;
+                    }
+                }
+                else if(feature_obj.features[itr].performance == "Bad")
+                {
+                    badFeatures[badFeatures.length] = feature_obj.features[itr].name;
+                    if(badText.length == 0)
+                    {
+                        badText = feature_obj.features[itr].name;
+                    }
+                    else
+                    {
+                        badText = badText+', '+feature_obj.features[itr].name;
+                    }
+                }
+                else
+                {
+                    avgFeatures[avgFeatures.length] = feature_obj.features[itr].name;
+                    if(avgText.length == 0)
+                    {
+                        avgText = feature_obj.features[itr].name;
+                    }
+                    else
+                    {
+                        avgText = avgText+', '+feature_obj.features[itr].name;
+                    }
+                }
+          }
+          //document.getElementById("features_table").deleteRow(1); 
+          cell1.innerHTML = goodText
+          cell2.innerHTML = badText
+           cell3.innerHTML = avgText
+          //alert(features_table.rows)
+      }
+      
+      function onSelectFeature(feature_id){
+        //alert('selected'+feature_id);
+        //alert(feature_obj);
+        var feature_value_for_id = null;
+        for (var itr = 0; itr < feature_obj.features.length; itr++)
+        {
+            if(feature_obj.features[itr].name == feature_id)
+            {
+                feature_value_for_id = feature_obj.features[itr];
+                break;
+            }
+        }
+       var star1 = parseFloat(feature_value_for_id.star_1); 
+       var star2 = parseFloat(feature_value_for_id.star_2); 
+       var star3 = parseFloat(feature_value_for_id.star_3); 
+       var star4 = parseFloat(feature_value_for_id.star_4); 
+       var star5 = parseFloat(feature_value_for_id.star_5); 
+       var data_text = [{"rating":"Excellent","count":star5},{"rating":"Good","count":star4},{"rating":"Average","count":star3},{"rating":"Bad","count":star2}, {"rating":"Poor","count":star1}];
+        render(data_text);
+        
+      }
+
+      
+      
+       
+
+    </script>
+
+  </body>
+</html>

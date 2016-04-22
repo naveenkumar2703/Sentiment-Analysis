@@ -46,7 +46,7 @@ def getWordsWithCondition(wordFrequencyList):
              else:
                  dictCount[i]=0
                  
-         if noOfStars >= 5 or (noOfDict < 3 and noOfStars > 1):
+         if noOfStars >= 5: # or (noOfDict < 3 and noOfStars > 2):
              wordsWithCondition[key]=dictCount
             
 		
@@ -104,7 +104,7 @@ def createJson(wordFrequencyList,fileName):
 #fileName="yTz8_GylkgCkuiBjSz8mIQ.txt"
 print("Processing Popular Business")
 #popularBusinessPath="C:\Users\samee\Desktop\ILS z 604\Senti Proj\Data\Popular business"
-popularBusinessPath="/Users/naveenkumar2703/GitHub/Sentiment-Analysis/Data/Temp3/"
+popularBusinessPath="/Users/naveenkumar2703/GitHub/Sentiment-Analysis/Data/Temp/"
 #path="C:\Users\samee\Desktop\ILS z 604\Senti Proj\Data\Popular business\yTz8_GylkgCkuiBjSz8mIQ.txt"  #Path for popular business
 for fileName in os.listdir(popularBusinessPath):
     if not fileName.endswith(".txt"):
