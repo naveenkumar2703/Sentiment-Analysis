@@ -6,8 +6,10 @@ from nltk import word_tokenize
 import os
 
 def extract_business_review():
-    #extracts business_id and its associated reviews in order to bewritten into a file, taking its business_id as the filename
-    Ei=0
+    """extract business_id and its associated reviews and correspending star
+    
+    JSON -> None"""
+    i=0
     with open('yelp_academic_dataset_review.json') as file:
         for line in file:
             #i+=1
