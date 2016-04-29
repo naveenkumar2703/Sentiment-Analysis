@@ -32,11 +32,11 @@ def extractBusinessIdReview():
 
    
 def extractedDictOfWordsFreq(srcFolder):
+    """returns a dict that has key as(star) and value as(word:freq)
     
+    str -> dict"""
     for fname in os.listdir(srcFolder):
         try:
-##            with open("C:/Users/hassan/Desktop/" + fname, "a") as dest:
-##                dest.write(str(fname) + '\n')
             dict_words_freq={}
             for line in open(os.path.join(srcFolder, fname)):
                 key=line.split()[0]
@@ -52,19 +52,17 @@ def extractedDictOfWordsFreq(srcFolder):
                         else:
                             dict_words_freq[key][word]+=1
             return dict_words_freq
-##                dest.write(str(d))       
         except UnicodeDecodeError:
             continue
 
 def main():
-    
+    #Called the above functions
     print("...Filtering the data...")
     srcFolder = 'filePath'
-
     extractedDictOfWordsFreq(srcFolder)
 
     print("...Done...")
 ##    extractBusinessIdReview()   
 if __name__=="__main__":
-    #called the main function
+    #Called the main function
     main()
